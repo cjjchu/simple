@@ -1,0 +1,58 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/simple",
+    "database": "simple",
+    "name": "mongodb",
+    "connector": "mongodb"
+  },
+  "db2": {
+    "port": 50000,
+    "database": "simpledb",
+    "username": "cdladmin",
+    "password": "IBM22ibm",
+    "name": "db2",
+    "hostname": "9.111.212.250",
+    "connector": "db2"
+  },
+  "emailds": {
+    "name": "emailds",
+    "connector": "mail",
+    "transports": [
+      {
+        "type": "smtp",
+        "host": "the email host",
+        "secure": false,
+        "port": 25,
+        "auth": {
+          "user": "your email",
+          "pass": "your pass"
+        }
+      }
+    ]
+  },
+  "emailDs": {
+    "name": "emailDs",
+    "connector": "mail",
+    "transports": [
+      {
+        "type": "smtp",
+        "host": "smtp.gmail.com",
+        "secure": true,
+        "port": 465,
+        "tls": {
+          "rejectUnauthorized": false
+        },
+        "auth": {
+          "user": "email@address.com",
+          "pass": "password"
+        }
+      }
+    ]
+  }
+}
