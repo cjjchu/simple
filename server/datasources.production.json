@@ -1,0 +1,11 @@
+{
+  "mydashdb": {
+    "hostname": "dashdb-txn-small-yp-dal09-37.services.dal.bluemix.net",
+    "port": 50000,
+    "database": "BLUDB",
+    "username": "bluadmin",
+    "password": "MmEyYTJhOTk3ZmZk",
+    "name": "mydashdb",
+    "connector": "db2"
+  }
+}

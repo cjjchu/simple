@@ -1,0 +1,40 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "push": {
+    "name": "push",
+    "connector": "loopback-component-push",
+    "installation": "Install",
+    "notification": "Notify",
+    "application": "App"
+  },
+  "db2old": {
+    "hostname": "9.111.212.250",
+    "port": 50000,
+    "database": "simpledb",
+    "username": "cdladmin",
+    "password": "IBM22ibm",
+    "name": "db2",
+    "connector": "db2"
+  },
+  "db2": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/simple",
+    "database": "simple",
+    "name": "mongodb",
+    "connector": "mongodb"
+  },
+  "db2o": {
+    "port": 50000,
+    "database": "simpledb",
+    "username": "cdladmin",
+    "password": "IBM22ibm",
+    "name": "db2",
+    "hostname": "9.111.212.250",
+    "connector": "db2"
+  }
+
+}

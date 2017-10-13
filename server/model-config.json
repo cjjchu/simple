@@ -1,0 +1,116 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "User": {
+    "dataSource": "db",
+    "public": false
+  },
+  "AccessToken": {
+    "dataSource": "db",
+    "public": false
+  },
+  "ACL": {
+    "dataSource": "db",
+    "public": false
+  },
+  "RoleMapping": {
+    "dataSource": "db",
+    "public": false
+  },
+  "Role": {
+    "dataSource": "db",
+    "public": false
+  },
+  "Account": {
+    "dataSource": "db2",
+    "public": true
+  },
+  "Wish": {
+    "dataSource": "db2",
+    "public": true
+  },
+  "Notice": {
+    "dataSource": "db2",
+    "public": true
+  },
+  "UserNotice": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "Relation": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "Apar": {
+    "dataSource": "db2",
+    "public": true
+  },
+  "Ptf": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "Pe": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "Mepl": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "MeplItem": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "Fix": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "Comment": {
+    "dataSource": "db2",
+    "public": true
+  },
+  "App": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "Install": {
+    "dataSource": "db2",
+    "public": true
+  },
+  "Notify": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "push": {
+    "dataSource": "push",
+    "public": true
+  },
+  "Tag": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "AparTag": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "UserTag": {
+    "dataSource": "db2",
+    "public": false
+  },
+  "Search": {
+    "dataSource": "db",
+    "public": true
+  }
+}

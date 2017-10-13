@@ -1,0 +1,11 @@
+applications:
+- path: .
+  memory: 1024M
+  instances: 1
+  domain: mybluemix.net
+  name: zAdvisor
+  host: zAdvisor
+  disk_quota: 1024M
+
+  services:
+  - dashDB-rR822

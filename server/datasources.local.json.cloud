@@ -1,0 +1,11 @@
+{
+  "mydashdb": {
+    "hostname": "bluemix05.bluforcloud.com",
+    "port": 50000,
+    "database": "BLUDB",
+    "username": "dash019403",
+    "password": "9CqWUwbvAYoy",
+    "name": "mydashdb",
+    "connector": "db2"
+  }
+}
