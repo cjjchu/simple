@@ -1,19 +1,34 @@
 'use strict';
-
+var bodyParser = require('body-parser');
 var loopback = require('loopback');
 var boot = require('loopback-boot');
 var path = require('path');
 var cookieParser = require('cookie-parser');
+var flash = require('connect-flash');
 
 var app = module.exports = loopback();
 // configure view handler
 app.set('view engine', 'ejs');
-app.set('views', path.join(__dirname, 'views'));
+app.set('views', path.join(__dirname, 'public/views'));
 //app.use(loopback.token());
+
+
+
+app.use(cookieParser('simple'));
+
+app.use(loopback.token());
+
+//app.use(flash());//flash中间件
+
+app.locals.blog = {
+  title: "asd",
+  description: "ads"
+};
+app.middleware('initial', bodyParser.urlencoded({ extended: true }));
+
 
 require("./routes/routes")(app);
 
-app.use(cookieParser('simple'));
 
 app.start = function() {
   // start the web server
@@ -27,10 +42,6 @@ app.start = function() {
     }
   });
 };
-
-
-
-
 
 // Bootstrap the application, configure models, datasources and middleware.
 // Sub-apps like REST API are mounted via boot scripts.

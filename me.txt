@@ -1,0 +1,5 @@
+
+添加了flash组件
+server.js
+var flash = require('connect-flash');
+app.use(flash());
