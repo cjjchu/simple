@@ -1,15 +1,8 @@
 {
   "db": {
     "name": "db",
-    "connector": "memory"
-  },
-  "mongodb": {
-    "host": "localhost",
-    "port": 27017,
-    "url": "mongodb://localhost:27017/simple",
-    "database": "simple",
-    "name": "mongodb",
-    "connector": "mongodb"
+    "connector": "memory",
+    "file": "data.db"
   },
   "db2": {
     "port": 50000,

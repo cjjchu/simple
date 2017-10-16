@@ -1,0 +1,27 @@
+{
+  "ids": {
+    "User": 1,
+    "AccessToken": 1,
+    "ACL": 1,
+    "RoleMapping": 2,
+    "Role": 2,
+    "Message": 1,
+    "Luser": 3
+  },
+  "models": {
+    "User": {},
+    "AccessToken": {},
+    "ACL": {},
+    "RoleMapping": {
+      "1": "{\"principalType\":\"USER\",\"principalId\":\"2\",\"roleId\":1,\"id\":1}"
+    },
+    "Role": {
+      "1": "{\"name\":\"admin\",\"created\":\"2017-10-16T03:24:30.644Z\",\"modified\":\"2017-10-16T03:24:30.644Z\",\"id\":1}"
+    },
+    "Message": {},
+    "Luser": {
+      "1": "{\"username\":\"a\",\"password\":\"$2a$10$cVCKQT5hRYVf79ltNmsCr.9MwUfCjwX1.zJlswZ/al8rr9TH7fVXC\",\"email\":\"a@a.com\",\"id\":1}",
+      "2": "{\"username\":\"admin\",\"password\":\"$2a$10$b8nj6kg6DB3ncRF5u.ze1eZSRW8ES69hi9W57JBh3Xn8xPb1xXJBe\",\"email\":\"admin@e.com\",\"emailVerified\":true,\"id\":2}"
+    }
+  }
+}

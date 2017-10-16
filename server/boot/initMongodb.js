@@ -1,9 +1,25 @@
 module.exports = function(app) {
-  var mongoDs = app.dataSources.mongodb;
+
+  /*
+  *
+"mongodb": {
+  "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/simple",
+    "database": "simple",
+    "name": "mongodb",
+    "connector": "mongodb"
+},
+*/
+
+
+  var mongoDs = app.dataSources.db;
   var Luser = app.models.Luser;
   var Role = app.models.Role;
   var RoleMapping = app.models.RoleMapping;
  var AccessToken=app.models.AccessToken;
+
+
 
   // mongoDs.automigrate('AccessToken', function(err){
   //   if(err) throw err;
@@ -123,3 +139,4 @@ module.exports = function(app) {
 //     });
 //   });
 // };
+

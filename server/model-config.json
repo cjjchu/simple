@@ -14,33 +14,33 @@
     ]
   },
   "User": {
-    "dataSource": "mongodb",
+    "dataSource": "db",
     "public": false
   },
   "AccessToken": {
-    "dataSource": "mongodb",
+    "dataSource": "db",
     "public": false
   },
   "ACL": {
-    "dataSource": "mongodb",
+    "dataSource": "db",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "mongodb",
+    "dataSource": "db",
     "public": false,
     "options": {
       "strictObjectIDCoercion": true
     }
   },
   "Role": {
-    "dataSource": "mongodb",
+    "dataSource": "db",
     "public": false
   },
   "Message": {
-    "dataSource": null
+    "dataSource": "db"
   },
   "Luser": {
-    "dataSource": "mongodb",
+    "dataSource": "db",
     "public": true
   }
 }
