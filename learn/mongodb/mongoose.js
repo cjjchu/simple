@@ -12,20 +12,8 @@ const loginSchema = mongoose.Schema({
     account : String,
     password : String
 });
-
-/************** 定义模型Model **************/
-const Models = {
-    Login : mongoose.model('Login',loginSchema)
+var dbarr=[]
+for(let  i =0;i<1000;i++){
+  dbarr[i]=mongoose.connection
+  console.log('create')
 }
-var module=new Models.Login({
-    account:'asd',
-})
-module.save(function (err) {
-    if(err){
-        console.log('err')
-    }
-    console.log('success')
-})
-module.findOne()
-
-module.exports = Models;

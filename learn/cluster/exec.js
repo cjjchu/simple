@@ -1,6 +1,6 @@
 const child_process = require('child_process');
 const p = child_process.exec(
-  'node child.js a b', // 执行的命令
+  'node parent.js ', // 执行的命令
   {},
   (err, stdout, stderr) => {
     if (err) {

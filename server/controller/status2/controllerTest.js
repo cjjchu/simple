@@ -1,87 +1,55 @@
 const db2 = require('../db2/db2pool');
-const getmepls = require('./getmepls');
+
+const getmepls = require('./getmepls').getmepls;
 const getmeplitems = require('./getmeplitems').getmeplitems;
 const getrelationsnoptf = require('./getrelations').getrelationsnoptfid;
 const async = require('async');
 var fs = require('fs')
 
-function controlle(meplid, release, calllbackall) {
-  let c=0;
-  console.time("spend time:")
 
+
+
+
+function controlle(meplid, release, calllbackall) {
+  let coun=0;
+  console.time("spend time:")
   getmeplitems(meplid, function (meplitems) {
     console.log("mepl number:"+meplitems.length)
-    // meplitems.forEach(function(element,index,as){
-    //  if( element.PTFID==null){
-    //    console.log(c++)
-    //    element.PTFID="111";
-    //    // element.MODULE="abc";
-    //  }
-    // })
-    // console.log(meplitems.length)
-    //
-    // meplitems=fs.readFileSync('./mdptf.json','utf8')
-    // meplitems=JSON.parse(meplitems)
-    // console.log(meplitems.length)
-
-
-    fs.writeFile('./meplitems.json', JSON.stringify(meplitems), function (err, data) {
-    })
-    // meplitems = meplitems.slice(1, 1000);
     let resuarr = [];
-    async.mapLimit(meplitems, 20, function (it1, callback1) {
-      getrelationsnoptf(it1.MODULE, it1.PTFID, release, function (relations) {
-        if (relations != null) {
-          process.stdout.write('.')
-          resuarr.push(...relations)
-          callback1();
-        } else {
-          callback1();
-        }
-      });
-    }, function (err, relationsall) {
-      if (err) {
-        console.log(err);
-        return
-      }
-      console.log()
-      console.timeEnd("spend time:")
+    console.log(meplitems[0])
+    console.timeEnd("spend time:")
 
-      calllbackall(resuarr)
-    });
   });
 }
 
 function getHiper(meplid, release, callbackall) {
-
   controlle(meplid, release, function (data) {
     if (data == null || data.length == 0) {
       callbackall('No such data found')
     } else {
       readptfsame(data, function (data1) {
-        callbackall(null, data1);
         console.log('hiper number:' + data1.length);
-
+        callbackall(null, data1);
       })
     }
   })
-  // fs.readFile('./sameptfresult.json', 'utf8', function (err, data) {
-  //   if(err){
-  //     console.log(err)
-  //     callbackall(err)
-  //   }else {
-  //   }
-  // })
 }
 
 //测试对外接口
-// let meplid='5815';
+// let meplid='5877';
 // let release='A'
 // getHiper(meplid,release,function (err,data) {
 //   if(err){console.log(err);return}
-//   console.log(data)
+//   // console.log(data)
 //   console.log(data.length)
 // })
+
+
+
+getmepls('AVMEV2672',function (data) {
+  console.log(data)
+})
+
 
 
 //去掉重复ptf

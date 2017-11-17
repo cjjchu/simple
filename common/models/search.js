@@ -3,8 +3,8 @@
 const co = require('co');
 const app = require('../../server/server');
 const fs = require('fs');
-const logger = require('../utils/logHelper').helper;
-const errorHelper = require('../utils/errorHelper').helper;
+const logger = require('../../server/utils/logHelper').helper;
+const errorHelper = require('../../server/utils/logHelper').helper;
 const VError = require('verror');
 
 module.exports = (Search) => {

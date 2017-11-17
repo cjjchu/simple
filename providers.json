@@ -9,6 +9,20 @@
     "failureRedirect": "/local",
     "failureFlash": true
   },
+  "idssa": {
+    "provider": "isdssa",
+    "module": "passport-google-oauth",
+    "strategy": "OAuth2Strategy",
+    "clientID": "{google-client-id-1}",
+    "clientSecret": "{google-client-secret-1}",
+    "callbackURL": "/auth/google/callback",
+    "authPath": "/auth/google",
+    "callbackPath": "/auth/google/callback",
+    "successRedirect": "/auth/account",
+    "failureRedirect": "/login",
+    "scope": ["email", "profile"],
+    "failureFlash": true
+  },
   "ldap": {
     "provider": "ldap",
     "authScheme":"ldap",

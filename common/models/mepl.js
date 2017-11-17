@@ -9,7 +9,7 @@
  * @ignore  =====================================================================================
  */
 
-require('../utils/date-format');
+require('../../server/utils/date-format');
 const co = require('co');
 // var async = require('async');
 // var parallel = require('co-parallel');
@@ -17,10 +17,10 @@ const Promise = require('bluebird');
 const fs = require('fs');
 const app = require('../../server/server');
 const loopback = require('loopback');
-const db2 = require('../utils/db2');
+const db2 = require('../../server/utils/db2');
 const VError = require('verror');
-const logger = require('../utils/logHelper').helper;
-const errorHelper = require('../utils/errorHelper').helper;
+const logger = require('../../server/utils/logHelper').helper;
+const errorHelper = require('../../server/utils/logHelper').helper;
 
 module.exports = (Mepl) => {
   Mepl.disableRemoteMethod('find', true);

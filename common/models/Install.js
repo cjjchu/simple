@@ -11,8 +11,8 @@
 
 const co = require('co');
 const VError = require('verror');
-const logger = require('../utils/logHelper').helper;
-const errorHelper = require('../utils/errorHelper').helper;
+const logger = require('../../server/utils/logHelper').helper;
+const errorHelper = require('../../server/utils/logHelper').helper;
 
 module.exports = (Install) => {
   // disable find

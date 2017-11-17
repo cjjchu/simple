@@ -1,14 +1,22 @@
-'use strict'
+'use strict';
 
 var dsConfig = require('../datasources.json');
-var path = require('path');
 var login = require('../controller/action/login');
+var  status = require('../controller/action/status');
+var ftp = require('../controller/action/ftpaction');
+var multipart = require('connect-multiparty');
+var multipartMiddleware = multipart({uploadDir:'./server/public/tmp'});
 
 
 module.exports = function(app) {
-  var Luser = app.models.Luser;
 
-  //  login page
+  var Luser = app.models.Luser;
+  /*
+  * ===================================
+  *           login route
+  *
+  * ===================================
+  * */
   app.get('/login', function(req, res) {
     var credentials = dsConfig.emailDs.transports[0].auth;
     res.render('login', {
@@ -16,9 +24,7 @@ module.exports = function(app) {
       password: credentials.pass,
     });
   });
-  app.use('/loginsub',login.loginsub)
-
-
+  app.use('/loginsub', login.loginsub);
 
   app.get('/', function(req, res) {
     res.render('login_');
@@ -30,8 +36,6 @@ module.exports = function(app) {
       res.redirect('/');
     });
   });
-
- // app.post('login', login);
   app.use('/main', function(req, res) {
     res.render('home_');
   });
@@ -39,9 +43,26 @@ module.exports = function(app) {
     console.log('sign');
     res.render('sign_');
   });
-
+/*
+* ===================================
+*          GET status
+*
+* ===================================
+* */
+  app.use('/requestStatus', status.get);
+  app.use('/resultfrommepl', status.getmeplresult);
   app.get('/flash', function(req, res) {
     req.flash('success', 'flash success');
   });
 
+  /*
+  * ===================================
+  *          ftp function
+  *
+  * ===================================
+  * */
+  app.use('/fileupload', multipartMiddleware, ftp.fromftp);
+  app.use('/ftpresult',ftp.listftp)
+  app.use('/downftp',ftp.down)
+  app.use('./ftpdelete',ftp.ftpdelete)
 };

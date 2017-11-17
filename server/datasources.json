@@ -2,7 +2,7 @@
   "db": {
     "name": "db",
     "connector": "memory",
-    "file": "data.db"
+    "file": "../data.json"
   },
   "db2": {
     "port": 50000,
@@ -13,39 +13,19 @@
     "hostname": "9.111.212.250",
     "connector": "db2"
   },
-  "emailds": {
-    "name": "emailds",
-    "connector": "mail",
-    "transports": [
-      {
-        "type": "smtp",
-        "host": "the email host",
-        "secure": false,
-        "port": 25,
-        "auth": {
-          "user": "your email",
-          "pass": "your pass"
-        }
-      }
-    ]
+  "push": {
+    "name": "push",
+    "connector": "loopback-component-push",
+    "installation": "Install",
+    "notification": "Notify",
+    "application": "App"
   },
-  "emailDs": {
-    "name": "emailDs",
-    "connector": "mail",
-    "transports": [
-      {
-        "type": "smtp",
-        "host": "smtp.gmail.com",
-        "secure": true,
-        "port": 465,
-        "tls": {
-          "rejectUnauthorized": false
-        },
-        "auth": {
-          "user": "email@address.com",
-          "pass": "password"
-        }
-      }
-    ]
+  "mongodb": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost:27017/simple",
+    "database": "simple",
+    "name": "mongodb",
+    "connector": "mongodb"
   }
 }

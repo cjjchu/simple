@@ -13,34 +13,117 @@
       "./mixins"
     ]
   },
-  "User": {
-    "dataSource": "db",
-    "public": false
-  },
   "AccessToken": {
-    "dataSource": "db",
-    "public": false
-  },
-  "ACL": {
-    "dataSource": "db",
-    "public": false
-  },
-  "RoleMapping": {
-    "dataSource": "db",
-    "public": false,
-    "options": {
-      "strictObjectIDCoercion": true
-    }
-  },
-  "Role": {
-    "dataSource": "db",
+    "dataSource": "mongodb",
     "public": false
   },
   "Message": {
-    "dataSource": "db"
+    "dataSource": "mongodb",
+    "public": true
   },
   "Luser": {
-    "dataSource": "db",
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "Hiper": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+
+  "User": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "ACL": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "RoleMapping": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Role": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Account": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "Wish": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "Notice": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "UserNotice": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Relation": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Apar": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "Ptf": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Pe": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Mepl": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "MeplItem": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Fix": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Comment": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "App": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Install": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "Notify": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "push": {
+    "dataSource": "push",
+    "public": true
+  },
+  "Tag": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "AparTag": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "UserTag": {
+    "dataSource": "mongodb",
+    "public": false
+  },
+  "Search": {
+    "dataSource": "mongodb",
     "public": true
   }
 }

@@ -4,8 +4,8 @@ const VError = require('verror');
 const app = require('../../server/server');
 const assert = require('assert');
 const co = require('co');
-const logger = require('../utils/logHelper').helper;
-const errorHelper = require('../utils/errorHelper').helper;
+const logger = require('../../server/utils/logHelper').helper;
+const errorHelper = require('../../server/utils/logHelper').helper;
 
 module.exports = (Wish) => {
   Wish.disableRemoteMethod('find', true);

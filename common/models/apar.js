@@ -14,8 +14,8 @@ const VError = require('verror');
 const co = require('co');
 const async = require('async');
 const _ = require('lodash');
-const logger = require('../utils/logHelper').helper;
-const errorHelper = require('../utils/errorHelper').helper;
+const logger = require('../../server/utils/logHelper').helper;
+const errorHelper = require('../../server/utils/logHelper').helper;
 
 module.exports = (Apar) => {
   Apar.disableRemoteMethod('find', true);

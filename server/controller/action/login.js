@@ -11,33 +11,18 @@
    var RoleMapping = app.models.RoleMapping;
    var AccessToken = app.models.AccessToken;
    var TWO_WEEKS = 60 * 60 * 24 * 7 * 2;
-
-/*  User.login({
-    email: 'me@domain.com',           // must provide email or "username"
-    password: 'secret',               // required by default
-    ttl: TWO_WEEKS                    // keep the AccessToken alive for at least two weeks
-  }, function (err, accessToken) {
-    console.log(accessToken.id);      // => GOkZRwg... the access token
-    console.log(accessToken.ttl);     // => 1209600 time to live
-    console.log(accessToken.created); // => 2013-12-20T21:10:20.377Z
-    console.log(accessToken.userId);  // => 1
-  }); */
-
-   console.log(req.body.email);
-   console.log(req.body.password);
+   console.log("login:"+req.body.email+'password:'+req.body.password);
    Luser.login({
      email: req.body.email,
      password: req.body.password,
      ttl: TWO_WEEKS,
    }, 'Luser', function(err, token) {
-     console.log(token);
-
+     console.log('token:'+token);
  //   var accessToken=token;
     // console.log(accessToken.id);      // => GOkZRwg... the access token
     // console.log(accessToken.ttl);     // => 1209600 time to live
     // console.log(accessToken.created); // => 2013-12-20T21:10:20.377Z
     // console.log(accessToken.userId);  // => 1
-
      if (err) {
        return  res.render('login_', {message: 'login err'});
      } else {

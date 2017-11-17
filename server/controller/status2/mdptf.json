@@ -1,55 +1,15 @@
 [
   {
-    "MODULE": "DSNUFCMA",
-    "PTFID": "UI12157"
+    "MODULE": "DSNAA",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUFFMB",
-    "PTFID": "UK92206"
+    "MODULE": "DSNAPRH",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUFFMC",
-    "PTFID": "UI23216"
-  },
-  {
-    "MODULE": "DSNUFCMD",
-    "PTFID": "UI30115"
-  },
-  {
-    "MODULE": "DSNUFFMF",
-    "PTFID": "UI47285"
-  },
-  {
-    "MODULE": "DSNUFFMH",
-    "PTFID": "UI38470"
-  },
-  {
-    "MODULE": "DSNUFFMK",
-    "PTFID": "UK92206"
-  },
-  {
-    "MODULE": "DSNUFFML",
-    "PTFID": "UI40902"
-  },
-  {
-    "MODULE": "DSNUFFMM",
-    "PTFID": "UI43627"
-  },
-  {
-    "MODULE": "DSNUFCMN",
-    "PTFID": "UK95422"
-  },
-  {
-    "MODULE": "DSNUFCMR",
-    "PTFID": "UI32235"
-  },
-  {
-    "MODULE": "DSNUFFMS",
-    "PTFID": "UK92206"
-  },
-  {
-    "MODULE": "DSNUFFMT",
-    "PTFID": "UI36667"
+    "MODULE": "DSNFMNFM",
+    "PTFID": null
   },
   {
     "MODULE": "DSNFPMSG",
@@ -64,700 +24,48 @@
     "PTFID": "UI43987"
   },
   {
-    "MODULE": "DSNUBBCM",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUBBCR",
-    "PTFID": "UI29259"
-  },
-  {
-    "MODULE": "DSNUBBFC",
-    "PTFID": "UI38134"
-  },
-  {
-    "MODULE": "DSNUBBOP",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUBBSC",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUBCDA",
-    "PTFID": "UI32137"
-  },
-  {
-    "MODULE": "DSNUBCKB",
-    "PTFID": "UI29259"
-  },
-  {
-    "MODULE": "DSNUCBAL",
-    "PTFID": "UI40901"
-  },
-  {
-    "MODULE": "DSNUCBCR",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUCBDR",
-    "PTFID": "UI21656"
-  },
-  {
-    "MODULE": "DSNUCBMD",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUCBMT",
-    "PTFID": "UI44115"
-  },
-  {
-    "MODULE": "DSNUCBRT",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUCRIB",
-    "PTFID": "UI44977"
-  },
-  {
-    "MODULE": "DSNUCRIX",
-    "PTFID": "UI43575"
-  },
-  {
-    "MODULE": "DSNUCSIN",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUDIAG",
-    "PTFID": "UI30115"
-  },
-  {
-    "MODULE": "DSNUECML",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUECM0",
-    "PTFID": "UI42240"
-  },
-  {
-    "MODULE": "DSNUECSR",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUEDDM",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUEDFI",
-    "PTFID": "UI46861"
-  },
-  {
-    "MODULE": "DSNUEDFT",
-    "PTFID": "UI14867"
-  },
-  {
-    "MODULE": "DSNUEDMS",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUEDRT",
-    "PTFID": "UI34180"
-  },
-  {
-    "MODULE": "DSNUEWRT",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUEXDB",
-    "PTFID": "UI46305"
-  },
-  {
-    "MODULE": "DSNUGBAC",
-    "PTFID": "UI46238"
-  },
-  {
-    "MODULE": "DSNUGDDC",
-    "PTFID": "UI23215"
-  },
-  {
-    "MODULE": "DSNUGDDD",
-    "PTFID": "UI30115"
-  },
-  {
-    "MODULE": "DSNUGDDF",
-    "PTFID": "UI49219"
-  },
-  {
-    "MODULE": "DSNUGDDL",
-    "PTFID": "UI40901"
-  },
-  {
-    "MODULE": "DSNUGDDM",
-    "PTFID": "UI43626"
-  },
-  {
-    "MODULE": "DSNUGDDN",
-    "PTFID": "UK95420"
-  },
-  {
-    "MODULE": "DSNUGDDP",
-    "PTFID": "UI49484"
-  },
-  {
-    "MODULE": "DSNUGDDR",
-    "PTFID": "UI32235"
-  },
-  {
-    "MODULE": "DSNUGDDS",
-    "PTFID": "UI33164"
-  },
-  {
-    "MODULE": "DSNUGDDT",
-    "PTFID": "UI36666"
-  },
-  {
-    "MODULE": "DSNUGDYN",
-    "PTFID": "UI46236"
-  },
-  {
-    "MODULE": "DSNUGEPL",
-    "PTFID": "UK97953"
-  },
-  {
-    "MODULE": "DSNUGFCB",
-    "PTFID": "UI37152"
-  },
-  {
-    "MODULE": "DSNUGFCD",
-    "PTFID": "UI45741"
-  },
-  {
-    "MODULE": "DSNUGLSR",
-    "PTFID": "UI44977"
-  },
-  {
-    "MODULE": "DSNUGLST",
-    "PTFID": "UK93069"
-  },
-  {
-    "MODULE": "DSNUGMRP",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNUGMSG",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUGPDS",
-    "PTFID": "UK93068"
-  },
-  {
-    "MODULE": "DSNUGPPA",
-    "PTFID": "UI17150"
-  },
-  {
-    "MODULE": "DSNUGPPB",
-    "PTFID": "UI13900"
-  },
-  {
-    "MODULE": "DSNUGPPC",
-    "PTFID": "UK98298"
-  },
-  {
-    "MODULE": "DSNUGPPF",
-    "PTFID": "UI47284"
-  },
-  {
-    "MODULE": "DSNUGPPK",
-    "PTFID": "UI43668"
-  },
-  {
-    "MODULE": "DSNUGPPL",
-    "PTFID": "UI40901"
-  },
-  {
-    "MODULE": "DSNUGPPM",
-    "PTFID": "UI43668"
-  },
-  {
-    "MODULE": "DSNUGPPP",
-    "PTFID": "UI43668"
-  },
-  {
-    "MODULE": "DSNUGPPR",
-    "PTFID": "UI33966"
-  },
-  {
-    "MODULE": "DSNUGPPT",
-    "PTFID": "UI36666"
-  },
-  {
-    "MODULE": "DSNUGPRB",
-    "PTFID": "UK93068"
-  },
-  {
-    "MODULE": "DSNUGPRS",
-    "PTFID": "UI47284"
-  },
-  {
-    "MODULE": "DSNUGPRT",
-    "PTFID": "UI47284"
-  },
-  {
-    "MODULE": "DSNUGPRV",
-    "PTFID": "UI43626"
-  },
-  {
-    "MODULE": "DSNUGPRW",
-    "PTFID": "UI42484"
-  },
-  {
-    "MODULE": "DSNUGPRZ",
-    "PTFID": "UI16546"
-  },
-  {
-    "MODULE": "DSNUGPST",
-    "PTFID": "UK93068"
-  },
-  {
-    "MODULE": "DSNUGPVV",
-    "PTFID": "UK93069"
-  },
-  {
-    "MODULE": "DSNUGQSV",
-    "PTFID": "UI39618"
-  },
-  {
-    "MODULE": "DSNUGSAT",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNUGSDA",
-    "PTFID": "UI46573"
-  },
-  {
-    "MODULE": "DSNUGSIT",
-    "PTFID": "UI46791"
-  },
-  {
-    "MODULE": "DSNUGSOR",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNUGSRP",
-    "PTFID": "UI49144"
-  },
-  {
-    "MODULE": "DSNUGSRT",
-    "PTFID": "UI49223"
-  },
-  {
-    "MODULE": "DSNUGTDS",
-    "PTFID": "UI48461"
-  },
-  {
-    "MODULE": "DSNUGTIS",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUGTRC",
-    "PTFID": "UI44785"
-  },
-  {
-    "MODULE": "DSNUGULM",
-    "PTFID": "UI46599"
-  },
-  {
-    "MODULE": "DSNUGUTC",
-    "PTFID": "UI49484"
-  },
-  {
-    "MODULE": "DSNUGWAB",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUILDR",
-    "PTFID": "UK93069"
-  },
-  {
-    "MODULE": "DSNUILSB",
-    "PTFID": "UK93069"
-  },
-  {
-    "MODULE": "DSNUJTDR",
-    "PTFID": "UK93069"
-  },
-  {
-    "MODULE": "DSNUKCOP",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUKCPX",
-    "PTFID": "UI44115"
-  },
-  {
-    "MODULE": "DSNUKDAT",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUKDRP",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUKERK",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUKLBD",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUKPIK",
-    "PTFID": "UI44977"
-  },
-  {
-    "MODULE": "DSNUK001",
-    "PTFID": "UI39569"
-  },
-  {
-    "MODULE": "DSNUKDXC",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNUKXSR",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNUMODB",
-    "PTFID": "UI35567"
-  },
-  {
-    "MODULE": "DSNUMSGA",
-    "PTFID": "UI14867"
-  },
-  {
-    "MODULE": "DSNUMSGB",
-    "PTFID": "UI29040"
-  },
-  {
-    "MODULE": "DSNUMSGC",
-    "PTFID": "UI44671"
-  },
-  {
-    "MODULE": "DSNUMSGD",
-    "PTFID": "UI49484"
-  },
-  {
-    "MODULE": "DSNUMSGE",
-    "PTFID": "UI32747"
-  },
-  {
-    "MODULE": "DSNURAIC",
-    "PTFID": "UI49322"
-  },
-  {
-    "MODULE": "DSNURBID",
-    "PTFID": "UI46573"
-  },
-  {
-    "MODULE": "DSNURBXD",
-    "PTFID": "UI47284"
-  },
-  {
-    "MODULE": "DSNURCAT",
-    "PTFID": "UK92663"
-  },
-  {
-    "MODULE": "DSNURDER",
-    "PTFID": "UK97150"
-  },
-  {
-    "MODULE": "DSNURDIC",
-    "PTFID": "UI47284"
-  },
-  {
-    "MODULE": "DSNURDIS",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURDMA",
-    "PTFID": "UK97150"
-  },
-  {
-    "MODULE": "DSNURDNP",
-    "PTFID": "UI47284"
-  },
-  {
-    "MODULE": "DSNURDRB",
-    "PTFID": "UI41830"
-  },
-  {
-    "MODULE": "DSNUREKY",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNURELD",
-    "PTFID": "UI45677"
-  },
-  {
-    "MODULE": "DSNURENF",
-    "PTFID": "UI39183"
-  },
-  {
-    "MODULE": "DSNUREPG",
-    "PTFID": "UI49322"
-  },
-  {
-    "MODULE": "DSNURILD",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNURISI",
-    "PTFID": "UI49484"
-  },
-  {
-    "MODULE": "DSNURLGD",
-    "PTFID": "UI34953"
-  },
-  {
-    "MODULE": "DSNURMPC",
-    "PTFID": "UI38429"
-  },
-  {
-    "MODULE": "DSNURORG",
-    "PTFID": "UI49322"
-  },
-  {
-    "MODULE": "DSNURPCT",
-    "PTFID": "UI49484"
-  },
-  {
-    "MODULE": "DSNURPDS",
-    "PTFID": "UI49144"
-  },
-  {
-    "MODULE": "DSNURPIB",
-    "PTFID": "UI44977"
-  },
-  {
-    "MODULE": "DSNURPLD",
-    "PTFID": "UI41830"
-  },
-  {
-    "MODULE": "DSNURPLL",
-    "PTFID": "UI41830"
-  },
-  {
-    "MODULE": "DSNURPNC",
-    "PTFID": "UI43484"
-  },
-  {
-    "MODULE": "DSNURPND",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNURPNP",
-    "PTFID": "UI46918"
-  },
-  {
-    "MODULE": "DSNURPPD",
-    "PTFID": "UI41830"
-  },
-  {
-    "MODULE": "DSNURPPL",
-    "PTFID": "UI43659"
-  },
-  {
-    "MODULE": "DSNURPRD",
-    "PTFID": "UI45677"
-  },
-  {
-    "MODULE": "DSNURPSS",
-    "PTFID": "UK97306"
-  },
-  {
-    "MODULE": "DSNURPTB",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURREP",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURRIS",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNURRSS",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURSIN",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNURSIT",
-    "PTFID": "UI21042"
-  },
-  {
-    "MODULE": "DSNURSOR",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNURSRT",
-    "PTFID": "UI20366"
-  },
-  {
-    "MODULE": "DSNURSWT",
-    "PTFID": "UK92663"
-  },
-  {
-    "MODULE": "DSNURULD",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNURVIX",
-    "PTFID": "UI47284"
-  },
-  {
-    "MODULE": "DSNUSDRB",
-    "PTFID": "UI46759"
-  },
-  {
-    "MODULE": "DSNUSSIN",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUSSIT",
-    "PTFID": "UI21042"
-  },
-  {
-    "MODULE": "DSNUSSOR",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUSSRT",
-    "PTFID": "UK94246"
-  },
-  {
-    "MODULE": "DSNUUGLD",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUULCB",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNUULDB",
-    "PTFID": "UI35158"
-  },
-  {
-    "MODULE": "DSNUULGL",
-    "PTFID": "UI48244"
-  },
-  {
-    "MODULE": "DSNUULMB",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNUULPB",
-    "PTFID": "UI35158"
-  },
-  {
-    "MODULE": "DSNUULQB",
-    "PTFID": "UK95422"
-  },
-  {
-    "MODULE": "DSNUUNLD",
-    "PTFID": "UI24341"
-  },
-  {
-    "MODULE": "DSNUVBBD",
-    "PTFID": "UI27375"
-  },
-  {
-    "MODULE": "DSNUVBLC",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUVBRD",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUVVTS",
-    "PTFID": "UK95422"
-  },
-  {
-    "MODULE": "DSNUYBGP",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUYBR2",
-    "PTFID": "UI48461"
-  },
-  {
-    "MODULE": "DSNUYBR3",
-    "PTFID": "UI46461"
-  },
-  {
-    "MODULE": "DSNUYBR4",
-    "PTFID": "UI46461"
-  },
-  {
-    "MODULE": "DSNUYBWR",
-    "PTFID": "UI38858"
-  },
-  {
-    "MODULE": "DSNUZODR",
-    "PTFID": "UK93069"
-  },
-  {
-    "MODULE": "DSNU2BCC",
-    "PTFID": "UI40287"
-  },
-  {
-    "MODULE": "DSNU2BDR",
-    "PTFID": "UI48461"
-  },
-  {
-    "MODULE": "DSNU2BRW",
-    "PTFID": "UI40287"
+    "MODULE": "DSNXTSCB",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXVEOA",
     "PTFID": "UI48762"
   },
   {
-    "MODULE": "DSNUGFUM",
-    "PTFID": "UI44115"
-  },
-  {
-    "MODULE": "DSNUBBID",
-    "PTFID": "UI48461"
-  },
-  {
-    "MODULE": "DSNUGLDB",
-    "PTFID": "UI48762"
-  },
-  {
-    "MODULE": "DSNUGALC",
-    "PTFID": "UI44977"
-  },
-  {
-    "MODULE": "DSNULSWT",
-    "PTFID": "UI41774"
+    "MODULE": "DSNXVTB",
+    "PTFID": null
   },
   {
     "MODULE": "DSNYASCP",
     "PTFID": "UI49142"
   },
   {
+    "MODULE": "DSNYASTP",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNYASTR",
     "PTFID": "UK93949"
   },
   {
+    "MODULE": "DSNYECTE",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNYAGCS",
     "PTFID": "UI29939"
+  },
+  {
+    "MODULE": "DSNYALLI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNYEATE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNYEAT2",
+    "PTFID": null
   },
   {
     "MODULE": "DSNYAUTH",
@@ -766,6 +74,22 @@
   {
     "MODULE": "DSNVATR4",
     "PTFID": "UI15688"
+  },
+  {
+    "MODULE": "DSNVATRM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVATRR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSEOM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNYESTF",
+    "PTFID": null
   },
   {
     "MODULE": "DSNYESTS",
@@ -788,10 +112,6 @@
     "PTFID": "UI43987"
   },
   {
-    "MODULE": "DSNUDMPS",
-    "PTFID": "UI41991"
-  },
-  {
     "MODULE": "DSNLDUMP",
     "PTFID": "UI29039"
   },
@@ -812,12 +132,40 @@
     "PTFID": "UK98136"
   },
   {
+    "MODULE": "DSNSDMPS",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNTDMPS",
     "PTFID": "UK94245"
   },
   {
+    "MODULE": "DSNVDMPS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWDLSR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWDMPS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWWFST",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXDMPS",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNYEDSS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9DMPS",
+    "PTFID": null
   },
   {
     "MODULE": "DSNWVFRR",
@@ -830,6 +178,18 @@
   {
     "MODULE": "DSNWSDWA",
     "PTFID": "UK97382"
+  },
+  {
+    "MODULE": "DSNSRVRA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRVRA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNYMESS",
+    "PTFID": null
   },
   {
     "MODULE": "DSNVRMEG",
@@ -852,16 +212,48 @@
     "PTFID": "UK98204"
   },
   {
-    "MODULE": "DSNSCTL ",
+    "MODULE": "DSNSCTL",
     "PTFID": "UI17081"
   },
   {
-    "MODULE": "DSNSGMN ",
+    "MODULE": "DSNSENFL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSFBK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSFPL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSGMN",
     "PTFID": "UK92663"
+  },
+  {
+    "MODULE": "DSNSPOWN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSTACK",
+    "PTFID": null
   },
   {
     "MODULE": "DSNSTERM",
     "PTFID": "UK94247"
+  },
+  {
+    "MODULE": "DSNSVBK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSVPL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSVSTK",
+    "PTFID": null
   },
   {
     "MODULE": "DSNSVSVB",
@@ -892,12 +284,56 @@
     "PTFID": "UI17081"
   },
   {
+    "MODULE": "DSNSTKGA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSTKGG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSCON",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSFACL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSHDWN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNSQST",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNZOVTB",
     "PTFID": "UI46054"
   },
   {
     "MODULE": "DSNZCMD1",
     "PTFID": "UI41084"
+  },
+  {
+    "MODULE": "DSNZBSTP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNZCMD0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNZTGET",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWVCM1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWVCM2",
+    "PTFID": null
   },
   {
     "MODULE": "DSNWVCST",
@@ -918,6 +354,10 @@
   {
     "MODULE": "DSNWVINT",
     "PTFID": "UI49142"
+  },
+  {
+    "MODULE": "DSNWVTIT",
+    "PTFID": null
   },
   {
     "MODULE": "DSNWAAPI",
@@ -988,6 +428,10 @@
     "PTFID": "UK95016"
   },
   {
+    "MODULE": "DSNWACMD",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNWALCK",
     "PTFID": "UK93949"
   },
@@ -996,15 +440,67 @@
     "PTFID": "UK94246"
   },
   {
+    "MODULE": "DSNWAPCS",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNWASTA",
     "PTFID": "UK94246"
+  },
+  {
+    "MODULE": "DSNXIBAE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIBBT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIBCD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIBCL",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXIBC2",
     "PTFID": "UK95016"
   },
   {
-    "MODULE": "DSNVMON ",
+    "MODULE": "DSNXIBDA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIBGE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIBIN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIBI2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIBST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRCDC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWACTD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVMON",
     "PTFID": "UI49142"
   },
   {
@@ -1040,8 +536,20 @@
     "PTFID": "UI16484"
   },
   {
-    "MODULE": "DSNVBRP ",
+    "MODULE": "DSNVBRP",
     "PTFID": "UI18190"
+  },
+  {
+    "MODULE": "DSNVAASE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVAGCL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVAI",
+    "PTFID": null
   },
   {
     "MODULE": "DSNVASIM",
@@ -1052,6 +560,54 @@
     "PTFID": "UK92201"
   },
   {
+    "MODULE": "DSNVCONN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVCRTH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVCST0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVDASE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVDBPM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVDST0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVEOT1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVEUS2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVFACE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVFEB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVGACE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVGFAG",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNVIALC",
     "PTFID": "UK95422"
   },
@@ -1060,23 +616,51 @@
     "PTFID": "UK92659"
   },
   {
-    "MODULE": "DSNVDTA ",
+    "MODULE": "DSNVLTT0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRMTM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVSTAI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVSUL0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVTEB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVTFRR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVTRTH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVDTA",
     "PTFID": "UI47067"
   },
   {
-    "MODULE": "DSNVCT  ",
+    "MODULE": "DSNVCT",
     "PTFID": "UI45412"
   },
   {
-    "MODULE": "DSNVDTM ",
+    "MODULE": "DSNVDTM",
     "PTFID": "UI39526"
   },
   {
-    "MODULE": "DSNVDT  ",
+    "MODULE": "DSNVDT",
     "PTFID": "UI41003"
   },
   {
-    "MODULE": "DSNVDTT ",
+    "MODULE": "DSNVDTT",
     "PTFID": "UI21248"
   },
   {
@@ -1084,15 +668,23 @@
     "PTFID": "UK94247"
   },
   {
-    "MODULE": "DSNVDRR ",
+    "MODULE": "DSNRTIME",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVDRR",
     "PTFID": "UK94246"
+  },
+  {
+    "MODULE": "DSNVDSSA",
+    "PTFID": null
   },
   {
     "MODULE": "DSNVDTAD",
     "PTFID": "UK94246"
   },
   {
-    "MODULE": "DSNVDTI ",
+    "MODULE": "DSNVDTI",
     "PTFID": "UK94246"
   },
   {
@@ -1100,11 +692,11 @@
     "PTFID": "UK94243"
   },
   {
-    "MODULE": "DSNVDTP ",
+    "MODULE": "DSNVDTP",
     "PTFID": "UK94246"
   },
   {
-    "MODULE": "DSNVDTQ ",
+    "MODULE": "DSNVDTQ",
     "PTFID": "UK94246"
   },
   {
@@ -1112,12 +704,40 @@
     "PTFID": "UK94246"
   },
   {
+    "MODULE": "DSNVRI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRICA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRIM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRIS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRP",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNVSRRX",
     "PTFID": "UI44631"
   },
   {
-    "MODULE": "DSNVSRX ",
+    "MODULE": "DSNVSRX",
     "PTFID": "UI44631"
+  },
+  {
+    "MODULE": "DSNVMDIE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVSRBW",
+    "PTFID": null
   },
   {
     "MODULE": "DSN3SSI1",
@@ -1140,12 +760,44 @@
     "PTFID": "UI18529"
   },
   {
+    "MODULE": "DSN3SSGC",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN3SSCN",
     "PTFID": "UI16671"
   },
   {
     "MODULE": "DSN3SSTM",
     "PTFID": "UK98751"
+  },
+  {
+    "MODULE": "DSN3SSDI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3SSFR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNYESCF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNYESWE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNYSCMD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNYSSTS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNYSTPW",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXVEOA",
@@ -1156,8 +808,44 @@
     "PTFID": "UI48762"
   },
   {
+    "MODULE": "DSN9SCND",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCNF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCNW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCN8",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN9SCNB",
     "PTFID": "UI34153"
+  },
+  {
+    "MODULE": "DSN9SCNE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCNM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCNS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCN6",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCN7",
+    "PTFID": null
   },
   {
     "MODULE": "DSN9SCNA",
@@ -1168,8 +856,48 @@
     "PTFID": "UI25346"
   },
   {
+    "MODULE": "DSN9SCNC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCN1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCN2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCN3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN9SCN4",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFADIR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNFBDIR",
     "PTFID": "UI38522"
+  },
+  {
+    "MODULE": "DSNFCST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFDST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFFDIR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFFDOM",
+    "PTFID": null
   },
   {
     "MODULE": "DSNFGENM",
@@ -1200,8 +928,32 @@
     "PTFID": "UI48437"
   },
   {
+    "MODULE": "DSNFMGIN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFMGT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFMNFM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFPDIR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNFPMSG",
     "PTFID": "UI48762"
+  },
+  {
+    "MODULE": "DSNFRDIR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFSDIR",
+    "PTFID": null
   },
   {
     "MODULE": "DSNFTDIR",
@@ -1232,7 +984,11 @@
     "PTFID": "UI41003"
   },
   {
-    "MODULE": "DSNFWTO ",
+    "MODULE": "DSNFWDIR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFWTO",
     "PTFID": "UK95423"
   },
   {
@@ -1244,16 +1000,84 @@
     "PTFID": "UI48437"
   },
   {
+    "MODULE": "DSNFYDIR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNFZDIR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNF3DIR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNF7DIR",
     "PTFID": "UI18807"
+  },
+  {
+    "MODULE": "DSNF9DIR",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXVEOA",
     "PTFID": "UI48762"
   },
   {
+    "MODULE": "DSNFGDIR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GCTK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GIGS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GINI",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN7GTRM",
     "PTFID": "UK92202"
+  },
+  {
+    "MODULE": "DSN7LCTK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7LINI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7LTRM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7SINI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7STOP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7TGLM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7TGL1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7TGL2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7TGL3",
+    "PTFID": null
   },
   {
     "MODULE": "DSN7GGEX",
@@ -1264,6 +1088,70 @@
     "PTFID": "UI43626"
   },
   {
+    "MODULE": "DSN7GADD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GAR1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GAR2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GCHK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GEPR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GERS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GEST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GFST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GGST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GITK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GREP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GRMA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GRP1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GTMI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GTM2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7GWMB",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN7GCMD",
     "PTFID": "UI41695"
   },
@@ -1272,12 +1160,36 @@
     "PTFID": "UI18017"
   },
   {
+    "MODULE": "DSN7GWMB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7LCMP",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN7LENF",
     "PTFID": "UK95423"
   },
   {
+    "MODULE": "DSN7LEST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7LEVE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN7LITK",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN7LOP1",
     "PTFID": "UK92204"
+  },
+  {
+    "MODULE": "DSN7LRC1",
+    "PTFID": null
   },
   {
     "MODULE": "DSN7LRE1",
@@ -1306,6 +1218,10 @@
   {
     "MODULE": "DSN7LST3",
     "PTFID": "UK92204"
+  },
+  {
+    "MODULE": "DSN7LSUS",
+    "PTFID": null
   },
   {
     "MODULE": "DSN7LUTL",
@@ -1352,8 +1268,24 @@
     "PTFID": "UK95420"
   },
   {
+    "MODULE": "DSNTLQUE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTLQUI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTLRES",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNTLSTA",
     "PTFID": "UK95422"
+  },
+  {
+    "MODULE": "DSNADMTI",
+    "PTFID": null
   },
   {
     "MODULE": "DSNRJXID",
@@ -1382,6 +1314,38 @@
   {
     "MODULE": "DSNRUC02",
     "PTFID": "UI12985"
+  },
+  {
+    "MODULE": "DSNRGTTM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRQXID",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRSB01",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRUAGT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRUCA3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRUE01",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRUQ01",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRXSAV",
+    "PTFID": null
   },
   {
     "MODULE": "DSNRTIMR",
@@ -1440,12 +1404,72 @@
     "PTFID": "UK95979"
   },
   {
+    "MODULE": "DSNRBMON",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNRCPRC",
     "PTFID": "UK92663"
   },
   {
+    "MODULE": "DSNRCRFR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRCRPR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRCRSC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRCSHT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRCURP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRCURS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRFCKP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRIPMU",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNRIT02",
     "PTFID": "UK94245"
+  },
+  {
+    "MODULE": "DSNRIT03",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRMWTO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRPBCS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRPBU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRPECS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRPITP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNRPLCS",
@@ -1456,12 +1480,96 @@
     "PTFID": "UK92200"
   },
   {
+    "MODULE": "DSNRRCSR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRGRH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRGRI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRGRT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRHSL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRHSR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRIRD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRIUN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRPMU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRRDT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRRQS",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNRRSBS",
     "PTFID": "UK93549"
   },
   {
+    "MODULE": "DSNRRUND",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRRUTT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRSCA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRSENQ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRTIME",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRUB02",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNRUDIS",
     "PTFID": "UK94247"
+  },
+  {
+    "MODULE": "DSNRUSOR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRXCSR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRXPB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRXRU",
+    "PTFID": null
   },
   {
     "MODULE": "DSNWVAPR",
@@ -1474,6 +1582,10 @@
   {
     "MODULE": "DSNWVCOL",
     "PTFID": "UI48595"
+  },
+  {
+    "MODULE": "DSNWVCHK",
+    "PTFID": null
   },
   {
     "MODULE": "DSNWVGTF",
@@ -1494,6 +1606,26 @@
   {
     "MODULE": "DSNWVSR1",
     "PTFID": "UI48595"
+  },
+  {
+    "MODULE": "DSNWVSR2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWVOPX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWVLOG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWVRTE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNWVEND",
+    "PTFID": null
   },
   {
     "MODULE": "DSN3CL0X",
@@ -1520,8 +1652,88 @@
     "PTFID": "UK95425"
   },
   {
+    "MODULE": "DSNAET04",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNAPRHO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRMTR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRSRB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNZPARS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3AC0X",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3DEQ0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3ECMS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3ENQ0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3EST0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RDMP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RIB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RS0X",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RTR0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3SPRX",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN9SCN9",
     "PTFID": "UI34153"
+  },
+  {
+    "MODULE": "DSN9SCN5",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVEUS3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVEUS4",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRCT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTLCLE",
+    "PTFID": null
   },
   {
     "MODULE": "DSNJW011",
@@ -1808,12 +2020,120 @@
     "PTFID": "UK93949"
   },
   {
+    "MODULE": "DSNJC001",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJC002",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJC003",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJC004",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJC007",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNJC009",
     "PTFID": "UK93949"
   },
   {
+    "MODULE": "DSNJC05A",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNJC09A",
     "PTFID": "UK92200"
+  },
+  {
+    "MODULE": "DSNJINS1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJM002",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJM003",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJM004",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJPB05",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJQTEX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJRE08",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJRE26",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJR06A",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJR116",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJR126",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJR208",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJTIMR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJUAHR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJW008",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJW206",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJW406",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNJW407",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPHRC0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRJTCV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNRTIME",
+    "PTFID": null
   },
   {
     "MODULE": "DSN3AMI2",
@@ -1826,6 +2146,34 @@
   {
     "MODULE": "DSN3RIM0",
     "PTFID": "UI20372"
+  },
+  {
+    "MODULE": "DSN3AMT1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3CHAN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3GCAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RIB0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RIB2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RIS0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3UNCH",
+    "PTFID": null
   },
   {
     "MODULE": "DSN3AUSI",
@@ -1912,6 +2260,26 @@
     "PTFID": "UK98031"
   },
   {
+    "MODULE": "DSNLMTOK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3AAES",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3AB00",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3AMFR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3AMT3",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN3AUCX",
     "PTFID": "UK93549"
   },
@@ -1920,16 +2288,100 @@
     "PTFID": "UK95423"
   },
   {
+    "MODULE": "DSN3AUWL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3CHAN",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN3CHGZ",
     "PTFID": "UK95423"
+  },
+  {
+    "MODULE": "DSN3CT80",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3DM00",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3EOTM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3GCAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3IDES",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3KATH",
+    "PTFID": null
   },
   {
     "MODULE": "DSN3RIA0",
     "PTFID": "UK94247"
   },
   {
+    "MODULE": "DSN3RIS0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3SIES",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN3SI80",
     "PTFID": "UK95423"
+  },
+  {
+    "MODULE": "DSN3SPIN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3SPSN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3SPTN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3SQLF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3ST00",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3SW30",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3SY00",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3TCES",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3TC30",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3TR00",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3UNCH",
+    "PTFID": null
   },
   {
     "MODULE": "DSN3RRSR",
@@ -1952,7 +2404,7 @@
     "PTFID": "UI12376"
   },
   {
-    "MODULE": "DSN3PRP ",
+    "MODULE": "DSN3PRP",
     "PTFID": "UI12376"
   },
   {
@@ -1968,12 +2420,84 @@
     "PTFID": "UI19327"
   },
   {
+    "MODULE": "DSN3BABR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3BCS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3BIRU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3CAP1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3CAP2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3CKPT",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN3CMIT",
     "PTFID": "UK95423"
   },
   {
+    "MODULE": "DSN3CMT2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3CTXS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3ECS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3ECTX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3ERST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3LCS",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSN3ONLY",
     "PTFID": "UK95423"
+  },
+  {
+    "MODULE": "DSN3RRRS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RRST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RSPR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3RWAK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3SPNI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSN3TWCP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNWVZIT",
@@ -2020,6 +2544,18 @@
     "PTFID": "UI42792"
   },
   {
+    "MODULE": "DSNLSTM1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLSTM2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTCLI",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLTDIS",
     "PTFID": "UK94245"
   },
@@ -2036,8 +2572,24 @@
     "PTFID": "UI18017"
   },
   {
+    "MODULE": "DSNLMTOK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTBCS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTBHS",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLTCKP",
     "PTFID": "UK94245"
+  },
+  {
+    "MODULE": "DSNLTDQL",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLTDTI",
@@ -2056,7 +2608,7 @@
     "PTFID": "UK94245"
   },
   {
-    "MODULE": "DSNLTRU ",
+    "MODULE": "DSNLTRU",
     "PTFID": "UK94245"
   },
   {
@@ -2068,20 +2620,84 @@
     "PTFID": "UK94245"
   },
   {
+    "MODULE": "DSNX9RWB",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNJDS05",
     "PTFID": "UI43626"
+  },
+  {
+    "MODULE": "DSNLFEST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLFFRR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLFRCV",
+    "PTFID": null
   },
   {
     "MODULE": "DSNYASCP",
     "PTFID": "UI49142"
   },
   {
+    "MODULE": "DSNYASTP",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNYASTR",
     "PTFID": "UK93949"
   },
   {
+    "MODULE": "DSNYECTE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVEUS3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVEUS4",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRCT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNB1PIN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNB1RCV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNB1UPN",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNPAMS2",
     "PTFID": "UI30340"
+  },
+  {
+    "MODULE": "DSNPASTP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPASTR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPSYSI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPSYSP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNGEPUF",
@@ -2212,6 +2828,10 @@
     "PTFID": "UI17930"
   },
   {
+    "MODULE": "DSNGEFS1",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGEGBL",
     "PTFID": "UK94243"
   },
@@ -2228,12 +2848,32 @@
     "PTFID": "UK94245"
   },
   {
+    "MODULE": "DSNITBDB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDCP2",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGDVDB",
     "PTFID": "UK92660"
   },
   {
+    "MODULE": "DSNGDVO1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVO2",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGDVUT",
     "PTFID": "UI22579"
+  },
+  {
+    "MODULE": "DSNGDCOS",
+    "PTFID": null
   },
   {
     "MODULE": "DSNGDCPD",
@@ -2246,6 +2886,14 @@
   {
     "MODULE": "DSNGDADR",
     "PTFID": "UI31299"
+  },
+  {
+    "MODULE": "DSNGDADT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDAII",
+    "PTFID": null
   },
   {
     "MODULE": "DSNGDAFI",
@@ -2272,8 +2920,28 @@
     "PTFID": "UI46060"
   },
   {
+    "MODULE": "DSNGDVAL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVAF",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGDVAR",
     "PTFID": "UI18913"
+  },
+  {
+    "MODULE": "DSNGDVAI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVAP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVAX",
+    "PTFID": null
   },
   {
     "MODULE": "DSNGDCDR",
@@ -2284,8 +2952,32 @@
     "PTFID": "UI28282"
   },
   {
+    "MODULE": "DSNGDVCR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVFI",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGDVRT",
     "PTFID": "UI18913"
+  },
+  {
+    "MODULE": "DSNGDVIX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVDP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVIP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVDC",
+    "PTFID": null
   },
   {
     "MODULE": "DSNGDCDB",
@@ -2298,6 +2990,14 @@
   {
     "MODULE": "DSNGDCOB",
     "PTFID": "UI40525"
+  },
+  {
+    "MODULE": "DSNPCIDL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDCOI",
+    "PTFID": null
   },
   {
     "MODULE": "DSNGDBFI",
@@ -2316,6 +3016,10 @@
     "PTFID": "UI32207"
   },
   {
+    "MODULE": "DSNGDBPK",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGDBIP",
     "PTFID": "UK93069"
   },
@@ -2328,12 +3032,28 @@
     "PTFID": "UK92660"
   },
   {
+    "MODULE": "DSNGDDCC",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGDDDR",
     "PTFID": "UI45348"
   },
   {
+    "MODULE": "DSNGDDIN",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGDDDB",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNGDDID",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDDFI",
+    "PTFID": null
   },
   {
     "MODULE": "DSNGDDIX",
@@ -2344,12 +3064,32 @@
     "PTFID": "UI19071"
   },
   {
+    "MODULE": "DSNGDDDP",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGDDIP",
     "PTFID": "UI46256"
   },
   {
+    "MODULE": "DSNGDDDC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDCRR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDDPR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNILGCL",
     "PTFID": "UI20244"
+  },
+  {
+    "MODULE": "DSNIRCMP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNISIE2",
@@ -2396,20 +3136,112 @@
     "PTFID": "UI15466"
   },
   {
+    "MODULE": "DSNGDARA",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNGDARM",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNGDATG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDBRA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDBRM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDBTG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDBVW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDCM1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDCRT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDDRA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDDRM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDDVW",
+    "PTFID": null
   },
   {
     "MODULE": "DSNGDQDB",
     "PTFID": "UK94243"
   },
   {
+    "MODULE": "DSNGDVAA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVAD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVAM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVRA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVRM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDVTG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDXDB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDXLT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGROU2",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNIDBCC",
     "PTFID": "UK92660"
   },
   {
+    "MODULE": "DSNITBDB",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNIABND",
     "PTFID": "UI43987"
+  },
+  {
+    "MODULE": "DSNGDFDB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIRCMP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNISIE2",
@@ -2648,7 +3480,7 @@
     "PTFID": "UI49623"
   },
   {
-    "MODULE": "DSNISPS ",
+    "MODULE": "DSNISPS",
     "PTFID": "UI49623"
   },
   {
@@ -2720,7 +3552,7 @@
     "PTFID": "UI46958"
   },
   {
-    "MODULE": "DSNIPPS ",
+    "MODULE": "DSNIPPS",
     "PTFID": "UI46961"
   },
   {
@@ -2820,7 +3652,7 @@
     "PTFID": "UI47719"
   },
   {
-    "MODULE": "DSNIADR ",
+    "MODULE": "DSNIADR",
     "PTFID": "UI47719"
   },
   {
@@ -2852,7 +3684,7 @@
     "PTFID": "UI47719"
   },
   {
-    "MODULE": "DSNISFS ",
+    "MODULE": "DSNISFS",
     "PTFID": "UI47719"
   },
   {
@@ -2916,7 +3748,7 @@
     "PTFID": "UI47857"
   },
   {
-    "MODULE": "DSNIOW  ",
+    "MODULE": "DSNIOW",
     "PTFID": "UI47857"
   },
   {
@@ -3072,7 +3904,7 @@
     "PTFID": "UI44785"
   },
   {
-    "MODULE": "DSNKDPG ",
+    "MODULE": "DSNKDPG",
     "PTFID": "UI44859"
   },
   {
@@ -3192,7 +4024,7 @@
     "PTFID": "UI44619"
   },
   {
-    "MODULE": "DSNIPSI ",
+    "MODULE": "DSNIPSI",
     "PTFID": "UI44619"
   },
   {
@@ -3208,7 +4040,7 @@
     "PTFID": "UI41173"
   },
   {
-    "MODULE": "DSNKDLE ",
+    "MODULE": "DSNKDLE",
     "PTFID": "UI41173"
   },
   {
@@ -3312,11 +4144,11 @@
     "PTFID": "UI43278"
   },
   {
-    "MODULE": "DSNIFOD ",
+    "MODULE": "DSNIFOD",
     "PTFID": "UI43278"
   },
   {
-    "MODULE": "DSNIFOI ",
+    "MODULE": "DSNIFOI",
     "PTFID": "UI43278"
   },
   {
@@ -3568,7 +4400,7 @@
     "PTFID": "UI36558"
   },
   {
-    "MODULE": "DSNIGTP ",
+    "MODULE": "DSNIGTP",
     "PTFID": "UI36735"
   },
   {
@@ -3832,7 +4664,7 @@
     "PTFID": "UI33540"
   },
   {
-    "MODULE": "DSNILPG ",
+    "MODULE": "DSNILPG",
     "PTFID": "UI26664"
   },
   {
@@ -3940,7 +4772,7 @@
     "PTFID": "UI24318"
   },
   {
-    "MODULE": "DSNIUL8 ",
+    "MODULE": "DSNIUL8",
     "PTFID": "UI24318"
   },
   {
@@ -3964,7 +4796,7 @@
     "PTFID": "UI25761"
   },
   {
-    "MODULE": "DSNIB   ",
+    "MODULE": "DSNIB",
     "PTFID": "UI25892"
   },
   {
@@ -3992,11 +4824,11 @@
     "PTFID": "UI18913"
   },
   {
-    "MODULE": "DSNICUR ",
+    "MODULE": "DSNICUR",
     "PTFID": "UI20244"
   },
   {
-    "MODULE": "DSNIFNP ",
+    "MODULE": "DSNIFNP",
     "PTFID": "UI20244"
   },
   {
@@ -4044,7 +4876,7 @@
     "PTFID": "UI20244"
   },
   {
-    "MODULE": "DSNI1OP ",
+    "MODULE": "DSNI1OP",
     "PTFID": "UI20244"
   },
   {
@@ -4204,7 +5036,7 @@
     "PTFID": "UI23676"
   },
   {
-    "MODULE": "DSNOUL8 ",
+    "MODULE": "DSNOUL8",
     "PTFID": "UI24480"
   },
   {
@@ -4336,7 +5168,7 @@
     "PTFID": "UK97100"
   },
   {
-    "MODULE": "DSNISDB ",
+    "MODULE": "DSNISDB",
     "PTFID": "UK97112"
   },
   {
@@ -4388,7 +5220,7 @@
     "PTFID": "UI15495"
   },
   {
-    "MODULE": "DSNISFW ",
+    "MODULE": "DSNISFW",
     "PTFID": "UI17354"
   },
   {
@@ -4668,6 +5500,10 @@
     "PTFID": "UK92659"
   },
   {
+    "MODULE": "DSNB5CEE",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNB5FOR",
     "PTFID": "UK92659"
   },
@@ -4696,8 +5532,52 @@
     "PTFID": "UK92659"
   },
   {
+    "MODULE": "DSNB5REE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNB5UEX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNB5UTX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNB5WRA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDFOB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDLGD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNGDLG2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIADBR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNIALLC",
     "PTFID": "UK92660"
+  },
+  {
+    "MODULE": "DSNIATPR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIAUDI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIBAUB",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIBHIS",
@@ -4720,6 +5600,10 @@
     "PTFID": "UK92660"
   },
   {
+    "MODULE": "DSNIBRES",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNIBROK",
     "PTFID": "UK92660"
   },
@@ -4728,7 +5612,27 @@
     "PTFID": "UK94245"
   },
   {
-    "MODULE": "DSNICLD ",
+    "MODULE": "DSNICBPH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNICDCC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNICDCL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNICDCP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNICKCB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNICLD",
     "PTFID": "UK92202"
   },
   {
@@ -4740,16 +5644,24 @@
     "PTFID": "UK94245"
   },
   {
+    "MODULE": "DSNICMAT",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNICSMP",
     "PTFID": "UK92660"
   },
   {
-    "MODULE": "DSNICUB ",
+    "MODULE": "DSNICUB",
     "PTFID": "UK95016"
   },
   {
     "MODULE": "DSNICUBD",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNICUBI",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIDBCB",
@@ -4764,12 +5676,24 @@
     "PTFID": "UK95423"
   },
   {
+    "MODULE": "DSNIDBGE",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNIDBMR",
     "PTFID": "UK92660"
   },
   {
     "MODULE": "DSNIDBRE",
     "PTFID": "UK92660"
+  },
+  {
+    "MODULE": "DSNIDBRF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIDDBD",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIDEFS",
@@ -4788,8 +5712,28 @@
     "PTFID": "UK92660"
   },
   {
+    "MODULE": "DSNIDPRO",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNIELOD",
     "PTFID": "UK92660"
+  },
+  {
+    "MODULE": "DSNIEXCT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIEXMA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIFLAF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIFLAI",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIFLAR",
@@ -4800,8 +5744,20 @@
     "PTFID": "UK92660"
   },
   {
+    "MODULE": "DSNIFOBD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIFSQD",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNIGSEL",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNIGTSP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIHLOD",
@@ -4812,6 +5768,18 @@
     "PTFID": "UK92660"
   },
   {
+    "MODULE": "DSNIINVC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIISF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIKLIK",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNILCLO",
     "PTFID": "UK92660"
   },
@@ -4820,12 +5788,36 @@
     "PTFID": "UK94245"
   },
   {
+    "MODULE": "DSNILDBD",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNILDOR",
     "PTFID": "UK94245"
   },
   {
+    "MODULE": "DSNILGCU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNILGLK",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNILKDR",
     "PTFID": "UK92660"
+  },
+  {
+    "MODULE": "DSNILKPS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNILTTV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIMLIK",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIMSAW",
@@ -4836,12 +5828,20 @@
     "PTFID": "UK92660"
   },
   {
+    "MODULE": "DSNINXHA",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNINXPT",
     "PTFID": "UK92660"
   },
   {
     "MODULE": "DSNIOLIN",
     "PTFID": "UK92660"
+  },
+  {
+    "MODULE": "DSNIOSEL",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIPDRO",
@@ -4872,8 +5872,20 @@
     "PTFID": "UK92200"
   },
   {
+    "MODULE": "DSNIQVSE",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNIRCLS",
     "PTFID": "UK94245"
+  },
+  {
+    "MODULE": "DSNIRCMP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIREDW",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIRGPA",
@@ -4896,12 +5908,56 @@
     "PTFID": "UK92661"
   },
   {
+    "MODULE": "DSNIRTSD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIRTSE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIRWHL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIRWSL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNISCAF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNISDLP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNISESR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNISFXP",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNISIE2",
     "PTFID": "UK92661"
   },
   {
+    "MODULE": "DSNISM",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNISMPI",
     "PTFID": "UK92661"
+  },
+  {
+    "MODULE": "DSNISOPV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNISORT",
+    "PTFID": null
   },
   {
     "MODULE": "DSNISPWF",
@@ -4910,6 +5966,10 @@
   {
     "MODULE": "DSNISTDB",
     "PTFID": "UK92661"
+  },
+  {
+    "MODULE": "DSNISTKA",
+    "PTFID": null
   },
   {
     "MODULE": "DSNISTPI",
@@ -4926,6 +5986,42 @@
   {
     "MODULE": "DSNISTWF",
     "PTFID": "UK92661"
+  },
+  {
+    "MODULE": "DSNISVBR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNISVPD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNITCU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNITMSO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNITRCE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNITRDM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNITRSU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNITSKS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNITSTA",
+    "PTFID": null
   },
   {
     "MODULE": "DSNITSTT",
@@ -4948,12 +6044,20 @@
     "PTFID": "UK92661"
   },
   {
+    "MODULE": "DSNIWNOT",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNIWNPR",
     "PTFID": "UK94245"
   },
   {
     "MODULE": "DSNIWPFT",
     "PTFID": "UK92661"
+  },
+  {
+    "MODULE": "DSNIWSVP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIWXFT",
@@ -4970,6 +6074,18 @@
   {
     "MODULE": "DSNIZLDE",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNKCLTH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNKCMDB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNKDCDB",
+    "PTFID": null
   },
   {
     "MODULE": "DSNKELD2",
@@ -5004,6 +6120,10 @@
     "PTFID": "UK95016"
   },
   {
+    "MODULE": "DSNKLMRR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNKLNLI",
     "PTFID": "UK95016"
   },
@@ -5028,6 +6148,14 @@
     "PTFID": "UK95016"
   },
   {
+    "MODULE": "DSNKSCRF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNKSTRT",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNKUREP",
     "PTFID": "UK95016"
   },
@@ -5044,12 +6172,40 @@
     "PTFID": "UK92661"
   },
   {
+    "MODULE": "DSNK1CNE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOCCLS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOCCL2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOCCSE",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNOCLEN",
     "PTFID": "UK92661"
   },
   {
+    "MODULE": "DSNOLDAL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOLENG",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNOLFOR",
     "PTFID": "UK92661"
+  },
+  {
+    "MODULE": "DSNOLIKE",
+    "PTFID": null
   },
   {
     "MODULE": "DSNOLMA2",
@@ -5064,8 +6220,56 @@
     "PTFID": "UK92661"
   },
   {
+    "MODULE": "DSNOLSET",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOLSE2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNONCHL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOPGNX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOPGN2",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNOPPLS",
     "PTFID": "UK92661"
+  },
+  {
+    "MODULE": "DSNORCHU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOROWC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNORUMS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOSELP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOSTOP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOSTRT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNOTCAS",
+    "PTFID": null
   },
   {
     "MODULE": "DSNOTFLA",
@@ -5076,88 +6280,164 @@
     "PTFID": "UK93068"
   },
   {
+    "MODULE": "DSNOXCHE",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNPADDV",
     "PTFID": "UK92661"
+  },
+  {
+    "MODULE": "DSNPAEDL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPAMS1",
+    "PTFID": null
   },
   {
     "MODULE": "DSNPCILR",
     "PTFID": "UK92661"
   },
   {
+    "MODULE": "DSNPCMT1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPCMT2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPCNDL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPCNP0",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNPCPS0",
     "PTFID": "UK92661"
+  },
+  {
+    "MODULE": "DSNPDALC",
+    "PTFID": null
   },
   {
     "MODULE": "DSNPDBET",
     "PTFID": "UK92661"
   },
   {
+    "MODULE": "DSNPDDSN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPDEDL",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNPDLLR",
     "PTFID": "UK92661"
   },
   {
-    "MODULE": "DSNPIPP ",
+    "MODULE": "DSNPDLTE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPDLT0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPDPS0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPDSNB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPGNP0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPHLRH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPHRC0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPIPP",
     "PTFID": "UK92661"
+  },
+  {
+    "MODULE": "DSNPLDL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPMMIF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPNOT0",
+    "PTFID": null
   },
   {
     "MODULE": "DSNPNUX2",
     "PTFID": "UK92662"
   },
   {
+    "MODULE": "DSNPPSNB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPRMVV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPSCT1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPSLEP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNPVOLS",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNPXTN1",
     "PTFID": "UK92662"
   },
   {
-    "MODULE": "DSNURWBG",
-    "PTFID": "UI48243"
+    "MODULE": "DSNXARD",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUULIA",
-    "PTFID": "UI48328"
+    "MODULE": "DSNXVCCW",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUDALT",
-    "PTFID": "UI48360"
+    "MODULE": "DSNXVCDF",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUSIIX",
-    "PTFID": "UI48500"
+    "MODULE": "DSNXVSUM",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUGLGR",
-    "PTFID": "UI48605"
+    "MODULE": "DSNXVTB",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNURWBF",
-    "PTFID": "UI48638"
-  },
-  {
-    "MODULE": "DSNURWBR",
-    "PTFID": "UI48638"
-  },
-  {
-    "MODULE": "DSNUZLCR",
-    "PTFID": "UI48705"
-  },
-  {
-    "MODULE": "DSNUGLDA",
-    "PTFID": "UI48762"
+    "MODULE": "DSNXVTBL",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXVEOA",
     "PTFID": "UI48762"
-  },
-  {
-    "MODULE": "DSNUBAII",
-    "PTFID": "UI48776"
-  },
-  {
-    "MODULE": "DSNURCCP",
-    "PTFID": "UI48826"
-  },
-  {
-    "MODULE": "DSNUCDA1",
-    "PTFID": "UI48868"
   },
   {
     "MODULE": "DSNIDBCI",
@@ -5216,170 +6496,6 @@
     "PTFID": "UI49102"
   },
   {
-    "MODULE": "DSNURLOG",
-    "PTFID": "UI49110"
-  },
-  {
-    "MODULE": "DSNURSCN",
-    "PTFID": "UI49223"
-  },
-  {
-    "MODULE": "DSNUULJA",
-    "PTFID": "UI49322"
-  },
-  {
-    "MODULE": "DSNULSWD",
-    "PTFID": "UI49348"
-  },
-  {
-    "MODULE": "DSNURFUI",
-    "PTFID": "UI49348"
-  },
-  {
-    "MODULE": "DSNURPDC",
-    "PTFID": "UI49348"
-  },
-  {
-    "MODULE": "DSNURWI ",
-    "PTFID": "UI49348"
-  },
-  {
-    "MODULE": "DSNURWT ",
-    "PTFID": "UI49348"
-  },
-  {
-    "MODULE": "DSNURDRN",
-    "PTFID": "UI49349"
-  },
-  {
-    "MODULE": "DSNURSWD",
-    "PTFID": "UI49349"
-  },
-  {
-    "MODULE": "DSNURFIT",
-    "PTFID": "UI49388"
-  },
-  {
-    "MODULE": "DSNUGUCA",
-    "PTFID": "UI49484"
-  },
-  {
-    "MODULE": "DSNUSINI",
-    "PTFID": "UI49484"
-  },
-  {
-    "MODULE": "DSNUSITS",
-    "PTFID": "UI49484"
-  },
-  {
-    "MODULE": "DSNUSTBL",
-    "PTFID": "UI49484"
-  },
-  {
-    "MODULE": "DSNUKLOB",
-    "PTFID": "UI49584"
-  },
-  {
-    "MODULE": "DSNUUSEL",
-    "PTFID": "UI46710"
-  },
-  {
-    "MODULE": "DSNURDPP",
-    "PTFID": "UI46788"
-  },
-  {
-    "MODULE": "DSNUKIFK",
-    "PTFID": "UI46859"
-  },
-  {
-    "MODULE": "DSNURCRI",
-    "PTFID": "UI46859"
-  },
-  {
-    "MODULE": "DSNURRNM",
-    "PTFID": "UI46987"
-  },
-  {
-    "MODULE": "DSNUGSUU",
-    "PTFID": "UI47132"
-  },
-  {
-    "MODULE": "DSNURBAL",
-    "PTFID": "UI47425"
-  },
-  {
-    "MODULE": "DSNUULVA",
-    "PTFID": "UI47517"
-  },
-  {
-    "MODULE": "DSNUGACC",
-    "PTFID": "UI47698"
-  },
-  {
-    "MODULE": "DSNUSIDX",
-    "PTFID": "UI47698"
-  },
-  {
-    "MODULE": "DSNUGRDL",
-    "PTFID": "UI47927"
-  },
-  {
-    "MODULE": "DSNUGRAR",
-    "PTFID": "UI47999"
-  },
-  {
-    "MODULE": "DSNURCRF",
-    "PTFID": "UI47999"
-  },
-  {
-    "MODULE": "DSNUBCOP",
-    "PTFID": "UI48056"
-  },
-  {
-    "MODULE": "DSNUMDEL",
-    "PTFID": "UI48056"
-  },
-  {
-    "MODULE": "DSNUBADR",
-    "PTFID": "UI48059"
-  },
-  {
-    "MODULE": "DSNUBAI2",
-    "PTFID": "UI48059"
-  },
-  {
-    "MODULE": "DSNUCAIN",
-    "PTFID": "UI48092"
-  },
-  {
-    "MODULE": "DSNUGSET",
-    "PTFID": "UI48092"
-  },
-  {
-    "MODULE": "DSNUGUVR",
-    "PTFID": "UI48150"
-  },
-  {
-    "MODULE": "DSNURRNG",
-    "PTFID": "UI45340"
-  },
-  {
-    "MODULE": "DSNUKINE",
-    "PTFID": "UI45554"
-  },
-  {
-    "MODULE": "DSNUGDSP",
-    "PTFID": "UI45714"
-  },
-  {
-    "MODULE": "DSNUCALZ",
-    "PTFID": "UI45741"
-  },
-  {
-    "MODULE": "DSNUCATM",
-    "PTFID": "UI45743"
-  },
-  {
     "MODULE": "DSNIDBLK",
     "PTFID": "UI45903"
   },
@@ -5388,384 +6504,8 @@
     "PTFID": "UI45903"
   },
   {
-    "MODULE": "DSNURFBR",
-    "PTFID": "UI46254"
-  },
-  {
-    "MODULE": "DSNURLAP",
-    "PTFID": "UI46255"
-  },
-  {
-    "MODULE": "DSNURBXA",
-    "PTFID": "UI46552"
-  },
-  {
-    "MODULE": "DSNUTSSA",
-    "PTFID": "UI46621"
-  },
-  {
-    "MODULE": "DSNURPUI",
-    "PTFID": "UI46644"
-  },
-  {
-    "MODULE": "DSNUCADL",
-    "PTFID": "UI44826"
-  },
-  {
-    "MODULE": "DSNUGAFS",
-    "PTFID": "UI44850"
-  },
-  {
-    "MODULE": "DSNUDPOP",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNUDPRT",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNUGDAL",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNUGIFC",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNURBXC",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNURMPG",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNURULN",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNURWUD",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNUSDST",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNUSLTS",
-    "PTFID": "UI44914"
-  },
-  {
-    "MODULE": "DSNUCATO",
-    "PTFID": "UI45033"
-  },
-  {
-    "MODULE": "DSNUGDIS",
-    "PTFID": "UI45034"
-  },
-  {
-    "MODULE": "DSNUSACR",
-    "PTFID": "UI40335"
-  },
-  {
-    "MODULE": "DSNUSAC1",
-    "PTFID": "UI40335"
-  },
-  {
-    "MODULE": "DSNUSAFQ",
-    "PTFID": "UI40335"
-  },
-  {
-    "MODULE": "DSNUSAFV",
-    "PTFID": "UI40335"
-  },
-  {
-    "MODULE": "DSNUKNFK",
-    "PTFID": "UI41521"
-  },
-  {
-    "MODULE": "DSNUGRSP",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNUGRST",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNUGSRX",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNULDRN",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNULFIJ",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNULSYC",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURBDN",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURBXE",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURCON",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURFIS",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURPBA",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURRST",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURSLD",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURUSO",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURWIM",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURWIR",
-    "PTFID": "UI41774"
-  },
-  {
-    "MODULE": "DSNURPNL",
-    "PTFID": "UI42173"
-  },
-  {
-    "MODULE": "DSNURUFL",
-    "PTFID": "UI42173"
-  },
-  {
-    "MODULE": "DSNURWUF",
-    "PTFID": "UI42484"
-  },
-  {
-    "MODULE": "DSNUGTER",
-    "PTFID": "UI43041"
-  },
-  {
-    "MODULE": "DSNURPLI",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNURPNI",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNURPPI",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNUULCA",
-    "PTFID": "UI43440"
-  },
-  {
-    "MODULE": "DSNUCINT",
-    "PTFID": "UI43621"
-  },
-  {
-    "MODULE": "DSNUCLGR",
-    "PTFID": "UI43621"
-  },
-  {
-    "MODULE": "DSNUCRUL",
-    "PTFID": "UI43621"
-  },
-  {
-    "MODULE": "DSNUKINT",
-    "PTFID": "UI43621"
-  },
-  {
-    "MODULE": "DSNUKIUL",
-    "PTFID": "UI43621"
-  },
-  {
-    "MODULE": "DSNURLXL",
-    "PTFID": "UI43621"
-  },
-  {
-    "MODULE": "DSNURWIK",
-    "PTFID": "UI43621"
-  },
-  {
-    "MODULE": "DSNUULXA",
-    "PTFID": "UI43621"
-  },
-  {
-    "MODULE": "DSNUCLOG",
-    "PTFID": "UI43626"
-  },
-  {
-    "MODULE": "DSNUGSTA",
-    "PTFID": "UI43626"
-  },
-  {
-    "MODULE": "DSNULOG1",
-    "PTFID": "UI43626"
-  },
-  {
-    "MODULE": "DSNURBDC",
-    "PTFID": "UI43626"
-  },
-  {
-    "MODULE": "DSNUCARS",
-    "PTFID": "UI43676"
-  },
-  {
-    "MODULE": "DSNU2ASR",
-    "PTFID": "UI43706"
-  },
-  {
-    "MODULE": "DSNUSACD",
-    "PTFID": "UI43918"
-  },
-  {
-    "MODULE": "DSNURVAL",
-    "PTFID": "UI43956"
-  },
-  {
     "MODULE": "DSNIABND",
     "PTFID": "UI43987"
-  },
-  {
-    "MODULE": "DSNURLAX",
-    "PTFID": "UI44062"
-  },
-  {
-    "MODULE": "DSNUGFCR",
-    "PTFID": "UI44439"
-  },
-  {
-    "MODULE": "DSNURECS",
-    "PTFID": "UI44439"
-  },
-  {
-    "MODULE": "DSNUCBVR",
-    "PTFID": "UI44671"
-  },
-  {
-    "MODULE": "DSNUSUTP",
-    "PTFID": "UI44755"
-  },
-  {
-    "MODULE": "DSNUCASA",
-    "PTFID": "UI40901"
-  },
-  {
-    "MODULE": "DSNUBAUS",
-    "PTFID": "UI41345"
-  },
-  {
-    "MODULE": "DSNUSEF2",
-    "PTFID": "UI41459"
-  },
-  {
-    "MODULE": "DSNUSSRI",
-    "PTFID": "UI41595"
-  },
-  {
-    "MODULE": "DSNUSVAL",
-    "PTFID": "UI41595"
-  },
-  {
-    "MODULE": "DSNUECMI",
-    "PTFID": "UI41695"
-  },
-  {
-    "MODULE": "DSNUECM2",
-    "PTFID": "UI41695"
-  },
-  {
-    "MODULE": "DSNUESCM",
-    "PTFID": "UI41695"
-  },
-  {
-    "MODULE": "DSNUMOBD",
-    "PTFID": "UI41991"
-  },
-  {
-    "MODULE": "DSNUMODA",
-    "PTFID": "UI41991"
-  },
-  {
-    "MODULE": "DSNURLOB",
-    "PTFID": "UI42157"
-  },
-  {
-    "MODULE": "DSNUGMAP",
-    "PTFID": "UI42325"
-  },
-  {
-    "MODULE": "DSNUSUIP",
-    "PTFID": "UI42426"
-  },
-  {
-    "MODULE": "DSNUGCKP",
-    "PTFID": "UI42596"
-  },
-  {
-    "MODULE": "DSNURGST",
-    "PTFID": "UI42604"
-  },
-  {
-    "MODULE": "DSNURMAP",
-    "PTFID": "UI42610"
-  },
-  {
-    "MODULE": "DSNUSUTB",
-    "PTFID": "UI43188"
-  },
-  {
-    "MODULE": "DSNUGCPD",
-    "PTFID": "UI38077"
-  },
-  {
-    "MODULE": "DSNUGSUG",
-    "PTFID": "UI38077"
-  },
-  {
-    "MODULE": "DSNUGIXI",
-    "PTFID": "UI39000"
-  },
-  {
-    "MODULE": "DSNUCALC",
-    "PTFID": "UI39090"
-  },
-  {
-    "MODULE": "DSNUGPAL",
-    "PTFID": "UI39245"
-  },
-  {
-    "MODULE": "DSNUBASI",
-    "PTFID": "UI39305"
-  },
-  {
-    "MODULE": "DSNUBINS",
-    "PTFID": "UI39305"
-  },
-  {
-    "MODULE": "DSNUILSA",
-    "PTFID": "UI39930"
   },
   {
     "MODULE": "DSNIDBCA",
@@ -5780,480 +6520,68 @@
     "PTFID": "UI40057"
   },
   {
-    "MODULE": "DSNUSAH1",
-    "PTFID": "UI40250"
-  },
-  {
-    "MODULE": "DSNUSAH2",
-    "PTFID": "UI40250"
-  },
-  {
-    "MODULE": "DSNUYAR4",
-    "PTFID": "UI40287"
-  },
-  {
-    "MODULE": "DSNUYAS2",
-    "PTFID": "UI40287"
-  },
-  {
-    "MODULE": "DSNU2AII",
-    "PTFID": "UI40287"
-  },
-  {
-    "MODULE": "DSNUKDFK",
-    "PTFID": "UI40525"
-  },
-  {
-    "MODULE": "DSNUKSCT",
-    "PTFID": "UI40525"
-  },
-  {
-    "MODULE": "DSNURBXB",
-    "PTFID": "UI40525"
-  },
-  {
-    "MODULE": "DSNURFTB",
-    "PTFID": "UI40870"
-  },
-  {
     "MODULE": "DSNXVCFD",
     "PTFID": "UI33456"
-  },
-  {
-    "MODULE": "DSNUBAFI",
-    "PTFID": "UI33964"
-  },
-  {
-    "MODULE": "DSNUBASA",
-    "PTFID": "UI33964"
-  },
-  {
-    "MODULE": "DSNUUUFA",
-    "PTFID": "UI33978"
-  },
-  {
-    "MODULE": "DSNUSUPT",
-    "PTFID": "UI34842"
-  },
-  {
-    "MODULE": "DSNUKINP",
-    "PTFID": "UI35498"
-  },
-  {
-    "MODULE": "DSNUROFL",
-    "PTFID": "UI35582"
-  },
-  {
-    "MODULE": "DSNUCBRL",
-    "PTFID": "UI35632"
-  },
-  {
-    "MODULE": "DSNUCDEL",
-    "PTFID": "UI35632"
-  },
-  {
-    "MODULE": "DSNUKGET",
-    "PTFID": "UI35632"
-  },
-  {
-    "MODULE": "DSNUKIKI",
-    "PTFID": "UI35632"
-  },
-  {
-    "MODULE": "DSNUKXCH",
-    "PTFID": "UI35632"
-  },
-  {
-    "MODULE": "DSNURBXZ",
-    "PTFID": "UI35632"
-  },
-  {
-    "MODULE": "DSNUCALA",
-    "PTFID": "UI35781"
-  },
-  {
-    "MODULE": "DSNUGPRF",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNURFBI",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSAC2",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSAFK",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSAF1",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSAF2",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSAIX",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSAKT",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSATS",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSDRA",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSDRC",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSEOF",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSILB",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSIVC",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSIXO",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSPAI",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSRST",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSSFB",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSUCD",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUSUPD",
-    "PTFID": "UI36143"
-  },
-  {
-    "MODULE": "DSNUGSPC",
-    "PTFID": "UI36322"
-  },
-  {
-    "MODULE": "DSNURRRI",
-    "PTFID": "UI36392"
-  },
-  {
-    "MODULE": "DSNUVARS",
-    "PTFID": "UI37313"
-  },
-  {
-    "MODULE": "DSNUSACO",
-    "PTFID": "UI37586"
-  },
-  {
-    "MODULE": "DSNUBASP",
-    "PTFID": "UI37990"
-  },
-  {
-    "MODULE": "DSNUSUPI",
-    "PTFID": "UI37992"
-  },
-  {
-    "MODULE": "DSNUCACL",
-    "PTFID": "UI38428"
-  },
-  {
-    "MODULE": "DSNUBARI",
-    "PTFID": "UI38755"
   },
   {
     "MODULE": "DSNIDBNG",
     "PTFID": "UI28704"
   },
   {
-    "MODULE": "DSNURENC",
-    "PTFID": "UI29689"
-  },
-  {
-    "MODULE": "DSNURNFL",
-    "PTFID": "UI29689"
-  },
-  {
-    "MODULE": "DSNUDISP",
-    "PTFID": "UI30115"
-  },
-  {
-    "MODULE": "DSNUBAIC",
-    "PTFID": "UI30900"
-  },
-  {
-    "MODULE": "DSNUBABR",
-    "PTFID": "UI31190"
-  },
-  {
-    "MODULE": "DSNUBARS",
-    "PTFID": "UI31190"
-  },
-  {
-    "MODULE": "DSNURICP",
-    "PTFID": "UI31255"
-  },
-  {
-    "MODULE": "DSNUBAID",
-    "PTFID": "UI31412"
-  },
-  {
-    "MODULE": "DSNUBASM",
-    "PTFID": "UI31412"
-  },
-  {
-    "MODULE": "DSNUGASO",
-    "PTFID": "UI32226"
-  },
-  {
-    "MODULE": "DSNUKDRN",
-    "PTFID": "UI32235"
-  },
-  {
-    "MODULE": "DSNURFIJ",
-    "PTFID": "UI32235"
-  },
-  {
-    "MODULE": "DSNURBUS",
-    "PTFID": "UI32404"
-  },
-  {
-    "MODULE": "DSNUGDTC",
-    "PTFID": "UI32412"
-  },
-  {
     "MODULE": "DSNILKDB",
     "PTFID": "UI32421"
-  },
-  {
-    "MODULE": "DSNURURT",
-    "PTFID": "UI32563"
-  },
-  {
-    "MODULE": "DSNURUTS",
-    "PTFID": "UI32563"
-  },
-  {
-    "MODULE": "DSNUMSTA",
-    "PTFID": "UI26697"
-  },
-  {
-    "MODULE": "DSNUBACI",
-    "PTFID": "UI26895"
-  },
-  {
-    "MODULE": "DSNUKINS",
-    "PTFID": "UI27589"
-  },
-  {
-    "MODULE": "DSNUGSRI",
-    "PTFID": "UI28192"
-  },
-  {
-    "MODULE": "DSNUPREC",
-    "PTFID": "UI28507"
-  },
-  {
-    "MODULE": "DSNUQUIA",
-    "PTFID": "UI28507"
-  },
-  {
-    "MODULE": "DSNUECM4",
-    "PTFID": "UI21964"
-  },
-  {
-    "MODULE": "DSNUGTCK",
-    "PTFID": "UI22702"
-  },
-  {
-    "MODULE": "DSNUCINM",
-    "PTFID": "UI23293"
-  },
-  {
-    "MODULE": "DSNUGTE0",
-    "PTFID": "UI24261"
-  },
-  {
-    "MODULE": "DSNUGUCC",
-    "PTFID": "UI24261"
   },
   {
     "MODULE": "DSNIUL16",
     "PTFID": "UI24318"
   },
   {
-    "MODULE": "DSNIUL8 ",
+    "MODULE": "DSNIUL8",
     "PTFID": "UI24318"
-  },
-  {
-    "MODULE": "DSNUSUIX",
-    "PTFID": "UI24554"
-  },
-  {
-    "MODULE": "DSNUSUTS",
-    "PTFID": "UI24554"
-  },
-  {
-    "MODULE": "DSNUPBSD",
-    "PTFID": "UI25091"
-  },
-  {
-    "MODULE": "DSNUGPSV",
-    "PTFID": "UI26060"
-  },
-  {
-    "MODULE": "DSNUGCPL",
-    "PTFID": "UI26317"
-  },
-  {
-    "MODULE": "DSNUPCPY",
-    "PTFID": "UI26317"
-  },
-  {
-    "MODULE": "DSNUUUCA",
-    "PTFID": "UI18913"
-  },
-  {
-    "MODULE": "DSNUADP1",
-    "PTFID": "UI21469"
-  },
-  {
-    "MODULE": "DSNUGAGS",
-    "PTFID": "UI21989"
-  },
-  {
-    "MODULE": "DSNUDISD",
-    "PTFID": "UI22579"
-  },
-  {
-    "MODULE": "DSNUKRDY",
-    "PTFID": "UI22579"
-  },
-  {
-    "MODULE": "DSNURWRF",
-    "PTFID": "UI22678"
   },
   {
     "MODULE": "DSNIDBAE",
     "PTFID": "UI23032"
   },
   {
-    "MODULE": "DSNUUGMS",
-    "PTFID": "UI24116"
-  },
-  {
-    "MODULE": "DSNUYAS1",
-    "PTFID": "UI19253"
-  },
-  {
     "MODULE": "DSNXVCTS",
     "PTFID": "UI19625"
-  },
-  {
-    "MODULE": "DSNUGHSH",
-    "PTFID": "UI20601"
-  },
-  {
-    "MODULE": "DSNUCAWT",
-    "PTFID": "UI21050"
-  },
-  {
-    "MODULE": "DSNUCLAX",
-    "PTFID": "UI16267"
-  },
-  {
-    "MODULE": "DSNURKAC",
-    "PTFID": "UI17905"
-  },
-  {
-    "MODULE": "DSNUVABK",
-    "PTFID": "UI18296"
-  },
-  {
-    "MODULE": "DSNUECMJ",
-    "PTFID": "UI18807"
-  },
-  {
-    "MODULE": "DSNUKREL",
-    "PTFID": "UI16691"
-  },
-  {
-    "MODULE": "DSNUPPBS",
-    "PTFID": "UK96173"
-  },
-  {
-    "MODULE": "DSNUGTBN",
-    "PTFID": "UK96196"
-  },
-  {
-    "MODULE": "DSNUPSET",
-    "PTFID": "UK96196"
-  },
-  {
-    "MODULE": "DSNUPTSS",
-    "PTFID": "UK96196"
-  },
-  {
-    "MODULE": "DSNURFRP",
-    "PTFID": "UK96351"
   },
   {
     "MODULE": "DSNIELIK",
     "PTFID": "UK96708"
   },
   {
-    "MODULE": "DSNUGDBT",
-    "PTFID": "UK97112"
+    "MODULE": "DSNIEXCT",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUKINA",
-    "PTFID": "UK97374"
-  },
-  {
-    "MODULE": "DSNUCALU",
-    "PTFID": "UK97557"
-  },
-  {
-    "MODULE": "DSNUCBRS",
-    "PTFID": "UK97664"
-  },
-  {
-    "MODULE": "DSNUBALS",
-    "PTFID": "UI12220"
-  },
-  {
-    "MODULE": "DSNUDCTC",
-    "PTFID": "UI13814"
-  },
-  {
-    "MODULE": "DSNUGEST",
-    "PTFID": "UI12860"
+    "MODULE": "DSNIEXMA",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIGSEL",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNIGTSP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIKLIK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNILDBD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNILKPS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNIMLIK",
+    "PTFID": null
   },
   {
     "MODULE": "DSNIZLDC",
@@ -6268,208 +6596,40 @@
     "PTFID": "UK95016"
   },
   {
-    "MODULE": "DSNUADP2",
-    "PTFID": "UK95016"
+    "MODULE": "DSNXARD",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUAHR2",
-    "PTFID": "UK92662"
+    "MODULE": "DSNXEAB",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUBACH",
-    "PTFID": "UK92662"
+    "MODULE": "DSNXEFB",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUBAGT",
-    "PTFID": "UK92662"
+    "MODULE": "DSNXFLP",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUBCKD",
-    "PTFID": "UK95420"
+    "MODULE": "DSNXOEER",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUCACR",
-    "PTFID": "UK95420"
+    "MODULE": "DSNXSCH",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUCATK",
-    "PTFID": "UK92662"
+    "MODULE": "DSNXTSCA",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUCAWR",
-    "PTFID": "UK95420"
+    "MODULE": "DSNXVBIG",
+    "PTFID": null
   },
   {
-    "MODULE": "DSNUCBLI",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUCBRK",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUCBRP",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUCBRR",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUCDRN",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUCTER",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUDCTB",
-    "PTFID": "UK95016"
-  },
-  {
-    "MODULE": "DSNUDCTV",
-    "PTFID": "UK95016"
-  },
-  {
-    "MODULE": "DSNUDSER",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUECM5",
-    "PTFID": "UK95420"
-  },
-  {
-    "MODULE": "DSNUECM6",
-    "PTFID": "UK95420"
-  },
-  {
-    "MODULE": "DSNUEXDL",
-    "PTFID": "UK93550"
-  },
-  {
-    "MODULE": "DSNUGCUR",
-    "PTFID": "UK93949"
-  },
-  {
-    "MODULE": "DSNUGPAM",
-    "PTFID": "UK95420"
-  },
-  {
-    "MODULE": "DSNUGRNG",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUGRSO",
-    "PTFID": "UK95016"
-  },
-  {
-    "MODULE": "DSNUGTRF",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUGUIP",
-    "PTFID": "UK95423"
-  },
-  {
-    "MODULE": "DSNUGUOL",
-    "PTFID": "UK95420"
-  },
-  {
-    "MODULE": "DSNUGXKP",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUGXWA",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUKICK",
-    "PTFID": "UK95016"
-  },
-  {
-    "MODULE": "DSNUKINM",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUKLIT",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUKRDN",
-    "PTFID": "UK95016"
-  },
-  {
-    "MODULE": "DSNUKSRI",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUKTER",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNUPLGR",
-    "PTFID": "UK95016"
-  },
-  {
-    "MODULE": "DSNUPPCP",
-    "PTFID": "UK95016"
-  },
-  {
-    "MODULE": "DSNURBT1",
-    "PTFID": "UK92203"
-  },
-  {
-    "MODULE": "DSNURCLP",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNURLBI",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNURPST",
-    "PTFID": "UK92662"
-  },
-  {
-    "MODULE": "DSNURSYC",
-    "PTFID": "UK94243"
-  },
-  {
-    "MODULE": "DSNUSINK",
-    "PTFID": "UK94246"
-  },
-  {
-    "MODULE": "DSNUSLOB",
-    "PTFID": "UK94246"
-  },
-  {
-    "MODULE": "DSNUSPKD",
-    "PTFID": "UK94246"
-  },
-  {
-    "MODULE": "DSNUSUCO",
-    "PTFID": "UK94246"
-  },
-  {
-    "MODULE": "DSNUSUKD",
-    "PTFID": "UK94246"
-  },
-  {
-    "MODULE": "DSNUSUKT",
-    "PTFID": "UK94246"
-  },
-  {
-    "MODULE": "DSNUSUPC",
-    "PTFID": "UK94246"
-  },
-  {
-    "MODULE": "DSNUSUPK",
-    "PTFID": "UK94246"
-  },
-  {
-    "MODULE": "DSNUVARL",
-    "PTFID": "UK92662"
+    "MODULE": "DSNXVCDF",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXVDTT",
@@ -6478,6 +6638,34 @@
   {
     "MODULE": "DSNXVDT2",
     "PTFID": "UK95423"
+  },
+  {
+    "MODULE": "DSNXVSUM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTBL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTT9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVT29",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLMTOK",
+    "PTFID": null
   },
   {
     "MODULE": "DSNX8API",
@@ -6568,7 +6756,7 @@
     "PTFID": "UI42654"
   },
   {
-    "MODULE": "DSNHSM1 ",
+    "MODULE": "DSNHSM1",
     "PTFID": "UI43989"
   },
   {
@@ -6584,7 +6772,7 @@
     "PTFID": "UI44585"
   },
   {
-    "MODULE": "DSNHSM7 ",
+    "MODULE": "DSNHSM7",
     "PTFID": "UI44585"
   },
   {
@@ -6608,7 +6796,7 @@
     "PTFID": "UI35044"
   },
   {
-    "MODULE": "DSNHLEX ",
+    "MODULE": "DSNHLEX",
     "PTFID": "UI35669"
   },
   {
@@ -6620,7 +6808,7 @@
     "PTFID": "UI28623"
   },
   {
-    "MODULE": "DSNHSM5 ",
+    "MODULE": "DSNHSM5",
     "PTFID": "UI29037"
   },
   {
@@ -6640,7 +6828,7 @@
     "PTFID": "UI22343"
   },
   {
-    "MODULE": "DSNHSM2 ",
+    "MODULE": "DSNHSM2",
     "PTFID": "UI24604"
   },
   {
@@ -6684,8 +6872,16 @@
     "PTFID": "UI13764"
   },
   {
+    "MODULE": "DSNHCHN",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNHCKNM",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNHCORE",
+    "PTFID": null
   },
   {
     "MODULE": "DSNHIORT",
@@ -6748,7 +6944,7 @@
     "PTFID": "UK95421"
   },
   {
-    "MODULE": "DSNHSM3 ",
+    "MODULE": "DSNHSM3",
     "PTFID": "UK95016"
   },
   {
@@ -6760,7 +6956,7 @@
     "PTFID": "UK95016"
   },
   {
-    "MODULE": "DSNHSM4 ",
+    "MODULE": "DSNHSM4",
     "PTFID": "UK95016"
   },
   {
@@ -6772,24 +6968,28 @@
     "PTFID": "UK95016"
   },
   {
-    "MODULE": "DSNHSM6 ",
+    "MODULE": "DSNHSM6",
     "PTFID": "UK95016"
   },
   {
-    "MODULE": "DSNHSM8 ",
+    "MODULE": "DSNHSM8",
     "PTFID": "UK95016"
   },
   {
-    "MODULE": "DSNHSM9 ",
+    "MODULE": "DSNHSM9",
     "PTFID": "UK95016"
   },
   {
-    "MODULE": "DSNHSQL ",
+    "MODULE": "DSNHSQL",
     "PTFID": "UK95016"
   },
   {
     "MODULE": "DSNHSQLA",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNHSTAB",
+    "PTFID": null
   },
   {
     "MODULE": "DSNHTARY",
@@ -6798,6 +6998,38 @@
   {
     "MODULE": "DSNHTEXL",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNHTOKD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNHTOKU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEFB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSCH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCDF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVSUM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTBL",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXODFB",
@@ -6828,11 +7060,11 @@
     "PTFID": "UI48384"
   },
   {
-    "MODULE": "DSNXOEM ",
+    "MODULE": "DSNXOEM",
     "PTFID": "UI48408"
   },
   {
-    "MODULE": "DSNXOGP ",
+    "MODULE": "DSNXOGP",
     "PTFID": "UI48438"
   },
   {
@@ -6852,11 +7084,11 @@
     "PTFID": "UI48595"
   },
   {
-    "MODULE": "DSNXEET ",
+    "MODULE": "DSNXEET",
     "PTFID": "UI48595"
   },
   {
-    "MODULE": "DSNXERT ",
+    "MODULE": "DSNXERT",
     "PTFID": "UI48595"
   },
   {
@@ -6872,7 +7104,7 @@
     "PTFID": "UI48595"
   },
   {
-    "MODULE": "DSNXOCN ",
+    "MODULE": "DSNXOCN",
     "PTFID": "UI48602"
   },
   {
@@ -6956,7 +7188,7 @@
     "PTFID": "UI48631"
   },
   {
-    "MODULE": "DSNXEDP ",
+    "MODULE": "DSNXEDP",
     "PTFID": "UI48640"
   },
   {
@@ -7088,11 +7320,11 @@
     "PTFID": "UI48691"
   },
   {
-    "MODULE": "DSNXOIN ",
+    "MODULE": "DSNXOIN",
     "PTFID": "UI48691"
   },
   {
-    "MODULE": "DSNXO1S ",
+    "MODULE": "DSNXO1S",
     "PTFID": "UI48711"
   },
   {
@@ -7128,7 +7360,7 @@
     "PTFID": "UI48762"
   },
   {
-    "MODULE": "DSNXOTG ",
+    "MODULE": "DSNXOTG",
     "PTFID": "UI48762"
   },
   {
@@ -7224,7 +7456,7 @@
     "PTFID": "UI48879"
   },
   {
-    "MODULE": "DSNXRGD ",
+    "MODULE": "DSNXRGD",
     "PTFID": "UI48879"
   },
   {
@@ -7236,7 +7468,7 @@
     "PTFID": "UI48908"
   },
   {
-    "MODULE": "DSNXOPG ",
+    "MODULE": "DSNXOPG",
     "PTFID": "UI48936"
   },
   {
@@ -7324,7 +7556,7 @@
     "PTFID": "UI46569"
   },
   {
-    "MODULE": "DSNXOSR ",
+    "MODULE": "DSNXOSR",
     "PTFID": "UI46683"
   },
   {
@@ -7336,11 +7568,11 @@
     "PTFID": "UI46772"
   },
   {
-    "MODULE": "DSNXOB2 ",
+    "MODULE": "DSNXOB2",
     "PTFID": "UI46798"
   },
   {
-    "MODULE": "DSNXOOP ",
+    "MODULE": "DSNXOOP",
     "PTFID": "UI46919"
   },
   {
@@ -7364,15 +7596,15 @@
     "PTFID": "UI47078"
   },
   {
-    "MODULE": "DSNXOMI ",
+    "MODULE": "DSNXOMI",
     "PTFID": "UI47114"
   },
   {
-    "MODULE": "DSNXOMS ",
+    "MODULE": "DSNXOMS",
     "PTFID": "UI47114"
   },
   {
-    "MODULE": "DSNXOPB ",
+    "MODULE": "DSNXOPB",
     "PTFID": "UI47114"
   },
   {
@@ -7388,7 +7620,7 @@
     "PTFID": "UI47163"
   },
   {
-    "MODULE": "DSNXOBM ",
+    "MODULE": "DSNXOBM",
     "PTFID": "UI47195"
   },
   {
@@ -7404,7 +7636,7 @@
     "PTFID": "UI47394"
   },
   {
-    "MODULE": "DSNXOD3 ",
+    "MODULE": "DSNXOD3",
     "PTFID": "UI47396"
   },
   {
@@ -7412,7 +7644,7 @@
     "PTFID": "UI47396"
   },
   {
-    "MODULE": "DSNXEBR ",
+    "MODULE": "DSNXEBR",
     "PTFID": "UI47402"
   },
   {
@@ -7440,7 +7672,7 @@
     "PTFID": "UI47402"
   },
   {
-    "MODULE": "DSNXRFN ",
+    "MODULE": "DSNXRFN",
     "PTFID": "UI47402"
   },
   {
@@ -7460,7 +7692,7 @@
     "PTFID": "UI47402"
   },
   {
-    "MODULE": "DSNXSZK ",
+    "MODULE": "DSNXSZK",
     "PTFID": "UI47402"
   },
   {
@@ -7468,7 +7700,7 @@
     "PTFID": "UI47494"
   },
   {
-    "MODULE": "DSNXOST ",
+    "MODULE": "DSNXOST",
     "PTFID": "UI47494"
   },
   {
@@ -7492,11 +7724,11 @@
     "PTFID": "UI47539"
   },
   {
-    "MODULE": "DSNXOGA ",
+    "MODULE": "DSNXOGA",
     "PTFID": "UI47699"
   },
   {
-    "MODULE": "DSNXOD5 ",
+    "MODULE": "DSNXOD5",
     "PTFID": "UI47717"
   },
   {
@@ -7512,7 +7744,7 @@
     "PTFID": "UI47891"
   },
   {
-    "MODULE": "DSNXRFF ",
+    "MODULE": "DSNXRFF",
     "PTFID": "UI47891"
   },
   {
@@ -7560,11 +7792,11 @@
     "PTFID": "UI48082"
   },
   {
-    "MODULE": "DSNXELX ",
+    "MODULE": "DSNXELX",
     "PTFID": "UI48082"
   },
   {
-    "MODULE": "DSNXEPP ",
+    "MODULE": "DSNXEPP",
     "PTFID": "UI48082"
   },
   {
@@ -7572,7 +7804,7 @@
     "PTFID": "UI48082"
   },
   {
-    "MODULE": "DSNXOMD ",
+    "MODULE": "DSNXOMD",
     "PTFID": "UI48082"
   },
   {
@@ -7612,7 +7844,7 @@
     "PTFID": "UI45140"
   },
   {
-    "MODULE": "DSNXOCF ",
+    "MODULE": "DSNXOCF",
     "PTFID": "UI45140"
   },
   {
@@ -7620,7 +7852,7 @@
     "PTFID": "UI45216"
   },
   {
-    "MODULE": "DSNXEPM ",
+    "MODULE": "DSNXEPM",
     "PTFID": "UI45280"
   },
   {
@@ -7676,11 +7908,11 @@
     "PTFID": "UI45974"
   },
   {
-    "MODULE": "DSNXOGD ",
+    "MODULE": "DSNXOGD",
     "PTFID": "UI45994"
   },
   {
-    "MODULE": "DSNXOTL ",
+    "MODULE": "DSNXOTL",
     "PTFID": "UI45994"
   },
   {
@@ -7708,7 +7940,7 @@
     "PTFID": "UI46054"
   },
   {
-    "MODULE": "DSNXOQ2 ",
+    "MODULE": "DSNXOQ2",
     "PTFID": "UI46054"
   },
   {
@@ -7716,7 +7948,7 @@
     "PTFID": "UI46150"
   },
   {
-    "MODULE": "DSNXOSL ",
+    "MODULE": "DSNXOSL",
     "PTFID": "UI46171"
   },
   {
@@ -7732,7 +7964,7 @@
     "PTFID": "UI46198"
   },
   {
-    "MODULE": "DSNXOP0 ",
+    "MODULE": "DSNXOP0",
     "PTFID": "UI46218"
   },
   {
@@ -7804,11 +8036,11 @@
     "PTFID": "UI46243"
   },
   {
-    "MODULE": "DSNXOCL ",
+    "MODULE": "DSNXOCL",
     "PTFID": "UI46305"
   },
   {
-    "MODULE": "DSNXOP1 ",
+    "MODULE": "DSNXOP1",
     "PTFID": "UI46353"
   },
   {
@@ -7840,7 +8072,7 @@
     "PTFID": "UI44987"
   },
   {
-    "MODULE": "DSNXRSJ ",
+    "MODULE": "DSNXRSJ",
     "PTFID": "UI44987"
   },
   {
@@ -7884,7 +8116,7 @@
     "PTFID": "UI43156"
   },
   {
-    "MODULE": "DSNXOVD ",
+    "MODULE": "DSNXOVD",
     "PTFID": "UI43645"
   },
   {
@@ -7928,11 +8160,11 @@
     "PTFID": "UI44194"
   },
   {
-    "MODULE": "DSNXOVC ",
+    "MODULE": "DSNXOVC",
     "PTFID": "UI44194"
   },
   {
-    "MODULE": "DSNXOVM ",
+    "MODULE": "DSNXOVM",
     "PTFID": "UI44194"
   },
   {
@@ -7940,7 +8172,7 @@
     "PTFID": "UI44243"
   },
   {
-    "MODULE": "DSNXECW ",
+    "MODULE": "DSNXECW",
     "PTFID": "UI44243"
   },
   {
@@ -7964,7 +8196,7 @@
     "PTFID": "UI44585"
   },
   {
-    "MODULE": "DSNTIAM ",
+    "MODULE": "DSNTIAM",
     "PTFID": "UI44586"
   },
   {
@@ -7976,7 +8208,7 @@
     "PTFID": "UI44586"
   },
   {
-    "MODULE": "DSNXESX ",
+    "MODULE": "DSNXESX",
     "PTFID": "UI44586"
   },
   {
@@ -7996,7 +8228,7 @@
     "PTFID": "UI44586"
   },
   {
-    "MODULE": "DSNXOFF ",
+    "MODULE": "DSNXOFF",
     "PTFID": "UI44586"
   },
   {
@@ -8004,15 +8236,15 @@
     "PTFID": "UI44586"
   },
   {
-    "MODULE": "DSNXOTF ",
+    "MODULE": "DSNXOTF",
     "PTFID": "UI44586"
   },
   {
-    "MODULE": "DSNXOV0 ",
+    "MODULE": "DSNXOV0",
     "PTFID": "UI44586"
   },
   {
-    "MODULE": "DSNXOV1 ",
+    "MODULE": "DSNXOV1",
     "PTFID": "UI44586"
   },
   {
@@ -8028,11 +8260,11 @@
     "PTFID": "UI44586"
   },
   {
-    "MODULE": "DSNXOD4 ",
+    "MODULE": "DSNXOD4",
     "PTFID": "UI44638"
   },
   {
-    "MODULE": "DSNXENR ",
+    "MODULE": "DSNXENR",
     "PTFID": "UI41084"
   },
   {
@@ -8040,7 +8272,7 @@
     "PTFID": "UI41119"
   },
   {
-    "MODULE": "DSNXRRP ",
+    "MODULE": "DSNXRRP",
     "PTFID": "UI41119"
   },
   {
@@ -8104,7 +8336,7 @@
     "PTFID": "UI41885"
   },
   {
-    "MODULE": "DSNXOTS ",
+    "MODULE": "DSNXOTS",
     "PTFID": "UI41885"
   },
   {
@@ -8112,7 +8344,7 @@
     "PTFID": "UI41911"
   },
   {
-    "MODULE": "DSNXOCS ",
+    "MODULE": "DSNXOCS",
     "PTFID": "UI41988"
   },
   {
@@ -8132,11 +8364,11 @@
     "PTFID": "UI42983"
   },
   {
-    "MODULE": "DSNXOXM ",
+    "MODULE": "DSNXOXM",
     "PTFID": "UI42987"
   },
   {
-    "MODULE": "DSNXONV ",
+    "MODULE": "DSNXONV",
     "PTFID": "UI43052"
   },
   {
@@ -8160,11 +8392,11 @@
     "PTFID": "UI38893"
   },
   {
-    "MODULE": "DSNXOSP ",
+    "MODULE": "DSNXOSP",
     "PTFID": "UI38977"
   },
   {
-    "MODULE": "DSNXOD0 ",
+    "MODULE": "DSNXOD0",
     "PTFID": "UI38989"
   },
   {
@@ -8192,7 +8424,7 @@
     "PTFID": "UI39497"
   },
   {
-    "MODULE": "DSNXECT ",
+    "MODULE": "DSNXECT",
     "PTFID": "UI39803"
   },
   {
@@ -8248,7 +8480,7 @@
     "PTFID": "UI40539"
   },
   {
-    "MODULE": "DSNXOVP ",
+    "MODULE": "DSNXOVP",
     "PTFID": "UI40541"
   },
   {
@@ -8256,7 +8488,7 @@
     "PTFID": "UI38828"
   },
   {
-    "MODULE": "DSNXOAF ",
+    "MODULE": "DSNXOAF",
     "PTFID": "UI38828"
   },
   {
@@ -8264,7 +8496,7 @@
     "PTFID": "UI38828"
   },
   {
-    "MODULE": "DSNXOD2 ",
+    "MODULE": "DSNXOD2",
     "PTFID": "UI38828"
   },
   {
@@ -8352,7 +8584,7 @@
     "PTFID": "UI34400"
   },
   {
-    "MODULE": "DSNXOMB ",
+    "MODULE": "DSNXOMB",
     "PTFID": "UI34617"
   },
   {
@@ -8380,7 +8612,7 @@
     "PTFID": "UI35503"
   },
   {
-    "MODULE": "DSNXRFC ",
+    "MODULE": "DSNXRFC",
     "PTFID": "UI35532"
   },
   {
@@ -8404,7 +8636,7 @@
     "PTFID": "UI35663"
   },
   {
-    "MODULE": "DSNXOJW ",
+    "MODULE": "DSNXOJW",
     "PTFID": "UI35750"
   },
   {
@@ -8428,11 +8660,11 @@
     "PTFID": "UI35847"
   },
   {
-    "MODULE": "DSNXOD1 ",
+    "MODULE": "DSNXOD1",
     "PTFID": "UI35847"
   },
   {
-    "MODULE": "DSNXOD7 ",
+    "MODULE": "DSNXOD7",
     "PTFID": "UI35847"
   },
   {
@@ -8484,7 +8716,7 @@
     "PTFID": "UI36811"
   },
   {
-    "MODULE": "DSNXOFD ",
+    "MODULE": "DSNXOFD",
     "PTFID": "UI36826"
   },
   {
@@ -8508,11 +8740,11 @@
     "PTFID": "UI37132"
   },
   {
-    "MODULE": "DSNXQNR ",
+    "MODULE": "DSNXQNR",
     "PTFID": "UI37132"
   },
   {
-    "MODULE": "DSNXOW1 ",
+    "MODULE": "DSNXOW1",
     "PTFID": "UI37145"
   },
   {
@@ -8584,7 +8816,7 @@
     "PTFID": "UI38706"
   },
   {
-    "MODULE": "DSNXOSF ",
+    "MODULE": "DSNXOSF",
     "PTFID": "UI28961"
   },
   {
@@ -8592,7 +8824,7 @@
     "PTFID": "UI29032"
   },
   {
-    "MODULE": "DSNXECL ",
+    "MODULE": "DSNXECL",
     "PTFID": "UI29037"
   },
   {
@@ -8656,7 +8888,7 @@
     "PTFID": "UI29252"
   },
   {
-    "MODULE": "DSNXOCU ",
+    "MODULE": "DSNXOCU",
     "PTFID": "UI29294"
   },
   {
@@ -8684,7 +8916,7 @@
     "PTFID": "UI30454"
   },
   {
-    "MODULE": "DSNXERD ",
+    "MODULE": "DSNXERD",
     "PTFID": "UI30795"
   },
   {
@@ -8752,7 +8984,7 @@
     "PTFID": "UI32421"
   },
   {
-    "MODULE": "DSNXOLL ",
+    "MODULE": "DSNXOLL",
     "PTFID": "UI32434"
   },
   {
@@ -8888,7 +9120,7 @@
     "PTFID": "UI27709"
   },
   {
-    "MODULE": "DSNXOSV ",
+    "MODULE": "DSNXOSV",
     "PTFID": "UI27709"
   },
   {
@@ -8904,7 +9136,7 @@
     "PTFID": "UI28097"
   },
   {
-    "MODULE": "DSNXOVR ",
+    "MODULE": "DSNXOVR",
     "PTFID": "UI28499"
   },
   {
@@ -8940,7 +9172,7 @@
     "PTFID": "UI22778"
   },
   {
-    "MODULE": "DSNXOCT ",
+    "MODULE": "DSNXOCT",
     "PTFID": "UI23269"
   },
   {
@@ -8988,11 +9220,11 @@
     "PTFID": "UI18913"
   },
   {
-    "MODULE": "DSNXTFS ",
+    "MODULE": "DSNXTFS",
     "PTFID": "UI18913"
   },
   {
-    "MODULE": "DSNXTGS ",
+    "MODULE": "DSNXTGS",
     "PTFID": "UI18913"
   },
   {
@@ -9028,11 +9260,11 @@
     "PTFID": "UI22683"
   },
   {
-    "MODULE": "DSNXOB1 ",
+    "MODULE": "DSNXOB1",
     "PTFID": "UI23123"
   },
   {
-    "MODULE": "DSNXOLV ",
+    "MODULE": "DSNXOLV",
     "PTFID": "UI23123"
   },
   {
@@ -9168,11 +9400,11 @@
     "PTFID": "UI21887"
   },
   {
-    "MODULE": "DSNXOD8 ",
+    "MODULE": "DSNXOD8",
     "PTFID": "UI16336"
   },
   {
-    "MODULE": "DSNXODM ",
+    "MODULE": "DSNXODM",
     "PTFID": "UI16907"
   },
   {
@@ -9180,7 +9412,7 @@
     "PTFID": "UI17239"
   },
   {
-    "MODULE": "DSNXECK ",
+    "MODULE": "DSNXECK",
     "PTFID": "UI17340"
   },
   {
@@ -9208,7 +9440,7 @@
     "PTFID": "UI18021"
   },
   {
-    "MODULE": "DSNXOSS ",
+    "MODULE": "DSNXOSS",
     "PTFID": "UI18021"
   },
   {
@@ -9216,7 +9448,7 @@
     "PTFID": "UI18021"
   },
   {
-    "MODULE": "DSNXODF ",
+    "MODULE": "DSNXODF",
     "PTFID": "UI18033"
   },
   {
@@ -9240,11 +9472,11 @@
     "PTFID": "UI12582"
   },
   {
-    "MODULE": "DSNXOSG ",
+    "MODULE": "DSNXOSG",
     "PTFID": "UI12589"
   },
   {
-    "MODULE": "DSNXOFL ",
+    "MODULE": "DSNXOFL",
     "PTFID": "UI13492"
   },
   {
@@ -9256,7 +9488,7 @@
     "PTFID": "UI14383"
   },
   {
-    "MODULE": "DSNXOLF ",
+    "MODULE": "DSNXOLF",
     "PTFID": "UI14969"
   },
   {
@@ -9268,7 +9500,7 @@
     "PTFID": "UI15942"
   },
   {
-    "MODULE": "DSNXOML ",
+    "MODULE": "DSNXOML",
     "PTFID": "UI17873"
   },
   {
@@ -9300,7 +9532,7 @@
     "PTFID": "UK97553"
   },
   {
-    "MODULE": "DSNXOEX ",
+    "MODULE": "DSNXOEX",
     "PTFID": "UK97553"
   },
   {
@@ -9368,11 +9600,11 @@
     "PTFID": "UK97785"
   },
   {
-    "MODULE": "DSNXOED ",
+    "MODULE": "DSNXOED",
     "PTFID": "UK98112"
   },
   {
-    "MODULE": "DSNXOGB ",
+    "MODULE": "DSNXOGB",
     "PTFID": "UK98112"
   },
   {
@@ -9432,11 +9664,11 @@
     "PTFID": "UI12250"
   },
   {
-    "MODULE": "DSNXTAD ",
+    "MODULE": "DSNXTAD",
     "PTFID": "UI13488"
   },
   {
-    "MODULE": "DSNXERB ",
+    "MODULE": "DSNXERB",
     "PTFID": "UI13530"
   },
   {
@@ -9444,7 +9676,7 @@
     "PTFID": "UI13530"
   },
   {
-    "MODULE": "DSNXORI ",
+    "MODULE": "DSNXORI",
     "PTFID": "UI13749"
   },
   {
@@ -9464,10 +9696,6 @@
     "PTFID": "UI14287"
   },
   {
-    "MODULE": "DSNURBXT",
-    "PTFID": "UI14867"
-  },
-  {
     "MODULE": "DSNXGDT2",
     "PTFID": "UI14867"
   },
@@ -9484,7 +9712,7 @@
     "PTFID": "UI14867"
   },
   {
-    "MODULE": "DSNXOFP ",
+    "MODULE": "DSNXOFP",
     "PTFID": "UI14867"
   },
   {
@@ -9508,6 +9736,70 @@
     "PTFID": "UI15764"
   },
   {
+    "MODULE": "DSNLMTOK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNQFNS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXACTM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXADCT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXAMCT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXATCC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXATCM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXATCS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXBR09",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXCHEX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXCTG2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXCTG3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXDQAD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXDUTL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXD2QA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEAB",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXEADW",
     "PTFID": "UK92201"
   },
@@ -9516,28 +9808,144 @@
     "PTFID": "UK95016"
   },
   {
+    "MODULE": "DSNXEBR0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEBW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEBY",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXECG",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXECMP",
     "PTFID": "UK92203"
   },
   {
-    "MODULE": "DSNXECP ",
+    "MODULE": "DSNXECP",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNXECPT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEDB9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEDC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEDC2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEDST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEDT2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEERU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEEZT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEFB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEFCC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEISC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXELET",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXELFC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXELOB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXELOC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEMG2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEMRS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEMSG",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXEPAR",
     "PTFID": "UK93550"
   },
   {
-    "MODULE": "DSNXEPR ",
+    "MODULE": "DSNXEPR",
     "PTFID": "UK95422"
+  },
+  {
+    "MODULE": "DSNXERSM",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXERST",
     "PTFID": "UK94243"
   },
   {
+    "MODULE": "DSNXESES",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXESKM",
     "PTFID": "UK93549"
+  },
+  {
+    "MODULE": "DSNXESPD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXESQI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXESTA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXESXM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXESX2",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXETCH",
@@ -9548,16 +9956,60 @@
     "PTFID": "UK92659"
   },
   {
+    "MODULE": "DSNXEVPN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEXAD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEXDA",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXEXPL",
     "PTFID": "UK93549"
+  },
+  {
+    "MODULE": "DSNXFLP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXGARI",
     "PTFID": "UK92203"
   },
   {
+    "MODULE": "DSNXGBOL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXGBY",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXGCRF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXGCVL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXGOJ",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXGOSQ",
     "PTFID": "UK95420"
+  },
+  {
+    "MODULE": "DSNXGRES",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXGRFR",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXGRSR",
@@ -9568,28 +10020,176 @@
     "PTFID": "UK94243"
   },
   {
+    "MODULE": "DSNXGSOR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXGSPL",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXGTRF",
     "PTFID": "UK92203"
+  },
+  {
+    "MODULE": "DSNXGTSK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXGT2J",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXGT3J",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXGUNY",
     "PTFID": "UK92203"
   },
   {
+    "MODULE": "DSNXGXAG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLDDL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLDDS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLETI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLEUE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLVCM",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOACD",
     "PTFID": "UK94243"
+  },
+  {
+    "MODULE": "DSNXOAFJ",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXOAPD",
     "PTFID": "UK92201"
   },
   {
+    "MODULE": "DSNXOATT",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOAVS",
     "PTFID": "UK93549"
   },
   {
+    "MODULE": "DSNXOBDC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOBFE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOBRT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOBY",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOCCA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOCCH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOCLV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOCMF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOCMX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOCOL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOCRP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOCSF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOC1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOC1R",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOC2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODAO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODBG",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXODBT",
     "PTFID": "UK92662"
+  },
+  {
+    "MODULE": "DSNXODB0",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODB1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODB2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODB3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODB4",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODB5",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODB6",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXODF2",
@@ -9600,8 +10200,88 @@
     "PTFID": "UK95422"
   },
   {
+    "MODULE": "DSNXODJP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODTP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODTS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD10",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD11",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD14",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD16",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD17",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOD18",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNXOD6",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD7A",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD7B",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD7C",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD7D",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD7I",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD7U",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOD9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOEA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOEER",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOEN",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXOEND",
@@ -9612,6 +10292,22 @@
     "PTFID": "UK93549"
   },
   {
+    "MODULE": "DSNXOFC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOFE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOFJM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOFND",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOFNQ",
     "PTFID": "UK95422"
   },
@@ -9620,12 +10316,144 @@
     "PTFID": "UK93550"
   },
   {
+    "MODULE": "DSNXOFPP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOFQ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOFR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOFSF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOFTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGCA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGCC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGCE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGCF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGCR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGCS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGCW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGDA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGEX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGP1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOGR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOHTW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOHVP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOIJ1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOIJ2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOINL",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOIPT",
     "PTFID": "UK95423"
   },
   {
+    "MODULE": "DSNXOIST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOIU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOIU1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOIU2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOLCS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOLDP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOLD1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOLET",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOLIT",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNXOLTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOLTC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOLTH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOLTI",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXOLTN",
@@ -9636,12 +10464,124 @@
     "PTFID": "UK95016"
   },
   {
-    "MODULE": "DSNXOMW ",
+    "MODULE": "DSNXOLTX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOLX1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOLX2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOMF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOMJF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOMJI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOMJS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOMQB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOMW",
     "PTFID": "UK95420"
+  },
+  {
+    "MODULE": "DSNXONCK",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXONC1",
     "PTFID": "UK94246"
+  },
+  {
+    "MODULE": "DSNXONML",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXONTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXONW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOON",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOONC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOONX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOOS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPAT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPCP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPDC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPDH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPDL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPDR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPEX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPGC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPG3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPJD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPKY",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXOPLM",
@@ -9652,11 +10592,63 @@
     "PTFID": "UK95423"
   },
   {
+    "MODULE": "DSNXOPML",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPPC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPRD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPRN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPRO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPRX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPSF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPTN",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOPTT",
     "PTFID": "UK93068"
   },
   {
-    "MODULE": "DSNXOQ1 ",
+    "MODULE": "DSNXOPUC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOPUG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOQLK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOQ1",
     "PTFID": "UK94246"
   },
   {
@@ -9664,11 +10656,27 @@
     "PTFID": "UK93549"
   },
   {
+    "MODULE": "DSNXORLI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXORM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXORPD",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXORRA",
     "PTFID": "UK95423"
   },
   {
-    "MODULE": "DSNXOSC ",
+    "MODULE": "DSNXOSBO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSC",
     "PTFID": "UK95423"
   },
   {
@@ -9680,16 +10688,144 @@
     "PTFID": "UK95016"
   },
   {
+    "MODULE": "DSNXOSEW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSE2",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOSIN",
     "PTFID": "UK93550"
+  },
+  {
+    "MODULE": "DSNXOSJA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSJB",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXOSJI",
     "PTFID": "UK92204"
   },
   {
+    "MODULE": "DSNXOSJP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSJS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSO1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSO6",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSSI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSSP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSTA",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOSTC",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNXOSTR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSVE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSVP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOSYS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTBQ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTB2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTC1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTJC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTJT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTO1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTRA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTRB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTRC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTR5",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOTSC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOUA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOUNQ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOUNR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOUS",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXOVL1",
@@ -9700,12 +10836,132 @@
     "PTFID": "UK93549"
   },
   {
+    "MODULE": "DSNXOVP1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOVWA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOV0X",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOWFD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOWK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOW2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOW2A",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOW2B",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOXFD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOXGM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOXIC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOXLJ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOXLM",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOXMT",
     "PTFID": "UK93549"
   },
   {
+    "MODULE": "DSNXOXQR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOYAF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOYCU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOYEA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOYPD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOYRI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOYSC",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXOYT0",
     "PTFID": "UK93948"
+  },
+  {
+    "MODULE": "DSNXQEM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXQFNR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXQIDX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXQLEX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXQPRS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXQRWA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXQRWB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXQRWR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXQSYM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRBMN",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXRBMX",
@@ -9716,8 +10972,92 @@
     "PTFID": "UK93948"
   },
   {
+    "MODULE": "DSNXRCAS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRCA9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRCGC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRCG9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRCL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRCSI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRCSR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRCS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRC9L",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRDGT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRDG9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRECD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXREC9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXREM9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRET9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXREX9",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXRFC9",
     "PTFID": "UK95421"
+  },
+  {
+    "MODULE": "DSNXRFH9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRHJ1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRHJ2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRHJ9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRH29",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXRIPE",
@@ -9732,12 +11072,216 @@
     "PTFID": "UK92204"
   },
   {
-    "MODULE": "DSNXRSD ",
+    "MODULE": "DSNXRIVE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLE9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLI9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLNU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLPT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLT9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLU9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRMA9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRMUP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRMU9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRMXA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRNM9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRNU9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXROFS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXROF9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXROJF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXROJM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXROM9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXROPT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXROUD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXROUF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRPJW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRPJ9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRPW9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRRC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRRC9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRREF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRRE9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRRS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRRWD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRRW9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSAS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSA9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSCO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSD",
     "PTFID": "UK94247"
+  },
+  {
+    "MODULE": "DSNXRSEQ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSE9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSIN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSI9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSJ9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSO9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXRSPR",
     "PTFID": "UK93948"
+  },
+  {
+    "MODULE": "DSNXRSR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSSA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSVW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRSV9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRS29",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRTC9",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXRTHV",
@@ -9756,12 +11300,24 @@
     "PTFID": "UK94247"
   },
   {
+    "MODULE": "DSNXRTY9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRT29",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXRUC9",
     "PTFID": "UK94247"
   },
   {
     "MODULE": "DSNXRUFC",
     "PTFID": "UK94247"
+  },
+  {
+    "MODULE": "DSNXRUFO",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXRUFS",
@@ -9776,12 +11332,80 @@
     "PTFID": "UK92202"
   },
   {
+    "MODULE": "DSNXRUO9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRUS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRUTT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRUT9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRWHN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRWH9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRWN9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRWTD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRXM9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSCF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSCH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSCN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSFRD",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXSFTS",
     "PTFID": "UK92663"
   },
   {
+    "MODULE": "DSNXSLN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSPNS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSPWF",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXSTGS",
     "PTFID": "UK92663"
+  },
+  {
+    "MODULE": "DSNXSTM",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXSTSD",
@@ -9792,6 +11416,58 @@
     "PTFID": "UK94243"
   },
   {
+    "MODULE": "DSNXTSD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXUEX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVAV9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVBIG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCAA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCAC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCAR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCCW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCDF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCNU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCTN",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXVDTT",
     "PTFID": "UK95423"
   },
@@ -9800,40 +11476,416 @@
     "PTFID": "UK95423"
   },
   {
-    "MODULE": "DSNXXQS ",
+    "MODULE": "DSNXVGTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJAA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJAC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJAD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJAE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJAF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJAG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJAH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJAI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJEA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJEB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJNT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJPA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJPC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVJ15",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVKAA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVKAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVKAC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVKAD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVKR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVKRU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVPAV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVPCC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVPC1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVPC2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVRC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVRC5",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVSUM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTBL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTN9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTRS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTT9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTWC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTXM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVT29",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVUTF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXXQS",
     "PTFID": "UK93068"
+  },
+  {
+    "MODULE": "DSNXXSER",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXXTTM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX5XPD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9CAT",
+    "PTFID": null
   },
   {
     "MODULE": "DSNX9CCM",
     "PTFID": "UK92202"
   },
   {
+    "MODULE": "DSNX9CLO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9COM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9DAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9DIS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9EMR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNX9EOT",
     "PTFID": "UK93550"
+  },
+  {
+    "MODULE": "DSNX9FOR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9INI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9RWB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9SLM",
+    "PTFID": null
   },
   {
     "MODULE": "DSNX9SPS",
     "PTFID": "UK93550"
   },
   {
+    "MODULE": "DSNX9SPT",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNX9SP2",
     "PTFID": "UK93550"
+  },
+  {
+    "MODULE": "DSNX9SSC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9STE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9STT",
+    "PTFID": null
   },
   {
     "MODULE": "DSNX9ST2",
     "PTFID": "UK93550"
   },
   {
+    "MODULE": "DSNX9ST3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNX9TNE",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNX9TRE",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNX9TRM",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXCEES",
     "PTFID": "UI21020"
   },
   {
-    "MODULE": "DSNXAAB ",
+    "MODULE": "DSNXCEET",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLEBS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLECA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLECB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLED",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEJ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLEQ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLER",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRLES",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLEDL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLEFS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLEGS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLELD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLEMS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLEPE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLESL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLEST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXAAB",
     "PTFID": "UI16384"
+  },
+  {
+    "MODULE": "DSNXAANC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXAAPC",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXACAE",
@@ -9844,8 +11896,16 @@
     "PTFID": "UK94246"
   },
   {
+    "MODULE": "DSNXACKB",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXACKP",
     "PTFID": "UI48762"
+  },
+  {
+    "MODULE": "DSNXACPU",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXACTS",
@@ -9864,12 +11924,24 @@
     "PTFID": "UK94243"
   },
   {
+    "MODULE": "DSNXARUL",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXARU2",
     "PTFID": "UI32421"
   },
   {
+    "MODULE": "DSNXARU3",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXARU8",
     "PTFID": "UI34100"
+  },
+  {
+    "MODULE": "DSNXARVB",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXASNC",
@@ -9880,44 +11952,56 @@
     "PTFID": "UI38706"
   },
   {
-    "MODULE": "DSNXA02 ",
+    "MODULE": "DSNXA02",
     "PTFID": "UI48040"
   },
   {
-    "MODULE": "DSNXA04 ",
+    "MODULE": "DSNXA03",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXA04",
     "PTFID": "UI22338"
   },
   {
-    "MODULE": "DSNXA05 ",
+    "MODULE": "DSNXA05",
     "PTFID": "UI40412"
   },
   {
-    "MODULE": "DSNXA06 ",
+    "MODULE": "DSNXA06",
     "PTFID": "UK94246"
   },
   {
-    "MODULE": "DSNXA07 ",
+    "MODULE": "DSNXA07",
     "PTFID": "UI14251"
   },
   {
-    "MODULE": "DSNXA08 ",
+    "MODULE": "DSNXA08",
     "PTFID": "UK94246"
   },
   {
-    "MODULE": "DSNXA09 ",
+    "MODULE": "DSNXA09",
     "PTFID": "UI14373"
   },
   {
-    "MODULE": "DSNXA10 ",
+    "MODULE": "DSNXA10",
     "PTFID": "UK94246"
   },
   {
-    "MODULE": "DSNXA11 ",
+    "MODULE": "DSNXA11",
     "PTFID": "UI26349"
   },
   {
     "MODULE": "DSNXODMH",
     "PTFID": "UI28559"
+  },
+  {
+    "MODULE": "DSNXSLN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSUT",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXAENF",
@@ -9940,8 +12024,32 @@
     "PTFID": "UK94243"
   },
   {
+    "MODULE": "DSNXAE62",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXAE79",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXAGAT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXAINI",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXAMMC",
     "PTFID": "UK95423"
+  },
+  {
+    "MODULE": "DSNXAQWR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXARAC",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXATRM",
@@ -9956,11 +12064,7 @@
     "PTFID": "UI41695"
   },
   {
-    "MODULE": "DSNUECSE",
-    "PTFID": "UI42240"
-  },
-  {
-    "MODULE": "DSNXKAL ",
+    "MODULE": "DSNXKAL",
     "PTFID": "UI34353"
   },
   {
@@ -9980,8 +12084,56 @@
     "PTFID": "UI20559"
   },
   {
+    "MODULE": "DSNXEAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEFB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXKAC1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXKCLO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXKDFN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXKDLR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXKGCS",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXKINS",
     "PTFID": "UK92662"
+  },
+  {
+    "MODULE": "DSNXKNM2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXKRSV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXKST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXKSTR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXKST2",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXICIX",
@@ -10204,7 +12356,7 @@
     "PTFID": "UI34703"
   },
   {
-    "MODULE": "DSNXI14 ",
+    "MODULE": "DSNXI14",
     "PTFID": "UI34990"
   },
   {
@@ -10264,7 +12416,7 @@
     "PTFID": "UI29037"
   },
   {
-    "MODULE": "DSNXI15 ",
+    "MODULE": "DSNXI15",
     "PTFID": "UI29037"
   },
   {
@@ -10304,7 +12456,7 @@
     "PTFID": "UI27709"
   },
   {
-    "MODULE": "DSNXOSV ",
+    "MODULE": "DSNXOSV",
     "PTFID": "UI27709"
   },
   {
@@ -10344,7 +12496,7 @@
     "PTFID": "UI21289"
   },
   {
-    "MODULE": "DSNXECK ",
+    "MODULE": "DSNXECK",
     "PTFID": "UI17340"
   },
   {
@@ -10372,36 +12524,144 @@
     "PTFID": "UI15764"
   },
   {
+    "MODULE": "DSNXADCT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXARD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEFB",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXEPAR",
     "PTFID": "UK93550"
+  },
+  {
+    "MODULE": "DSNXFLP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIAB2",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXIAB4",
     "PTFID": "UK95423"
   },
   {
+    "MODULE": "DSNXIADB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIAJR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXIALM",
     "PTFID": "UK95420"
+  },
+  {
+    "MODULE": "DSNXIAPM",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXIAPV",
     "PTFID": "UK95420"
   },
   {
+    "MODULE": "DSNXIASG",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXIAVW",
     "PTFID": "UK93549"
+  },
+  {
+    "MODULE": "DSNXICAL",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXICB5",
     "PTFID": "UK93550"
   },
   {
+    "MODULE": "DSNXICB6",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXICB8",
     "PTFID": "UK95016"
   },
   {
+    "MODULE": "DSNXICCF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICCN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICDB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICDM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICDT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICJR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICKC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICKD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICKM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICPM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICQ1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICRC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICRO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXICSG",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXICST",
     "PTFID": "UK95016"
+  },
+  {
+    "MODULE": "DSNXICTX",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXICVR",
@@ -10412,28 +12672,156 @@
     "PTFID": "UK95016"
   },
   {
+    "MODULE": "DSNXIDCO",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXIDDB",
     "PTFID": "UK95423"
+  },
+  {
+    "MODULE": "DSNXIDDP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIDDT",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXIDFN",
     "PTFID": "UK92201"
   },
   {
+    "MODULE": "DSNXIDFT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIDJR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXIDPK",
     "PTFID": "UK95422"
+  },
+  {
+    "MODULE": "DSNXIDPT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIDQ1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIDSG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIDST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIDTX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIFPC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIFSM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIGKY",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIJDP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXILCV",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXIPG2",
     "PTFID": "UK95420"
   },
   {
+    "MODULE": "DSNXIRCK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIRDC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIRDP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIREG",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXIRE1",
     "PTFID": "UK95420"
   },
   {
+    "MODULE": "DSNXIRIC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXIRRF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXISBX",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXISCR",
     "PTFID": "UK95420"
+  },
+  {
+    "MODULE": "DSNXISDP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXITBA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXI00",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXODD2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOEER",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOV0X",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSCH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXSUT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVBIG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCDF",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXVDTT",
@@ -10444,8 +12832,40 @@
     "PTFID": "UK95423"
   },
   {
+    "MODULE": "DSNXVSUM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTBL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTT9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVT29",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXESQL",
     "PTFID": "UI44586"
+  },
+  {
+    "MODULE": "DSNXESR1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXETH1",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXPDAL",
@@ -10468,12 +12888,48 @@
     "PTFID": "UI19227"
   },
   {
+    "MODULE": "DSNXPAPL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXPCMD",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXPCRT",
     "PTFID": "UK95016"
   },
   {
+    "MODULE": "DSNXPCSR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXPDSP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXPMAR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXPPIP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXPPNA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXPREC",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXPSEN",
     "PTFID": "UK93068"
+  },
+  {
+    "MODULE": "DSNXPSNP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXPSPD",
@@ -10500,15 +12956,15 @@
     "PTFID": "UI48076"
   },
   {
-    "MODULE": "DSNNQIV ",
+    "MODULE": "DSNNQIV",
     "PTFID": "UI48076"
   },
   {
-    "MODULE": "DSNNQMD ",
+    "MODULE": "DSNNQMD",
     "PTFID": "UI48076"
   },
   {
-    "MODULE": "DSNNQOB ",
+    "MODULE": "DSNNQOB",
     "PTFID": "UI48076"
   },
   {
@@ -10660,7 +13116,7 @@
     "PTFID": "UI16689"
   },
   {
-    "MODULE": "DSNXECK ",
+    "MODULE": "DSNXECK",
     "PTFID": "UI17340"
   },
   {
@@ -10676,6 +13132,110 @@
     "PTFID": "UI16075"
   },
   {
+    "MODULE": "DSNNCXCO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNOBVW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNOCPY",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNOFXR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNORSQ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNOSQS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNOTMV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNOTRF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNQFNS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNQOP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNQTRF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRGCD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRRXS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRTMA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRTMC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRTMI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRXSC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRXSG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRXSN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRXSO",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNRXSR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNSIIC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNSIIN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNSIIT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNSIPA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNNSIPM",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNNSISC",
     "PTFID": "UK95420"
   },
@@ -10688,6 +13248,10 @@
     "PTFID": "UK95420"
   },
   {
+    "MODULE": "DSNXXTTM",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXVEOA",
     "PTFID": "UI48762"
   },
@@ -10696,7 +13260,7 @@
     "PTFID": "UI49142"
   },
   {
-    "MODULE": "DSNTADL ",
+    "MODULE": "DSNTADL",
     "PTFID": "UI47776"
   },
   {
@@ -10740,7 +13304,7 @@
     "PTFID": "UI46243"
   },
   {
-    "MODULE": "DSNTBAS ",
+    "MODULE": "DSNTBAS",
     "PTFID": "UI41625"
   },
   {
@@ -10764,7 +13328,7 @@
     "PTFID": "UI44172"
   },
   {
-    "MODULE": "DSNTBAR ",
+    "MODULE": "DSNTBAR",
     "PTFID": "UI44586"
   },
   {
@@ -10776,7 +13340,7 @@
     "PTFID": "UI44586"
   },
   {
-    "MODULE": "DSNTBCM ",
+    "MODULE": "DSNTBCM",
     "PTFID": "UI44586"
   },
   {
@@ -10828,7 +13392,7 @@
     "PTFID": "UI37513"
   },
   {
-    "MODULE": "DSNTABA ",
+    "MODULE": "DSNTABA",
     "PTFID": "UI29040"
   },
   {
@@ -10836,11 +13400,11 @@
     "PTFID": "UI29040"
   },
   {
-    "MODULE": "DSNTBAB ",
+    "MODULE": "DSNTBAB",
     "PTFID": "UI29889"
   },
   {
-    "MODULE": "DSNTACT ",
+    "MODULE": "DSNTACT",
     "PTFID": "UI27941"
   },
   {
@@ -10856,7 +13420,7 @@
     "PTFID": "UI22338"
   },
   {
-    "MODULE": "DSNTBRB ",
+    "MODULE": "DSNTBRB",
     "PTFID": "UI22338"
   },
   {
@@ -10868,7 +13432,7 @@
     "PTFID": "UI22320"
   },
   {
-    "MODULE": "DSNTAEA ",
+    "MODULE": "DSNTAEA",
     "PTFID": "UI19071"
   },
   {
@@ -10888,15 +13452,15 @@
     "PTFID": "UI18569"
   },
   {
-    "MODULE": "DSNTBFR ",
+    "MODULE": "DSNTBFR",
     "PTFID": "UK97200"
   },
   {
-    "MODULE": "DSNTBBP ",
+    "MODULE": "DSNTBBP",
     "PTFID": "UI14848"
   },
   {
-    "MODULE": "DSNTAAL ",
+    "MODULE": "DSNTAAL",
     "PTFID": "UI16384"
   },
   {
@@ -10904,15 +13468,31 @@
     "PTFID": "UK92660"
   },
   {
-    "MODULE": "DSNTAC1 ",
+    "MODULE": "DSNLCMSR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVCK2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVPLK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLXDIS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTAC1",
     "PTFID": "UK95422"
   },
   {
-    "MODULE": "DSNTAC2 ",
+    "MODULE": "DSNTAC2",
     "PTFID": "UK95422"
   },
   {
-    "MODULE": "DSNTANU ",
+    "MODULE": "DSNTANU",
     "PTFID": "UK92663"
   },
   {
@@ -10936,15 +13516,115 @@
     "PTFID": "UK95422"
   },
   {
+    "MODULE": "DSNTCDIS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTCGET",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTCSRC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTCSRV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTCSTP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTCSTR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTCST1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTCST2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTLDU",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNTPARS",
     "PTFID": "UK95422"
+  },
+  {
+    "MODULE": "DSNTRCKP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTSLIN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTSLIP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNTSTOP",
     "PTFID": "UK95422"
   },
   {
-    "MODULE": "DSNTBAP ",
+    "MODULE": "DSNTUMOD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTXSTA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1CAL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1DSP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1MPK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1PRG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1PSM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1SDV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1SMG",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1SPV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1STP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNT1STR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVA2U",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTBAP",
     "PTFID": "UI44586"
   },
   {
@@ -10956,12 +13636,20 @@
     "PTFID": "UI44586"
   },
   {
-    "MODULE": "DSNTTIM ",
+    "MODULE": "DSNTTIM",
     "PTFID": "UI15618"
   },
   {
     "MODULE": "DSNTBAPM",
     "PTFID": "UK95420"
+  },
+  {
+    "MODULE": "DSNXVTS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTBRM",
+    "PTFID": null
   },
   {
     "MODULE": "DSNTLQRY",
@@ -10976,8 +13664,16 @@
     "PTFID": "UI16384"
   },
   {
+    "MODULE": "DSNTLCAU",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNTLCTL",
     "PTFID": "UK95422"
+  },
+  {
+    "MODULE": "DSNTLC1U",
+    "PTFID": null
   },
   {
     "MODULE": "DSNTLPLK",
@@ -11024,7 +13720,7 @@
     "PTFID": "UI23288"
   },
   {
-    "MODULE": "DSNTDMI ",
+    "MODULE": "DSNTDMI",
     "PTFID": "UI26212"
   },
   {
@@ -11048,16 +13744,72 @@
     "PTFID": "UI16853"
   },
   {
-    "MODULE": "DSNTTTC ",
+    "MODULE": "DSNTTTC",
     "PTFID": "UI18042"
+  },
+  {
+    "MODULE": "DSNLMTOK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTDAL",
+    "PTFID": null
   },
   {
     "MODULE": "DSNTTENE",
     "PTFID": "UK95016"
   },
   {
+    "MODULE": "DSNTTHDW",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTNII",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTNOT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTNO2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTNO3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTNO4",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTQUI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTRAM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTREB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTREP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTTRSM",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNTTRUN",
     "PTFID": "UK95422"
+  },
+  {
+    "MODULE": "DSNTTSAT",
+    "PTFID": null
   },
   {
     "MODULE": "DSNTTTGC",
@@ -11068,7 +13820,19 @@
     "PTFID": "UK94245"
   },
   {
-    "MODULE": "DSNXEEZ ",
+    "MODULE": "DSNTFEST",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTFFRR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNTFRCV",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEEZ",
     "PTFID": "UI18286"
   },
   {
@@ -11076,8 +13840,28 @@
     "PTFID": "UI49142"
   },
   {
+    "MODULE": "DSNYASTP",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNYASTR",
     "PTFID": "UK93949"
+  },
+  {
+    "MODULE": "DSNYECTE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVEUS3",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVEUS4",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVRCT",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLCCNR",
@@ -11100,12 +13884,40 @@
     "PTFID": "UI34696"
   },
   {
+    "MODULE": "DSNLCLCN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLIEOM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLIIN1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLISKM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLQEWR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNVDSSA",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLIRTR",
     "PTFID": "UI48366"
   },
   {
     "MODULE": "DSNLCAIA",
     "PTFID": "UI29039"
+  },
+  {
+    "MODULE": "DSNLCBCS",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLCCLO",
@@ -11132,8 +13944,24 @@
     "PTFID": "UK95421"
   },
   {
+    "MODULE": "DSNLCESD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLCFR",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLCICF",
     "PTFID": "UI43853"
+  },
+  {
+    "MODULE": "DSNLCICX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLCINI",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLCITR",
@@ -11156,8 +13984,28 @@
     "PTFID": "UI31470"
   },
   {
+    "MODULE": "DSNLCN2P",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLCPCR",
     "PTFID": "UK96236"
+  },
+  {
+    "MODULE": "DSNLCPLU",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLCPSH",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLCRAC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLCRES",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLCRFL",
@@ -11168,8 +14016,16 @@
     "PTFID": "UI29039"
   },
   {
+    "MODULE": "DSNLCRSY",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLCRTD",
     "PTFID": "UI29039"
+  },
+  {
+    "MODULE": "DSNLCRVE",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLCSBC",
@@ -11178,6 +14034,10 @@
   {
     "MODULE": "DSNLCSRR",
     "PTFID": "UI47539"
+  },
+  {
+    "MODULE": "DSNLCSYS",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLCTCA",
@@ -11200,11 +14060,15 @@
     "PTFID": "UI29039"
   },
   {
+    "MODULE": "DSNLCXLI",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLCXLN",
     "PTFID": "UK94245"
   },
   {
-    "MODULE": "DSNLDL  ",
+    "MODULE": "DSNLDL",
     "PTFID": "UI39103"
   },
   {
@@ -11236,8 +14100,12 @@
     "PTFID": "UI15192"
   },
   {
-    "MODULE": "DSNLILE ",
+    "MODULE": "DSNLILE",
     "PTFID": "UI26411"
+  },
+  {
+    "MODULE": "DSNLILNI",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLILNR",
@@ -11246,6 +14114,10 @@
   {
     "MODULE": "DSNLILOS",
     "PTFID": "UK97910"
+  },
+  {
+    "MODULE": "DSNLIPIP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLIRCA",
@@ -11260,12 +14132,20 @@
     "PTFID": "UI12680"
   },
   {
+    "MODULE": "DSNLIRTE",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLISDA",
     "PTFID": "UI43113"
   },
   {
     "MODULE": "DSNLITRM",
     "PTFID": "UI14117"
+  },
+  {
+    "MODULE": "DSNLITR0",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLITR2",
@@ -11278,6 +14158,10 @@
   {
     "MODULE": "DSNLJCHK",
     "PTFID": "UI48082"
+  },
+  {
+    "MODULE": "DSNLMTOK",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLQACT",
@@ -11300,8 +14184,68 @@
     "PTFID": "UI39522"
   },
   {
+    "MODULE": "DSNLQINQ",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVAAC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVACB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVALM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVAMS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVASY",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVCDB",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLVCIP",
     "PTFID": "UI46004"
+  },
+  {
+    "MODULE": "DSNLVCLM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVCNS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVDDC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVDLM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVDMS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVFRS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVFSM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVFVS",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLVINF",
@@ -11312,6 +14256,18 @@
     "PTFID": "UK94245"
   },
   {
+    "MODULE": "DSNLVINX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVLOS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVPCS",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLVPFV",
     "PTFID": "UI12680"
   },
@@ -11320,12 +14276,88 @@
     "PTFID": "UI12680"
   },
   {
+    "MODULE": "DSNLVPGL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVPTE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVRCA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVRFY",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVRPL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVRQP",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVRQX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVRWX",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVRXT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVSCA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVSDA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVSEA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVSES",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVSRC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVTRM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVXAN",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLVXID",
     "PTFID": "UI47117"
   },
   {
+    "MODULE": "DSNLVXLT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLVXL2",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLVXMV",
     "PTFID": "UI29039"
+  },
+  {
+    "MODULE": "DSNLVXTE",
+    "PTFID": null
   },
   {
     "MODULE": "DSNX8WAC",
@@ -11464,16 +14496,48 @@
     "PTFID": "UI18017"
   },
   {
-    "MODULE": "DSNLTRD ",
+    "MODULE": "DSNLTRD",
     "PTFID": "UI18017"
+  },
+  {
+    "MODULE": "DSNLARAL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLATRN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLCHGZ",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLEDTM",
     "PTFID": "UK92200"
   },
   {
+    "MODULE": "DSNLMTOK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLSSBP",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLSSRC",
     "PTFID": "UK94245"
+  },
+  {
+    "MODULE": "DSNLSSRS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLSSSB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTACX",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLTCSE",
@@ -11496,6 +14560,10 @@
     "PTFID": "UK95421"
   },
   {
+    "MODULE": "DSNLTDQL",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLTDRB",
     "PTFID": "UK95421"
   },
@@ -11506,6 +14574,10 @@
   {
     "MODULE": "DSNLTIDM",
     "PTFID": "UK94245"
+  },
+  {
+    "MODULE": "DSNLTMTM",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLTPAB",
@@ -11576,7 +14648,7 @@
     "PTFID": "UK94245"
   },
   {
-    "MODULE": "DSNLTRE ",
+    "MODULE": "DSNLTRE",
     "PTFID": "UK95421"
   },
   {
@@ -11624,6 +14696,10 @@
     "PTFID": "UK95421"
   },
   {
+    "MODULE": "DSNLTRST",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLTRTP",
     "PTFID": "UK94245"
   },
@@ -11662,6 +14738,10 @@
   {
     "MODULE": "DSNLTWCL",
     "PTFID": "UK94245"
+  },
+  {
+    "MODULE": "DSNLTZCH",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLTAC1",
@@ -11714,6 +14794,46 @@
   {
     "MODULE": "DSNLTRN1",
     "PTFID": "UI19662"
+  },
+  {
+    "MODULE": "DSNLADRA",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLATRN",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLMTOK",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLSSAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTALT",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTCA1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTCA2",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTDQL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTDT1",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLTHOP",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLTMBE",
@@ -11920,7 +15040,7 @@
     "PTFID": "UI19950"
   },
   {
-    "MODULE": "DSNXECK ",
+    "MODULE": "DSNXECK",
     "PTFID": "UI17340"
   },
   {
@@ -11972,6 +15092,10 @@
     "PTFID": "UK95422"
   },
   {
+    "MODULE": "DSNLZOOV",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLZPSL",
     "PTFID": "UK95422"
   },
@@ -11996,12 +15120,28 @@
     "PTFID": "UK95422"
   },
   {
+    "MODULE": "DSNLZXMI",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNLZZDC",
     "PTFID": "UK95422"
   },
   {
+    "MODULE": "DSNXLETI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOEER",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXRBOV",
     "PTFID": "UK93948"
+  },
+  {
+    "MODULE": "DSNXRLT9",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXRTHV",
@@ -12012,8 +15152,36 @@
     "PTFID": "UK94247"
   },
   {
+    "MODULE": "DSNXVCDF",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXVDTT",
     "PTFID": "UK95423"
+  },
+  {
+    "MODULE": "DSNXVGTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVSUM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTBL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTT9",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLZMON",
@@ -12144,7 +15312,7 @@
     "PTFID": "UI19950"
   },
   {
-    "MODULE": "DSNXECK ",
+    "MODULE": "DSNXECK",
     "PTFID": "UI17340"
   },
   {
@@ -12158,6 +15326,30 @@
   {
     "MODULE": "DSNLZFDT",
     "PTFID": "UI15873"
+  },
+  {
+    "MODULE": "DSNLFDO5",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLFDO6",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLFDO7",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLFDO8",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLFDO9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLFD10",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLFD11",
@@ -12240,8 +15432,20 @@
     "PTFID": "UK95422"
   },
   {
+    "MODULE": "DSNXLETI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXOEER",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXRBOV",
     "PTFID": "UK93948"
+  },
+  {
+    "MODULE": "DSNXRLT9",
+    "PTFID": null
   },
   {
     "MODULE": "DSNXRTHV",
@@ -12252,8 +15456,36 @@
     "PTFID": "UK94247"
   },
   {
+    "MODULE": "DSNXVCDF",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXVDTT",
     "PTFID": "UK95423"
+  },
+  {
+    "MODULE": "DSNXVGTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVSUM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTBL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTS9",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTT9",
+    "PTFID": null
   },
   {
     "MODULE": "DSNLZOGV",
@@ -12404,6 +15636,18 @@
     "PTFID": "UI29403"
   },
   {
+    "MODULE": "DSNLXGDS",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNLXLDE",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTB",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXRFRL",
     "PTFID": "UI48631"
   },
@@ -12496,7 +15740,7 @@
     "PTFID": "UI44585"
   },
   {
-    "MODULE": "DSNLXSR ",
+    "MODULE": "DSNLXSR",
     "PTFID": "UI44585"
   },
   {
@@ -12548,7 +15792,7 @@
     "PTFID": "UI21882"
   },
   {
-    "MODULE": "DSNXECK ",
+    "MODULE": "DSNXECK",
     "PTFID": "UI17340"
   },
   {
@@ -12564,7 +15808,59 @@
     "PTFID": "UK95421"
   },
   {
+    "MODULE": "DSNXEAB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEDC",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXEFB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXESPD",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXLETI",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXRRC",
+    "PTFID": null
+  },
+  {
     "MODULE": "DSNXRTHV",
     "PTFID": "UK94247"
+  },
+  {
+    "MODULE": "DSNXVCAR",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVCDF",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVGTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVSUM",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTB",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTBL",
+    "PTFID": null
+  },
+  {
+    "MODULE": "DSNXVTS9",
+    "PTFID": null
   }
 ]

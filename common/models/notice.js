@@ -15,8 +15,8 @@ const app = require('../../server/server');
 const co = require('co');
 const _ = require('lodash');
 const VError = require('verror');
-const logger = require('../utils/logHelper').helper;
-const errorHelper = require('../utils/errorHelper').helper;
+const logger = require('../../server/utils/logHelper').helper;
+const errorHelper = require('../../server/utils/logHelper').helper;
 
 module.exports = (Notice) => {
   Notice.disableRemoteMethod('find', true);

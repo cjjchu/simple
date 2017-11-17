@@ -6,8 +6,25 @@ const async = require('async');
 var fs = require('fs')
 
 function controlle(meplid, release, calllbackall) {
+  let c=0;
   console.time("spend time:")
+
   getmeplitems(meplid, function (meplitems) {
+    console.log("mepl number:"+meplitems.length)
+    // meplitems.forEach(function(element,index,as){
+    //  if( element.PTFID==null){
+    //    console.log(c++)
+    //    element.PTFID="111";
+    //    // element.MODULE="abc";
+    //  }
+    // })
+    // console.log(meplitems.length)
+    //
+    // meplitems=fs.readFileSync('./mdptf.json','utf8')
+    // meplitems=JSON.parse(meplitems)
+    // console.log(meplitems.length)
+
+
     fs.writeFile('./meplitems.json', JSON.stringify(meplitems), function (err, data) {
     })
     // meplitems = meplitems.slice(1, 1000);
@@ -29,41 +46,45 @@ function controlle(meplid, release, calllbackall) {
       }
       console.log()
       console.timeEnd("spend time:")
+
       calllbackall(resuarr)
     });
   });
 }
 
+function getHiper(meplid, release, callbackall) {
 
-// userID: 'AVMEV2672'
-// meplID: '5877'
-// subSys: '123'
-// release: 'A'
-// subRelease: '1'
-controlle('5816', 'B', function (data) {
-  console.log('result length:' + data.length)
+  controlle(meplid, release, function (data) {
+    if (data == null || data.length == 0) {
+      callbackall('No such data found')
+    } else {
+      readptfsame(data, function (data1) {
+        callbackall(null, data1);
+        console.log('hiper number:' + data1.length);
 
-  fs.writeFile('./sameptfresult.json', JSON.stringify(data), function (err, data) {
+      })
+    }
   })
-  readptfsame(data, function (data1) {
-    fs.writeFile('./ptf.json', JSON.stringify(data1), function (err, data) {
-    })
-    console.log(data1.length)
-  })
-});
-
-async function handleptf(arr,callbackall) {
-  let  res=[];
-  // for(let i in arr ){
-  //   if(arr[i])
-  //
-  // }
-
-
+  // fs.readFile('./sameptfresult.json', 'utf8', function (err, data) {
+  //   if(err){
+  //     console.log(err)
+  //     callbackall(err)
+  //   }else {
+  //   }
+  // })
 }
 
+//测试对外接口
+// let meplid='5815';
+// let release='A'
+// getHiper(meplid,release,function (err,data) {
+//   if(err){console.log(err);return}
+//   console.log(data)
+//   console.log(data.length)
+// })
 
 
+//去掉重复ptf
 var readptfsame = async function (arr, callback) {
   let res = [];
   for (let i in arr) {
@@ -95,4 +116,5 @@ var readptfsame = async function (arr, callback) {
   }
 }
 
-exports.controlle=controlle
+exports.controlle = controlle
+exports.getHiper = getHiper;

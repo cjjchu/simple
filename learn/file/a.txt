@@ -1,0 +1,1498 @@
+ DSN3CMT1             PI18831              UI19326              ABEND0C4 IN DSN3CMT1 2014-07-03           1
+ DSN3EC0X             PI24305              UI21192              UNABLE TO START DB2  2014-09-10           2
+ DSN3ID30             PI23263              UI21176              RRSAF THREAD HANG AF 2014-09-09           2
+ DSN3RIND             PI11592              UI18366              ABEND878 RSN10 IN DS 2014-05-28           2
+ DSN3RRSF             PI49866              UI32815              ABEND0C4 IN DSN3RRSF 2015-11-11           2
+ DSN3RRSI             PI10964              UI19223              RRSAF HUNG THREADS C 2014-06-28           3
+ DSN3RRSR             PI54248              UI39123              RRSAF DOES NOT SCHED 2016-07-02           2
+ DSN3RRSX             PI22105              UI20792              MULTIPLE ABEND0C4-04 2014-08-22           2
+ DSN3RRSX             PI47877              UI32092              INCONSISTENT UR WHEN 2015-10-16           2
+ DSN3RRXF             PI31438              UI25546              DB2 HANG WHEN RRSAF  2015-02-28           2
+ DSN3TM00             PI41828              UI28188              DB2 ABND=0C4-0000001 2015-06-04           2
+ DSN9SCN9             PI34976              UI34152              ABEND04E RC00E20011  2016-01-01           2
+ DSNAPRHX             PI23266              UI21178              RRSAF THREAD HANG AF 2014-09-09           2
+ DSNB1ALR             PI63673              UI39939              ABEND04E 00C90206 IN 2016-08-09           2
+ DSNB1CFC             PI59993              UI38639              INDEX PAGE GOT REGRE 2016-06-14           3
+ DSNB1CFC             PI64428              UI39226              AE PI59993 FIX COMPL 2016-07-07           2
+ DSNB1CLM             PI48549              UI32922              ABND=04E-00C90101 ER 2015-11-13           2
+ DSNB1CMU             PI59877              UI38283              CHECK INDEX REPORTS  2016-06-01           2
+ DSNB1CMU             PI66800              UI40222              LARGE INCREASE IN 'L 2016-08-20           1
+ DSNB1CPL             PI47916              UI32086              ABEND04E RC00E20015  2015-10-16           2
+ DSNB1CPP             PI28081              UI23938              ABEND0C4 PIC4 DSNB5C 2014-12-17           2
+ DSNB1CPP             PI32232              UI26153              ABEND04E RC00C90101  2015-03-21           2
+ DSNB1CST             PI24141              UI22568              ABEND04E DSNB5RDP RC 2014-10-29           2
+ DSNB1CST             PI35913              UI26326              EXT/DEL/DEF DELAY WH 2015-03-28           2
+ DSNB1DAO             PI58595              UI38286              04E ABEND WITH RC00C 2016-06-01           2
+ DSNB1DCM             PI42455              UI30993              ABEND04E 00C200D8 IN 2015-09-10           2
+ DSNB1DRA             PI15304              UI18723              DSNB1LDA ISSUING DSN 2014-06-11           2
+ DSNB1DRA             PI29318              UI24579              DB2 SUBSYSTEM TERMIN 2015-01-23           2
+ DSNB1GBR             PI29747              UI24705              DSNT501I DSNB1DRA RE 2015-01-28           2
+ DSNB1GBR             PI41442              UI28804              ABEND026 REASON=0811 2015-06-25           1
+ DSNB1GBS             PI62667              UI38682              ABEND04E DSNIBHRE ER 2016-06-15           2
+ DSNB1GET             PI09009              UI18605              CLOSE A RARE TIMING  2014-06-06           2
+ DSNB1OPP             PI64565              UI39369              ABEND0C4 PIC3B IN DS 2016-07-14           2
+ DSNB1OPS             PI43713              UI30757              ABEND0C4 DSNB1GET +0 2015-09-02           2
+ DSNB1PCO             PI52514              UI33664              MSGDSNB355I DSNB5SCO 2015-12-10           1
+ DSNB1PPG             PI26964              UI22737              UNLOCK REQUEST ISSUE 2014-11-04           1
+ DSNB1PPG             PI69412              UI41780              ABEND04E RC00C90206  2016-10-19           2
+ DSNB1PPP             PI22915              UI20956              THIS APAR IS CREATED 2014-08-29           2
+ DSNB1REL             PI33082              UI26106              IF DB2 CRASHES IN A  2015-03-20           3
+ DSNB1RWI             PI57355              UI37415              DB2 NOTIFY PROCESSIN 2016-04-29           2
+ DSNB1ULT             PI33932              UI26008              THREADS TIMEOUT FOR  2015-03-18           2
+ DSNB1ULT             PI65187              UI40720              00C90101 IN DSNKINSL 2016-09-08           2
+ DSNB5SC2             PI41079              UI30073              PAGES ARE REGRESSED  2015-08-11           2
+ DSNB5SCM             PI16750              UI18725              WHEN DB2 CRASHED IN  2014-06-11           3
+ DSNFMDIR             PI35930              UI28796              MULTIPLE FIXES FOR A 2015-06-25           3
+ DSNGDADP             PI06843              UI22578              MOVE ADMF LOCAL BCT  2014-10-29           2
+ DSNGDAIX             PI18583              UI21659              LOAD UTILITY GETS MS 2014-09-25           3
+ DSNGDART             PI51019              UI34321              ABEND04E RC00C9010 I 2016-01-09           3
+ DSNGDBIX             PI20390              UI20346              SELECT FROM DGTT RET 2014-08-08           1
+ DSNGDBIX             PI62073              UI39773              ABEND04E RC00C90110  2016-07-30           2
+ DSNGDCID             PI45224              UI31313              ABEND04E RC00E2000F  2015-09-19           1
+ DSNGDCPD             PI47377              UI32131              IFCID 144 IS INCORRE 2015-10-17           3
+ DSNGDPND             PI29985              UI24742              REORG FAILED WITH 00 2015-01-29           3
+ DSNGEDRP             PI57171              UI36587              ABEND04E RC00E70005  2016-03-30           2
+ DSNGEPIS             PI55193              UI36589              ABENDS0C1 IN DSNXRSB 2016-03-30           2
+ DSNIACCH             PM88171              UI19037              DB2 10 AND 11: ABEND 2014-06-21           3
+ DSNIACCH             PI20371              UI23100              IXL045E SHOWS UP BEC 2014-11-16           2
+                                                                AUSE OF A DEADLOCK B
+                                                                ETWEEN SELECT WITH U
+                                                                R   AND UPDATE ON XM
+                                                                L TABLE SPACE.
+ DSNIACCH             PI38117              UI29001              A SERVICEABILITY COD 2015-07-01           1
+                                                                E TO PREVENT A STORA
+                                                                GE OVERLAY CAUSING
+                                                                    ABENDS0C4 OR UNP
+                                                                REDICTABLE RESULTS
+ DSNIACCH             PI48993              UI33880              ALTER ADD A CHAR COL 2015-12-17           4
+                                                                UMN(NOT NULL WITH DE
+                                                                FAULT), THEN QUERY W
+                                                                ITH "LIKE" ON THE NE
+                                                                W COLUMN, ONE ROW RE
+                                                                TURNED WHICH SHOULD
+                                                                NOT.
+ DSNIACCH             PI55061              UI34936              INCORROUT MAY HAPPEN 2016-02-02           2
+                                                                 WHEN USING DPSI AS
+                                                                ACCESS PATH AND THE
+                                                                ROW WAS MOVED TO ANO
+                                                                THER PARTITION BY A
+                                                                NOT COMMIT YET UPDAT
+                                                                E
+ DSNIAGBR             PI47306              UI31939              HANG IN DB2 SHUTDOWN 2015-10-13           3
+                                                                 DUE TO INCORRECT ST
+                                                                OP DATABASE COUNTERS
+ DSNIB                PI19132              UI21620              ESTAE ENTERED - ABEN 2014-09-24           3
+                                                                DU2027 MODULE DXRRL1
+                                                                50 OFFSET0B8C
+ DSNIBHUN             PI13664              UI18298              BROKEN PAGE STILL WH 2014-05-09           2
+                                                                EN AUTOMATIC LPL COM
+                                                                PLETED SUCCESSFULLY
+                                                                    WITH MSGDSNI049I
+                                                                 MSGDSNI044I & MSGDS
+                                                                NI021I
+ DSNIBHUN             PI20434              UI21385              00C90102 DSNIBHUN 0C 2014-09-17           3
+                                                                2C ERQUAL0C2C & 00C9
+                                                                0101 DSNIBHUN 501B
+                                                                    ERQUAL501B DB2 D
+                                                                IRECTORY DSNDB01
+ DSNIBHUN             PI51086              UI34659              AFTER A RECOVER BACK 2016-01-22           3
+                                                                OUT YES, A QUERY OF
+                                                                THE TABLE SPACE SHOW
+                                                                S   ROWS MISSING
+ DSNICDPH             PI50657              UI37775              CREATE TABLE HASH FA 2016-05-13           3
+                                                                ILS WITH MORE THAN 6
+                                                                G BEING SPECIFIED DU
+                                                                E TODSNIFOD:501D.
+ DSNICLDR             PI20543              UI19886              HIGH IRLM CPU OCCURR 2014-07-24           2
+                                                                ED WHEN QUIESCE UTIL
+                                                                ITY IS RUN AGAINST
+                                                                    PBG TABLESPACE W
+                                                                ITH ONLY ONE PART AL
+                                                                LOCATED IN DB2 V10 C
+                                                                M MODE
+ DSNICMT2             PI13190              UI19571              DECLEAR SELECT ABEND 2014-07-15           3
+                                                                 AT DSNISRID:5013
+ DSNICMT2             PI32630              UI26268              INCORRECT TRC BLOCK  2015-03-26           2
+                                                                IN DSNICMT2 , CAUSED
+                                                                 DSNWVCOL TO FOLLOW
+                                                                    AN INCORRECT COD
+                                                                E PATH AND ABEND0E0
+                                                                       15/01/14 PTF
+                                                                PECHANGE
+ DSNICMT2             PI45117              UI30840              OVERLAY ABENDS0C4 00 2015-09-10           2
+                                                                000038 PIC38 RC38 IN
+                                                                 DSNICMT2 OFFSET3748
+                                                                    AFTER SPUFI ALTE
+                                                                R TABLESPACE TRACKMO
+                                                                D FROM 15/07/16 PTF
+                                                                PECHANGE
+ DSNIDALC             PI28695              UI24794              LOOP IN DSNIDALC AFT 2015-01-30           2
+                                                                ER CANCEL IN DSNIWKF
+                                                                D
+
+
+                                                                       14/10/31 PTF
+                                                                PECHANGE
+ DSNIDBAB             PI18490              UI23031              ABEND04E RC00E20029  2014-11-14           1
+                                                                WHEN DSNIDBEL TRIED
+                                                                TO FREE A DBET BLOCK
+                                                                    BECAUSE THE BLOC
+                                                                K HAD BEEN ALREADY F
+                                                                REED.
+ DSNIDBAB             PI35991              UI26836              SERVICEABILITY APAR  2015-04-18           1
+                                                                FOR MODIFY UTILITY P
+                                                                ROCESSING ABEND04E
+                                                                    00C90101 DSNIDBD
+                                                                F 5004 AND MULTIPLE
+                                                                DB2 MEMBER CRASH
+ DSNIDBMF             PI58027              UI40306              PRO RESET BY START D 2016-08-24           3
+                                                                B WITH ACCESS(FORCE)
+ DSNIDBNI             PM93662              UI23439              ABEND04E RC00C90101  2014-11-27           2
+                                                                IN DSNISREC ERQUAL50
+                                                                09
+ DSNIDCML             PI21358              UI23321              QREP MIGHT RETURN RC 2014-11-22           2
+                                                                00C90064 IF THE DICT
+                                                                IONARY IS BUILT BY
+                                                                    INSERT ON ANOTHE
+                                                                R MEMBER.
+ DSNIDCML             PI43754              UI29446              QREP CAPTURE 00C9011 2015-07-16           2
+                                                                0 DSNIDCML:5002
+ DSNIDCML             PI63083              UI38247              IFI READ GOT ABEND04 2016-05-28           1
+                                                                E DSNSVSVB RC00E2000
+                                                                C DUE TO STORAGE LEA
+                                                                K BYDSNIDCML BECAUSE
+                                                                 DECOMPRESSED LOG RE
+                                                                CORDS DID NOT FIT TH
+                                                                E BUFFER
+ DSNIDLGR             PI36900              UI25944              IFI READ ABENDS0C4 P 2015-03-14           2
+                                                                IC04 RC04 IN DSNIDLG
+                                                                R OFFSET2F6E DURING
+                                                                LOG RECORD DECOMPRES
+                                                                SION WITH RC00E60863
+ DSNIERST             PI31921              UI24103              ABEND04E RC00C90101  2014-12-24           2
+                                                                DSNISREC ERQUAL5001
+ DSNIERST             PI37089              UI26294              ABEND 0C4 DSNIRSTR,M 2015-03-25           3
+                                                                =DSNTFRCV,LOC=DSNIDM
+                                                                  .DSNIBMDP+02EC
+ DSNIERST             PI44363              UI29346              RESTP OBJECTS LEFT A 2015-07-13           3
+                                                                FTER RECOVER POSTPON
+                                                                ED INTERRUPTED
+ DSNIFDPO             PI31527              UI25534              ABEND04E RC00E20004  2015-02-28           1
+                                                                DSNSVBK OFFSET0718 ,
+                                                                 CALLER DSNIGSEL
+ DSNIFOD              PI27273              UI26663              TRADITIONAL SEGMENTE 2015-04-10           3
+                                                                D TABLE MAY GET VARI
+                                                                ABLE ABEND04E DUE TO
+                                                                    MISSING ROWS AFT
+                                                                ER ROLL BACK.
+ DSNIFOD              PI61826              UI39235              EXCESSIVE TIMEOUTS O 2016-07-08           2
+                                                                N PACKAGES DURING RE
+                                                                ORG AFTER PI55576.
+
+
+                                                                       16/05/04 PTF
+                                                                PECHANGE
+ DSNIIMSI             PI28478              UI28423              INDEX DEFINE ON ROWI 2015-06-11           1
+                                                                D COLUMN, AND PADDED
+                                                                 WOULD RETURN 'ROW N
+                                                                OT  FOUND', EVEN THO
+                                                                UGH ROWS EXIST.
+ DSNIKESE             PM89966              UI21748              INCORRECT OUTPUT WIT 2014-09-27           2
+                                                                H UNIQUE WHERE NOT N
+                                                                ULL INDEX THAT HAS
+                                                                    AN INCLUDE COLUM
+                                                                N
+ DSNILAST             PI35935              UI28984              DURING BATCH EXECUTI 2015-07-01           2
+                                                                ON IN FETCH USING SC
+                                                                ROLLABLE INSENSITIVE
+                                                                    CURSOR - AN INCO
+                                                                RRECT SQLCODE100 WAS
+                                                                 RECEIVED
+ DSNILHIS             PI40695              UI28022              DB2 V10.  CUSTOMER S 2015-05-29           2
+                                                                ET LBACKOUT=LIGHTAUT
+                                                                O, BUT THE ROLLBACK
+                                                                IS  BACK WAY TOO FAR
+                                                                , EVEN BEFORE THE UR
+                                                                ID OF THE OLDEST UR
+ DSNILKDY             PI45920              UI30889              ABEND04E RC00E2000F  2015-09-05           1
+                                                                DSNIDALC DSNSFBK +21
+                                                                E4
+
+
+                                                                       15/07/29 PTF
+                                                                PECHANGE
+ DSNILKES             PI38328              UI27006              ABEND04E RC00C90207  2015-04-24           2
+                                                                DSNIOW ERQUAL5003
+ DSNILREP             PI15854              UI19147              DB2 STORAGE MANAGEME 2014-06-26           2
+                                                                NT ENHANCEMENT FOR R
+                                                                UNTIME UPROC
+ DSNILREP             PI13132              UI19422              ABEND04E RC00E2000C  2014-07-08           3
+                                                                AT DSNHXLTR.DSNSVSVB
+                                                                 OFFSET0AD8 ON INSER
+                                                                T ORUPDATE OF AN INL
+                                                                INE LOB COLUMN
+ DSNILREP             PI22630              UI21990              S04E 00E4030F ABEND  2014-10-04           2
+                                                                IN DSNURLAP DURING R
+                                                                EORG SHRLEVEL CHANGE
+ DSNILREP             PI32317              UI24990              LOOP OR LOOPING IN D 2015-02-06           2
+                                                                SNILREP WHEN USING A
+                                                                 UPROC
+
+
+                                                                       15/02/18 PTF
+                                                                PECHANGE
+ DSNIMOFR             PI26457              UI23340              OVERLAY AND ABENDS L 2014-11-25           2
+                                                                IKE ABEND0C4 IN DSNI
+                                                                ONX2 , DSNXECWA ,
+                                                                    AFTER INCORRECT
+                                                                BRF TO RRF CONVERSIO
+                                                                N BY REORG
+ DSNINUKY             PI41288              UI32240              INDEX COMPRISED OF A 2015-10-22           2
+                                                                N INLINE SUBSTRING O
+                                                                F A CLOB COLUMN IS N
+                                                                OT  BEING UPDATED WH
+                                                                EN THE CLOB COLUMN I
+                                                                S SET TO NULL
+ DSNINUKY             PI58308              UI36557              INCORROUT WITH SYSTE 2016-03-30           2
+                                                                M-PERIOD TEMPORAL TA
+                                                                BLE AND BEFORE TRIGG
+                                                                ER  ON VARCHAR COLUM
+                                                                N AFTER ROLLBACK WIT
+                                                                H RRF DISABLED
+ DSNIONX2             PI21867              UI32369              INCORROUT MAY HAPPEN 2015-10-27           2
+                                                                 WHEN USING DPSI AS
+                                                                ACCESS PATH AND THE
+                                                                ROW WAS MOVED TO ANO
+                                                                THER PARTITION BY A
+                                                                NOT COMMIT YET UPDAT
+                                                                E
+ DSNIRFNX             PI28696              UI24011              REORG UTILITY ABENDI 2014-12-18           2
+                                                                NG IN RELOAD PHASE W
+                                                                ITH ABEND04E RC00E20
+                                                                005 IN DSNSVBK OR RC
+                                                                00E2002F IN DSNSVSFM
+ DSNIRLPG             PI16422              UI20117              REORG KEEPDICTIONARY 2014-07-31           3
+                                                                 ON A TABLE WITH A S
+                                                                PATIAL INDEX CAUSES
+                                                                    STORAGE OVERLAY
+                                                                AND VARIABLE ABENDS.
+ DSNIRSET             PI22551              UI22111              LOOP AFTER LOCK ESCA 2014-10-10           2
+                                                                LATION WITH APAR PI1
+                                                                0321 APPLIED
+ DSNIRTSU             PI25569              UI23773              MSGDSNT376I AND MSGD 2014-12-11           4
+                                                                SNT501I ARE ISSUED W
+                                                                HEN TIME OUT
+                                                                    OCCURS INVOLVING
+                                                                 RTS DAEMON 014.RTST
+                                                                ST00
+ DSNIRTSU             PI43482              UI30753              INSERT PROCESSING US 2015-09-02           2
+                                                                ING MUCH CPU FOR TAB
+                                                                LE SPACE WITH MANY
+                                                                    TABLES
+ DSNIRTSU             PI37019              UI30995              HIGH DBM1 CPU TIME D 2015-09-10           2
+                                                                URING MASS DELETE FO
+                                                                R MULTI-TABLE
+                                                                    TABLESPACE
+
+                                                                       15/07/02 PTF
+                                                                PECHANGE
+ DSNIRTSX             PI25811              UI23430              ABEND04E 00C90111 IN 2014-11-27           3
+                                                                 DSNIFPSC 5011 WHEN
+                                                                CHECK INDEX EXECUTED
+                                                                 IN V9 CM OR V10 CM8
+                                                                 MODE
+                                                                       14/09/17 PTF
+                                                                PECHANGE
+ DSNISDLE             PI27527              UI23435              INCORROUT AFTER ROTA 2014-11-27           1
+                                                                TE PARTITION WHEN RE
+                                                                VERSE INDEX SCAN IS
+                                                                USEDIN THE ACCESS PA
+                                                                TH
+ DSNISEGF             PI42292              UI30976              ABEND04E RC00C90105  2015-09-10           2
+                                                                DSNIBHUN ERQUAL0C04
+ DSNISGNS             PI48816              UI31975              REORG UTILITY SERVIC 2015-10-12           2
+                                                                EABILITY
+ DSNISGRT             PI32265              UI25679              ABEND04E 00C90101 IN 2015-03-06           3
+                                                                 DSNISGRT ERQUAL5362
+
+
+
+                                                                       15/01/06 PTF
+                                                                PECHANGE
+ DSNISGRT             PI36937              UI27750              NO DATA FROM TABLE S 2015-05-19           1
+                                                                PACE SCAN
+ DSNISGRT             PI40471              UI29884              TABLE SPACE SCAN SKI 2015-07-31           3
+                                                                PS OVER A DATA PAGE
+                                                                DUE TO INCORRECT SPA
+                                                                CE  MAP UPDATE PROTO
+                                                                COL FOR UTS TABLE SP
+                                                                ACES.
+ DSNISGRT             PI49625              UI32539              IMPROVEMENT TO SPACE 2015-10-30           3
+                                                                 MAP UPDATE FREQUENC
+                                                                Y UNDER PAGE LEVEL
+                                                                    LOCKING
+ DSNISGRT             PI67318              UI41569              NPAGES GREATER THAN  2016-10-11           3
+                                                                NACTIVE IN SYSTABLES
+                                                                PACESTATS RTS TABLE
+ DSNISHPI             PI59373              UI37648              ABEND04E 00C90101 DS 2016-05-09           3
+                                                                NIDM DSNIREPR ERQUAL
+                                                                 5020
+ DSNISJNF             PI50348              UI32841              INCORROUT WHEN SPARS 2015-11-11           2
+                                                                E INDEX ACCESS WAS U
+                                                                SED
+ DSNISRTI             PI43934              UI31574              REORG TABLESPACE REB 2015-09-29           1
+                                                                ALANCE SHRLEVEL CHAN
+                                                                GE ON INDEX CONTROLL
+                                                                ED  PARTITIONING TAB
+                                                                LE SPACE GENERATES I
+                                                                NCORRECT PARTITIONIN
+                                                                G KEY
+ DSNISRTI             PI66867              UI41092              ABEND04E RC00C90101  2016-09-27           3
+                                                                IN DSNILGCL ERQUAL50
+                                                                04 DURING A SELECT O
+                                                                N   A JSON TABLE THA
+                                                                T HAS AN INDEX ON IT
+                                                                .
+ DSNITCUS             PI18620              UI19540              STORAGE LEAK UNDER P 2014-07-12           1
+                                                                ARALLELISM CAUSING A
+                                                                BEND04E RC00E20016
+                                                                    RC00E20003 RC00E
+                                                                20016
+ DSNIUSME             PI40487              UI27942              ABEND04E 00C90218 DS 2015-05-27           3
+                                                                NISGSC ERQUAL 5001
+ DSNIUSME             PI37046              UI27999              ABEND04E RC00C90101  2015-05-28           2
+                                                                DSNIDBMF ERQUAL500B
+ DSNIWKFL             PI37899              UI27718              ABEND04E 00C90101 DS 2015-05-16           1
+                                                                NGDVRT ERQUAL5005 IN
+                                                                 DB2 V10 FOR ZOS WIT
+                                                                H V8BOUND PACKAGES W
+                                                                ITH VIEW/TABLE EXPRE
+                                                                SSION  15/03/26 PTF
+                                                                PECHANGE
+ DSNIXLKP             PI30749              UI25178              ABENDS0C4 IN DSNIXLK 2015-02-15           3
+                                                                P DUE TO INCORRECT A
+                                                                DDRESSABILITY OF A
+                                                                    CONTROL BLOCK PO
+                                                                INTER
+                                                                       14/12/02 PTF
+                                                                PECHANGE
+ DSNIZLDL             PI32723              UI26711              OBJECTS IN RECP,LPL, 2015-04-14           2
+                                                                CHKP AFTER DSG CRASH
+                                                                 DURING LOAD, AND CA
+                                                                N'T BE RECOVERED(REA
+                                                                SON CODE IS 00C9007F
+                                                                ).
+ DSNIZMOV             PI30355              UI24371              INVALID EPOCH NUMBER 2014-12-25           3
+                                                                 IN EXTEND FORMAT OF
+                                                                 ROWID DURING QUERY
+ DSNJPOPN             PI33529              UI25211              IN DATA SHARING GROU 2015-02-18           1
+                                                                P, RBA RESET AND THE
+                                                                N COLD START ON ONE
+                                                                    MEMBER BREAKS TH
+                                                                E PEER LDSD CHAINS C
+                                                                AUSING UTILITY JOB H
+                                                                UNG
+ DSNJPOPN             PI44644              UI30618              ABEND0C4 RC11 IN DSN 2015-08-28           2
+                                                                JPOPN+1866 AFTER THE
+                                                                 THEREAD IS CANCELLE
+                                                                D
+ DSNJR006             PI42981              UI29023              ABEND0C4 RSN4 IN DSN 2015-07-02           2
+                                                                JR007 OFFSET 0164 -
+                                                                STACK STORAGE OVERLA
+                                                                Y IN DSNJR006
+ DSNJR103             PI42170              UI29597              ABEND04E RC00D10341  2015-07-22           1
+                                                                IN DSNJR103 FOR LOG
+                                                                READ
+ DSNJW001             PI50734              UI33169              ABEND0C4 RC10 DSNJW0 2015-11-21           2
+                                                                01+2220
+ DSNJW006             PI51674              UI33436              THE DATA SHARING JOI 2015-12-01           1
+                                                                N LRSN CORRUPTION
+ DSNJW009             PI29292              UI24187              ABEND04E RC00D1F001  2015-01-01           1
+                                                                FROM DSNJW009 AT OFF
+                                                                SET2A82 READING STRI
+                                                                PED ACTIVE LOG DATAS
+                                                                ET DURING THE RESTAR
+                                                                T
+ DSNKBULD             PI23551              UI27053              SQLINCORROUT MORE RO 2015-04-25           3
+                                                                WS RETURNED WHEN QUE
+                                                                RY USES INDEX WHICH
+                                                                IS  DEFINED WITH INC
+                                                                LUDE COLUMN
+ DSNKCEST             PI41936              UI29397              ABEND04E DSNKISPL ER 2015-07-15           2
+                                                                QUAL5003
+
+
+
+                                                                       15/06/19 PTF
+                                                                PECHANGE
+ DSNKDLE              PI32991              UI25905              DSNKINSL:5033 DUE TO 2015-03-13           2
+                                                                 MISSING INDEX UPDAT
+                                                                E LOG. IT IS POSSIBL
+                                                                E   INDEX MANAGER MI
+                                                                SSED SETWRITE.
+ DSNKDLE              PI42019              UI29971              ABEND04E RC00C90101  2015-08-05           2
+                                                                DSNKINSL:506F DURING
+                                                                 INSERT INTO A INDEX
+                                                                .
+ DSNKDPG              PI62167              UI38289              ABEND 04E 00C90206 D 2016-06-01           2
+                                                                SNIIDIS ERQUAL 5002
+ DSNKFLRR             PI49214              UI32114              REVERSE INDEX SCAN M 2015-10-17           3
+                                                                AY PRODUCE INCORRECT
+                                                                 RESULTS.
+ DSNKFTCH             PI44562              UI30605              MISSING INDEX ENTRY  2015-08-27           2
+                                                                AFTER REORG INDEX SH
+                                                                RLEVEL CHANGE AGAINS
+                                                                T A UNIQUE INDEX WIT
+                                                                H INCLUDED COLUMNS
+ DSNKGSEL             PI41598              UI28698              ABNORMAL CPU USAGE F 2015-06-23           2
+                                                                OR INLIST PREDICATE
+                                                                EVALUATION WHEN IT H
+                                                                AS  MORE THAN 128 EL
+                                                                EMENTS
+ DSNKINSL             PI38037              UI27936              INCORROUT WITH REFER 2015-05-27           3
+                                                                ENTIAL INTEGRITY FOR
+                                                                 ROW INSERT
+ DSNKINSL             PI43605              UI30747              INDEX PAGE BROKEN.   2015-09-02           2
+ DSNKISPL             PI16238              UI19317              LOAD RESUME FAILING  2014-07-03           3
+                                                                WITH  RC00E40322 AFT
+                                                                ER AN
+                                                                    ALTER TO A COLUM
+                                                                N IN THE INDEX.
+ DSNKIXDB             PI63446              UI40029              ABEND 04E 00C90206 D 2016-08-12           2
+                                                                SNIIDIS ERQUAL 5002
+                                                                WHEN RUNNING SQL DEL
+                                                                ETE
+ DSNKLFPR             PI33530              UI25504              RUNSTATS ABEND RC00E 2015-02-27           1
+                                                                2000F DSNIDALC DSNSV
+                                                                SFB OFFSET08C6 AND
+                                                                    DB2 CRASH
+ DSNKMDEL             PI50928              UI33539              ABEND0C4 IN DSNIOST2 2015-12-04           2
+                                                                 +1277C AFTER PTF UI
+                                                                21748 IF NO REBIND
+ DSNKPOSI             PI16350              UI18412              ABEND04E RC00C90101  2014-05-30           2
+                                                                DSNISMRS:5003 HAPPEN
+                                                                S AFTER REORG PART O
+                                                                N A PARTITIONED TABL
+                                                                ESPACE WITH NON-PART
+                                                                ITIONED CLUSTER INDE
+                                                                X.
+ DSNKUNR2             PI26596              UI23713              INDEX CORRUPTION AFT 2014-12-09           2
+                                                                ER LPL RECOVERY
+ DSNLCCLO             PI63021              UI41510              DB2 WILL NOT PROCESS 2016-10-08           2
+                                                                 FULL LOB DATA WHEN
+                                                                THE DATA IS INSERTED
+                                                                 AS STREAM WITHOUT S
+                                                                PECIFING LENGTH
+ DSNLCCLX             PI62145              UI38239              ABEND 0C4-0000003B D 2016-06-08           2
+                                                                SNLFRCV+01E8
+ DSNLCKDS             PI57086              UI39447              ABND 04E-00E2000F DS 2016-07-16           2
+                                                                NLCBFM.DSNSVSFB+08EA
+                                                                 WHEN THE REQUESTER'
+                                                                S   CDB SYSIBM.IPNAM
+                                                                ES SECURITY_OUT COLU
+                                                                MN CONTAINS "D" OR "
+                                                                E"
+ DSNLIRTR             PM95754              UI22642              ABEND04E RC00E2000C  2014-10-31           3
+                                                                SPM SHARED ATB POOL
+ DSNLQCTL             PI53570              UI34003              DB2 SUBSYSTEM ABEND  2015-12-22           1
+                                                                00E50702 AFTER ABEND
+                                                                 00E50013 IN DSNVXLT
+                                                                0   DUE TO CANCEL DR
+                                                                IVEN BY DSNLILOS
+ DSNLTDT1             PI53948              UI34611              ABEND 04E 00D300FD L 2016-01-21           2
+                                                                OC=DSNLXGLM.DSNLXCM2
+                                                                +0778
+ DSNLXCQS             PI38990              UI33609              DB2 SUBSYSTEM ABEND  2015-12-09           3
+                                                                S004F/00E50702 AFTER
+                                                                 MORE THAN 6 RETRIES
+                                                                 ON DBAT ABEND 0C4-3
+                                                                B FROM DSNLXRSS
+ DSNLXHCS             PI23280              UI21881              ACCELERATOR IN STOPP 2014-10-01           2
+                                                                ING AFTER IPL
+ DSNLXRCL             PI25818              UI22646              DB2 DDF THREAD ABEND 2014-10-31           2
+                                                                 04E-00E2000F LOC=DS
+                                                                NLXREL.DSNSVSFB+08EA
+ DSNLXROP             PI05920              UI19136              ABEND0C4 IN DSNSVSFB 2014-06-26           2
+                                                                 ON A FREE STORAGE C
+                                                                ALL FROM DSNLXREL. D
+                                                                B2  MAY ABEND WITH R
+                                                                C00D94001
+ DSNNKGEN             PI59083              UI37131              ABEND0C4 RC00000038  2016-04-20           3
+                                                                DSNGEDLC OFFSET105A
+                                                                AND ABEND0C4 RC00000
+                                                                038 DSNIOST2 OFFSET6
+                                                                284 (OVERLAY FROM DS
+                                                                NNQOPS)
+ DSNNOUPD             PI27231              UI23669              ABEND04E RC00E70005  2014-12-06           3
+                                                                AT DSNNOUPD ERQUAL37
+                                                                0 AND
+                                                                    DSNNOUPD ERQUALM
+                                                                173 WHEN USING XMLMO
+                                                                DIFY
+ DSNNOUPD             PI52280              UI37452              SPECIAL CHARACTERS N 2016-04-30           2
+                                                                OT BEING ESCAPED AFT
+                                                                ER BEING INSERT/REPL
+                                                                ACEDINTO XML BY XMLM
+                                                                ODIFY
+ DSNNQTOP             PI51089              UI35337              INCORROUT FOR A QUER 2016-02-13           2
+                                                                Y THAT HAS A WHERE C
+                                                                LAUSE THAT HAS AN
+                                                                    XMLEXISTS PREDIC
+                                                                ATE ANDED WITH ANOTH
+                                                                ER PREDICATE
+ DSNNQXCA             PI19349              UI21112              SQLCODE904 RC00D5000 2014-09-05           3
+                                                                2 DUE TO THE XML POO
+                                                                L FULL
+                                                                    WHEN USING THE X
+                                                                MLPARSE FUNCTION
+ DSNO2CMT             PI42610              UI33775              ABEND04E RC00C90101  2015-12-15           3
+                                                                AT DSNOTCSO ERQUAL50
+                                                                04
+ DSNOALLO             PI06690              UI20561              REDUCE SPACE MAP CON 2014-08-15           3
+                                                                TENTION FOR LOB TS
+ DSNOALLO             PI47904              UI35671              ABENDS04E RC00C90101 2016-02-26           3
+                                                                 IN DSNOLADS WITH ER
+                                                                QUAL5020 MAY HAVE
+                                                                    DETECTED CORRUPT
+                                                                ION IN DSNDB01.SYSSP
+                                                                UXB
+ DSNOALLO             PI56944              UI36421              MISSING LOB ENTRIES  2016-03-22           1
+                                                                CAUSING VARIOUS ABEN
+                                                                DS
+ DSNOALLO             PI61644              UI38975              AE PI56944 - ABEND04 2016-06-28           2
+                                                                E 00C90101 DSNOALLO
+                                                                ERQUAL5021 AFTER MAS
+                                                                S   DELETE OR TRUNCA
+                                                                TE
+ DSNOFLMP             PI22446              UI22071              ABEND04E RC00C90101  2014-10-09           2
+                                                                IN DSNOGLOB ERQUAL50
+                                                                08 DURING REORG
+ DSNONLLE             PI55948              UI35511              CLOB VALUE CAN CHANG 2016-02-19           3
+                                                                E FROM '40' TO '6F'
+                                                                WITH DIAG
+ DSNOTCSO             PI27928              UI23959              SQLINCORROUT OF NATI 2014-12-12           2
+                                                                VE STORED PROCEDURE
+                                                                WHICH CONTAINS LOB
+                                                                    VARIABLES AND SU
+                                                                BSTR FUNCTION
+ DSNOUL8              PI17355              UI20110              QUERY ENCOUNTERED IN 2014-07-31           3
+                                                                FINITE LOOP IN LIKE
+                                                                PREDICATE EVALUATION
+                                                                 FORLOB DATA
+ DSNOUL8              PI31466              UI24479              INCORROUT OF QUERY R 2015-01-19           3
+                                                                ELATES TABLE WITH LO
+                                                                B
+ DSNPXTN0             PI49052              UI31917              POTENTIAL DATA LOSS  2015-10-11           1
+                                                                AFTER REORG
+ DSNRRAUB             PI42453              UI28786              ABEND04E RC00D92023  2015-06-25           2
+                                                                FROM DSNRPLCS OFFSET
+                                                                130E WITH THE POSTPO
+                                                                NED ABORT UR THAT WA
+                                                                S PART OF GLOBAL TRA
+                                                                NSACTION
+ DSNSRSUP             PI13849              UI18499              ABENDS0C4 DSNSRSUP W 2014-06-03           3
+                                                                HEN CANCEL RS00E5001
+                                                                3 OCCURS IN DDF
+                                                                    WHILE RUNNING IN
+                                                                 DB2 STORAGE MANAGER
+                                                                 CODE.
+ DSNTAXAC             PI20321              UI20778              ABEND04E RC00C90101  2014-08-16           2
+                                                                AT DSNGEFBL +0EB0 OF
+                                                                FSET0EB0
+ DSNTBCM              PI22930              UI22227              ABEND0C4 RC04 IN DSN 2014-10-16           3
+                                                                GEPIS+25E8 OR +2A2A
+                                                                OR +2658 ON BIND/REB
+                                                                IND PACKAGE OR REBIN
+                                                                D TRIGGER PACKAGE
+ DSNTDDIS             PI31477              UI30057              -DIS DB LPL COMMAND  2015-08-08           3
+                                                                ISSUED ABEND04E RC00
+                                                                E20003 AND THE ABEND
+                                                                    WAS ISSUED REPEA
+                                                                TEDLY UNTIL DB2 DOWN
+                                                                .
+ DSNUBADR             PI30340              UI28949              ABEND04E RC00C90221  2015-06-30           3
+                                                                DSNISGAU:5009 AND RC
+                                                                00C90102 DSNIBHRE:0C
+                                                                01  DURING RECOVER T
+                                                                ABLESPACE
+ DSNUBADR             PI45050              UI31363              ABEND04E RC00E4D5D2  2015-09-23           2
+                                                                IN DSNUBADR +'1DEA'X
+                                                                 DURING COPY SHRLEVE
+                                                                L   CHANGE OF A PBG
+                                                                TABLE SPACE AFTER AP
+                                                                PLYING PI30340
+ DSNUBASA             PI34364              UI26503              AFTER RESET OF THE L 2015-04-03           2
+                                                                OG RBA DATA REPLICAT
+                                                                ION PRODUCT IS GETTI
+                                                                NG  00C90064 ACCESSI
+                                                                NG COMPRESSED TABLES
+                                                                PACES
+ DSNUBASP             PI58715              UI37989              COPY CHANGELIMIT ON  2016-05-19           3
+                                                                PARTITIONED TABLESPA
+                                                                CE GETS ABEND0C4 IN
+                                                                    DSNUBACH +19B0 A
+                                                                ND DB2 MAY CRASH WIT
+                                                                H ABEND0C4 IN DSNB1C
+                                                                HK +19E2
+ DSNUBCOP             PI22485              UI20910              MSGDSNU381I TABLESPA 2014-08-28           2
+                                                                CE IS IN COPY PENDIN
+                                                                G WHEN DOING A MODIF
+                                                                Y   RECOVERY IN DATA
+                                                                 SHARING WHEN USEABL
+                                                                E COPIES ARE AVAILAB
+                                                                LE
+ DSNUBCOP             PI29111              UI31510              MODIFY RECOVER DELET 2015-09-26           3
+                                                                E AGE(0) DELETES REC
+                                                                ORD CREATED TODAY.
+ DSNUBCOP             PI51820              UI32964              MODIFY RECOVERY MAY  2015-11-14           2
+                                                                NOT DELETE SYSLGRNX
+                                                                RECORDS THAT MEET TH
+                                                                E   DELETION CRITERI
+                                                                A
+ DSNUCAIN             PI30747              UI25064              RECOVER OF LARGE NUM 2015-02-11           2
+                                                                BER OF OBJECTS TO A
+                                                                PRIOR POINT IN TIME
+                                                                    CAUSES TIMEOUTS
+                                                                DUE TO LOCK ESCALATI
+                                                                ON ON DSNDB06.SYSTST
+                                                                PT.
+ DSNUCAIN             PI33465              UI27070              ABEND0C7 ON REBUILD  2015-04-24           3
+                                                                INDEX UTILITY AGAINS
+                                                                T A MULTI-PIECE COMP
+                                                                RESSYES SEGMENTED TA
+                                                                BLESPACE WHO WAS JUS
+                                                                T RECOVERED FROM SLB
+                                                                .
+ DSNUCASA             PM88455              UK97229              V10 04E-00C90101 DSN 2013-09-03           4
+                                                                IDM.DSNKPGCM:5008
+ DSNUCASA             PI08924              UI17373              IF FLASHCOPY IC IS M 2014-04-25           3
+                                                                IGRATED TO  ML2 - RE
+                                                                COVER TOCOPY FAILS W
+                                                                ITH ADR383W.
+ DSNUCLOG             PI41116              UI30139              ECSA STORAGE LEAK WH 2015-08-12           3
+                                                                EN REORG ABENDS IN L
+                                                                OG APPLY PHASE.
+ DSNUGUVR             PI57083              UI37159              AFTER APPLYING PTF U 2016-04-21           2
+                                                                I28588, REORG MAY FA
+                                                                IL WITH RC00E400E0
+
+
+                                                                       16/02/25 PTF
+                                                                PECHANGE
+ DSNURCCP             PI38111              UI27821              REORG OF A LOB TABLE 2015-05-21           2
+                                                                 SPACE FAILS WITH RC
+                                                                00C200B0
+ DSNURCCP             PI50393              UI32988              REORG INLINE COPY MI 2015-11-10           2
+                                                                SSING CHANGED PAGES
+                                                                ON NEWLY GROWN PBG P
+                                                                ART
+ DSNURDRN             PI55576              UI36890              DSNIOST2 ERQUAL 5398 2016-04-09           1
+                                                                 ABEND WAS ISSUED AF
+                                                                TER REORG ON MIX
+                                                                    VERSIONED TABLES
+ DSNURFBR             PI15860              UI19271              04E-00C9007E REORG L 2014-07-02           2
+                                                                IST DSNIDM.DSNIRLPG+
+                                                                CC0C
+ DSNURFBR             PI33851              UI30293              REORG DISCARD ON A T 2015-08-19           2
+                                                                ABLE WITH FIELDPROC
+                                                                GETS ABEND04E RC00E4
+                                                                0336IN DSNURSCN+7118
+                                                                 WHEN USING PARALLEL
+                                                                 UNLOAD
+ DSNURFIT             PI40479              UI29413              ABEND0C7 IN DSNURLAP 2015-07-15           2
+                                                                 OFFSET357A WHEN RUN
+                                                                 REORG REBALANCE FOR
+                                                                    COMPRESSED TABLE
+                                                                SPACE WITH KEEPDICTI
+                                                                ONARY.
+ DSNURFIT             PI59237              UI38095              REORG WITH DISCARD W 2016-05-24           2
+                                                                HEN DELETES WRONG RO
+                                                                WS WHEN TABLESPACE
+                                                                    IS CREATED WITH
+                                                                BRF SPRMRRF=DISABLE
+ DSNURICP             PI27803              UI24624              REORG SHRLEVEL NONE  2015-01-23           2
+                                                                AT PART LEVEL WITH D
+                                                                ISCARD DOES NOT SET
+                                                                NPI TO RBDP
+ DSNURWBF             PI40669              UI29260              LOAD UTILITY SERVICE 2015-07-10           3
+                                                                ABILITY
+ DSNURWBG             PI32732              UI25092              LOAD UTILITY TRUNCAT 2015-02-12           2
+                                                                ES THE DATA INCORREC
+                                                                TLY
+ DSNURWBG             PI46204              UI32101              LOAD UTILITY ABENED  2015-10-16           2
+                                                                IN RELOAD PHASE WITH
+                                                                 ABEND CODE 0C4
+                                                                    RC00000004 ON MO
+                                                                DULE DSNXRLED OFFSET
+                                                                 037A
+ DSNURWBG             PI56500              UI38101              ABEND0C4 IN DSNURWRF 2016-05-24           3
+                                                                 RUNNING LOAD WITH A
+                                                                PAR PI32732 APPLIED
+
+
+                                                                       16/02/05 PTF
+                                                                PECHANGE
+ DSNURWI              PI20372              UI20363              VARIOUS ABENDS DUE T 2014-08-09           1
+                                                                O STORAGE OVERLAY WH
+                                                                EN CONVERTING ROW FO
+                                                                RMATDURING LOAD FORM
+                                                                AT INTERNAL
+ DSNURWIR             PI38908              UI30550              ABEND04E RC00C90101  2015-08-27           2
+                                                                DSNIDM DSNIKESR 500B
+                                                                 REORG ROWFORMAT BRF
+ DSNURWIR             PI32278              UI31341              AFTER ALTERING DSSIZ 2015-09-23           2
+                                                                E AND MAXPARTITIONS,
+                                                                 REORG A HASH PBG
+                                                                    TABLESPACE GETS
+                                                                DSNT500I RC00C200E2.
+ DSNUSAH1             PI64062              UI40249              STORAGE OVERLAY CAUS 2016-08-22           2
+                                                                ED BY RUNSTATS HISTO
+                                                                GRAM WHEN QUANTILENO
+                                                                 =   -1 IN SYSIBM.SY
+                                                                SCOLDISTSTATS
+ DSNUSEOF             PI20397              UI20035              RUNSTATS UTILITY GET 2014-07-17           2
+                                                                S ABEND04E RC00E2000
+                                                                F IN DSNSVSFB +08EA
+ DSNUSSRI             PI67031              UI41594              S04E RC00E2000E IN D 2016-10-12           2
+                                                                SNSVSFB
+ DSNUUGMS             PI31215              UI24115              UNLOAD WHEN COL LIKE 2014-12-24           1
+                                                                 '1%' DOES NOT FIND
+                                                                OR UNLOAD DATA THAT
+                                                                IT  SHOULD
+ DSNUULVA             PI24668              UI22695              0C4-11 ABEND IN UNLO 2014-11-01           2
+                                                                AD UTILITY WITH STRI
+                                                                P TRAILING
+ DSNUVARS             PI57251              UI37312              RESTORE SYSTEM WITH  2016-04-27           2
+                                                                SYSPITR FFFFFFFFFFFF
+                                                                 FAILS AND ISSUES
+                                                                    MESSAGE DSNU1619
+                                                                I.
+                                                                       16/02/16 PTF
+                                                                PECHANGE
+ DSNVDTA              PI29198              UI26790              LOOP IN DSNVDTA WHEN 2015-04-16           2
+                                                                 SINGLE PROCESSOR IS
+                                                                 USED
+ DSNVMON              PI21828              UI20843              DB2 TERMINATES WITH  2014-08-23           2
+                                                                REASON=00E50731 RC00
+                                                                E50731 00E50731 AFTE
+                                                                R   GETTING MUTLIPLE
+                                                                 ABEND0C4 ON -DIS TH
+                                                                READ
+ DSNWAFRR             PI41421              UI29631              ABEND0C4 RSN4 DSNWAA 2015-07-10           1
+                                                                P0 DSNWAFRR OFFSET07
+                                                                00
+
+
+                                                                       15/05/27 PTF
+                                                                PECHANGE
+ DSNWVCSP             PI35060              UI32608              STOPPING A DB2 TRACE 2015-11-03           3
+                                                                 WITH AN AUDIT POLIC
+                                                                Y MAY FAIL WITH
+                                                                    MSG DSNW151I ERR
+                                                                OR CONVERTING XPKGLO
+                                                                C VALUE TO UTF-8
+ DSNX8EKG             PI17573              UI19800              ABEND04E RC00D31010  2014-07-22           2
+                                                                DSNLCCNR / SUBFUNCTI
+                                                                ON: ACCS
+                                                                    DSNX8EKGHEARTBEA
+                                                                T WHILE STOP ACCEL /
+                                                                 STOP LOOPS
+ DSNXEBR              PI23366              UI23461              ABEND04E RC00E20015  2014-11-27           1
+                                                                DSNSLD1.DSNSVSTK OFF
+                                                                SET0124 AFTER MANY
+                                                                    INCREMENTAL REBI
+                                                                NDS. OP BLOCKS SHOW
+                                                                SAME S 14/08/22 PTF
+                                                                PECHANGE
+ DSNXEBR              PI28192              UI29492              SQLCODE170 AND SQLCO 2015-07-17           3
+                                                                DE171 WHEN USING SUB
+                                                                STRING FUNCTION AND
+                                                                ITS FIRST ARGUMENT I
+                                                                S BINARY DATA TYPE
+ DSNXECLF             PI50320              UI32959              ABEND0C4 RC00000038  2015-11-14           2
+                                                                AT DSNSLD4 DSNSVSFB
+                                                                OFFSET0696 WHEN TRYI
+                                                                NG  TO FREE AN INTER
+                                                                NAL CONTROL BLOCK
+ DSNXECLF             PI52287              UI34654              ABEND04E RC00E2000D  2016-01-22           2
+                                                                DSNXECW DSNSVSFB +08
+                                                                DA
+ DSNXEDP              PI39769              UI30028              AFTER INSERT TRIGGER 2015-08-07           2
+                                                                 NOT FIRING WHEN INS
+                                                                ERT STATEMENT INCLUD
+                                                                ES  NOT ATOMIC CONTI
+                                                                NUE ON SQLEXCEPTION
+                                                                AND IS NOT AN MRI
+ DSNXEDP              PI52277              UI33967              LOOP IN DSNXECWA UI2 2015-12-20           2
+                                                                4539 OFFSET17E2 AND
+                                                                OFFSET18AA AFTER
+                                                                    CANCEL THREAD.
+
+                                                                       16/01/21 PTF
+                                                                PECHANGE
+ DSNXEDS1             PI32623              UI25223              ABEND04E RC00E70005  2015-02-11           3
+                                                                IN UNNAMED MODULE or
+                                                                 DSNXEIST AT OFFSET
+                                                                P000
+ DSNXEDS1             PI39858              UI28625              ABEND04E RC00E30001  2015-06-18           3
+                                                                DSNT1SRQ +0CF0 AND O
+                                                                THER ABENDS
+
+
+                                                                       15/04/24 PTF
+                                                                PECHANGE
+ DSNXELX              PI18866              UI20848              AB04E RC00E70005 AT  2014-08-26           3
+                                                                DSNXERT2 :P110 WHEN
+                                                                ACCELERATED STATIC Q
+                                                                UERYIS A RESULT SET
+                                                                FROM REMOTE STORED P
+                                                                ROCEDURE OR NATIVE S
+                                                                QL PROC
+ DSNXEMG1             PI17033              UI22687              INCORROUT WHEN QUERY 2014-11-01           2
+                                                                 USES(PARALLELISM, M
+                                                                ATCHING INDEX ACCESS
+                                                                ,   UNKNOWN VALUE AT
+                                                                 PREPARE TIME)
+ DSNXEPM              PI44951              UI32277              NO ROWS RETURNED FRO 2015-10-22           2
+                                                                M CLI INVOCATION OF
+                                                                REMOTE DB2 FOR Z/OS
+                                                                    PROCEDURE THAT R
+                                                                ETURNS AN ACCELERATE
+                                                                D QUERY RESULT SET
+ DSNXERD              PI26334              UI22212              WAIT/HANG FOR GLOBAL 2014-10-16           1
+                                                                 THREADS THAT GET RC
+                                                                00D91001 ABENDS.
+ DSNXESPL             PI44025              UI30030              ABEND0C4 RC38 AT DSN 2015-08-07           3
+                                                                XEDS1 OFFSET073C DUR
+                                                                ING EXECUTION OF AN
+                                                                    SQLPL PROC CONTA
+                                                                INING AN EMPTY DYNAM
+                                                                IC STRING
+ DSNXEXAT             PI49822              UI32995              ABEND0C4 RC38 FROM D 2015-11-17           2
+                                                                SNTFRCV DURING ABORT
+                                                                 WHILE JOB WHICH HAD
+                                                                 A  TRIGGER WAS CANC
+                                                                ELLED
+ DSNXGCAL             PI32550              UI26847              STORAGE OVERLAY GOES 2015-04-20           3
+                                                                 BEYOND ALLOCATED ST
+                                                                ORAGE OF ENCODE/DECO
+                                                                DE  INTERNAL STRUCTU
+                                                                RE
+ DSNXGRM1             PI26285              UI22950              INCORROUT WHEN USING 2014-11-12           1
+                                                                 PREPARED STATEMENT
+                                                                WITH IN-LIST WITH 19
+                                                                    OR MORE PARAMETE
+                                                                R MARKERS
+ DSNXGRTM             PI39512              UI27781              INCORRECT OUTPUT AFT 2015-05-20           2
+                                                                ER DELETE ON BITEMPO
+                                                                RAL TABLE
+                                                                    WITH INDEX OR NL
+                                                                IST ACCESS PATH
+ DSNXGSAF             PI20156              UI19341              ROW_NUMBER() RETURNS 2014-07-04           1
+                                                                 INCORRECT VALUE OF
+                                                                2 INSTEAD OF 1
+ DSNXGSDV             PI32837              UI25153              INCORROUT CORRELATIO 2015-02-14           2
+                                                                N BIF RETURNS A VALU
+                                                                E OUTSIDE THE RANGE
+                                                                -1  TO 1 WHEN THE WH
+                                                                ERE CLAUSE OF A QUER
+                                                                Y HAS AN IN-LIST
+ DSNXGSGP             PI48089              UI35540              INCORROUT FOR QUERY  2016-02-20           4
+                                                                USING UNPACK BIF AND
+                                                                 THE GROUP BY CLAUSE
+ DSNXGVCM             PI22465              UI22773              INCORROUT FOR QUERY  2014-11-05           2
+                                                                CONTAINING AN INNER
+                                                                JOIN WITH LIKE %% FO
+                                                                R   MIXED VARCHAR PR
+                                                                EDICATE
+ DSNXIAB1             PI25748              UI23410              AFTER ALTER TABLE DR 2014-11-26           2
+                                                                OP PRIMARY KEY AND A
+                                                                DD COLUMN, SUBSEQUEN
+                                                                T   CREATE INDEX GET
+                                                                S ABEND04E RC00C9010
+                                                                1 AT DSNGDVIX ERQUAL
+                                                                5006
+ DSNXIAB6             PI15667              UI20172              ABEND04E RC00C90110  2014-08-01           2
+                                                                DSNIPTYM ERQUAL5005
+                                                                RUNNING ALTER
+ DSNXIAIX             PI36213              UI29092              INCORRECT VALUE INSE 2015-07-03           2
+                                                                RTED WITH USER DEFAU
+                                                                LT VALUE AFTER
+                                                                    CONVERSION FROM
+                                                                INDEX TO TABLE CONTR
+                                                                OLLED PARTITIONING
+ DSNXIALC             PI26459              UI23745              ALTER TABLE ALTER CO 2014-12-10           2
+                                                                LUMN RESULTS WITH ST
+                                                                ORAGE OVERLAY / ABEN
+                                                                DS  AND DB2 TERMINAT
+                                                                ION
+ DSNXIAQ1             PI23703              UI21288              DUPLICATE SEQUENCE N 2014-09-12           2
+                                                                UMBER GENERATED AFTE
+                                                                R EXECUTION OF ALTER
+                                                                    SEQUENCE XXXX MI
+                                                                NVALUE 1 MAXVALUE 89
+                                                                999999
+ DSNXIAQ1             PI47929              UI34702              DB2DSHR, DUPLICATE K 2016-01-23           2
+                                                                EYS PRODUCED BY CONC
+                                                                URRENT IDENTITY
+                                                                    ALTERATION STATE
+                                                                MENT AND LOAD JOB ON
+                                                                 THE SAME TABLE
+ DSNXIATB             PI62235              UI38354              ABEND04E RC00C90101  2016-06-02           2
+                                                                IN DSNGD001.DSNGDADP
+                                                                :500A DURING ALTER T
+                                                                ABLEWITH ADD ORGANIZ
+                                                                E BY HASH
+ DSNXIATS             PI42713              UI30835              INCONSISTENT BUFFERP 2015-09-04           4
+                                                                OOL AFTER ROLLBACK A
+                                                                LTER TABLESPACE
+                                                                    BUFFERPOOL IN DB
+                                                                2DSHR
+ DSNXIBAT             PI60227              UI37723              SERVICEABILITY APAR  2016-05-11           2
+                                                                FOR DSNXIBAT +184 OV
+                                                                ERLAY
+ DSNXICB7             PI27220              UI24100              ABEND04E RC00E40601  2014-12-23           3
+                                                                AT DSNUEXDL OFFSET14
+                                                                EE WHEN RUNNING A
+                                                                    CATMAINT JOB
+ DSNXIDTB             PI55444              UI35878              ABEND04E RC00C90110  2016-03-05           2
+                                                                IN DSNISRTI ERQUAL50
+                                                                16 DURING INSERT
+                                                                    OF JSON DATA
+ DSNXIIKY             PI48780              UI34150              ABEND04E RC00C90101  2016-01-01           2
+                                                                DSNKTRAV ERQUAL5037
+                                                                OCCURRED WHEN KEY LE
+                                                                NGTHFOR NOT PADDED E
+                                                                XPRESSION-BASED INDE
+                                                                X WAS CALCULATED INC
+                                                                ORRECTLY
+ DSNXISB5             PI30220              UI26243              RC=8 ON REPAIR DBD A 2015-03-25           3
+                                                                FTER ALTER REGENERAT
+                                                                E & CREATE OR REPLAC
+                                                                E   INSTEAD OF TRIGG
+                                                                ER
+ DSNXISB5             PI57897              UI36533              AN ERROR RETURNED WI 2016-03-26           3
+                                                                TH A RETURN CODE 08
+                                                                ON REPAIR DBD AFTER
+                                                                    ALTER REGENERATE
+                                                                 AND CREATE INSTEAD
+                                                                OF TRIGGER
+ DSNXISB6             PI39264              UI28997              AFTER PI15667 CONVER 2015-07-01           1
+                                                                SION TO TABLE-CONTRO
+                                                                LLED PARTITIONING BR
+                                                                OKE THE ROWS IN SYST
+                                                                ABLEPART AND CAUSED
+                                                                OVERLAYS TO CRASH DB
+                                                                2
+ DSNXISB6             PI59910              UI37603              MISMATCH IN COLUMN O 2016-05-07           2
+                                                                RDER ON AOT TABLE BE
+                                                                TWEEN DB2 AND IDAA
+                                                                    DEFINITIONS
+ DSNXISUB             PI26033              UI24475              ABEND04E RC00E2000C  2015-01-19           3
+                                                                AT DSNHXLTR DSNSVSVB
+                                                                 OFFSET0AB6 DUE TO A
+                                                                    STORAGE LEAK IN
+                                                                AN ALTER TABLE ALTER
+                                                                 COLUMN
+ DSNXISUB             PI69308              UI41974              POSSIBLE INCORROUT F 2016-10-24           2
+                                                                OR TRIGGER WITH A WH
+                                                                EN-CLAUSE AS THE
+                                                                    TRIGGERED-ACTION
+                                                                 AFTER APPLYING PI56
+                                                                950/UI37712/UI37713
+ DSNXOADT             PI22098              UI21640              AN INCORRECT RESULT  2014-09-25           2
+                                                                OCCURS FOR A QUERY R
+                                                                EFERENCING A VIEW WH
+                                                                ICH CONTAINS UNION A
+                                                                LL AND AGGREGATE FUN
+                                                                CTION WITH ARITH OPE
+                                                                RATION
+ DSNXOAND             PI35510              UI30453              ABND0CC RC0000000C A 2015-08-25           2
+                                                                T DSNXGRDS DSNXOPRP
+                                                                OFFSET134E WHEN
+                                                                    USING STAR JOIN
+                                                                IN A QUERY
+ DSNXOB2              PI17479              UI19159              INCORROUT WHEN QUERY 2014-06-27           3
+                                                                 HAS SCALAR FULLSELE
+                                                                CT WHICH CONTAINS TA
+                                                                BLE EXPRESSION WITH
+                                                                UNION ALL
+ DSNXOB2              PI38595              UI29293              ABEND0C4 RC00000010  2015-07-11           1
+                                                                DSNXOCSK +4868 WHEN
+                                                                ACCESS CONTROL IS
+                                                                    ACTIVE FOR A TAB
+                                                                LE AND APAR PI16260
+                                                                IS APP 15/04/08 PTF
+                                                                PECHANGE
+ DSNXOBF3             PI19360              UI19330              ABEND0C7 RC00000000  2014-07-03           2
+                                                                AT DSNXRSGB OFFSET76
+                                                                8E FOR A QUERY WITH
+                                                                A   SUM FUNCTION FOR
+                                                                 DEC(DECFLOAT(16)) A
+                                                                ND A GROUP BY CLAUSE
+ DSNXOBFA             PI22793              UI21122              SQLINCORROUT NON-BIT 2014-09-06           3
+                                                                 DATA RETURNED FOR F
+                                                                UNCTION VARCHAR_FORM
+                                                                AT  WHEN ARGUMENT IS
+                                                                 VARCHAR FOR BIT DAT
+                                                                A
+ DSNXOBM              PI20948              UI20796              INCORROUT INVALID NU 2014-08-22           1
+                                                                MBER OF ROWS RETURNE
+                                                                D WITH DEGREE(ANY) W
+                                                                HEN YEAR FUNCTION IS
+                                                                 USED IN WHERE CLAUS
+                                                                E
+ DSNXOBM              PI25244              UI22987              INCORRECT OUTPUT WIT 2014-11-13           2
+                                                                H TEMPORAL TABLES US
+                                                                ING AS OF CLAUSE AND
+                                                                    PARALLELISM
+ DSNXOBM              PI38460              UI28710              INCORRECT OUTPUT (NO 2015-06-23           3
+                                                                 ROW RETURNED) WHEN
+                                                                RANGE-LIST ACCESS IS
+                                                                    USED FOR VARBINA
+                                                                RY COLUMN(S)
+ DSNXOCF              PI68224              UI40938              AN INCORRECT OUTPUT  2016-09-22           2
+                                                                ISSUED FOR A QUERY W
+                                                                ITH CAST DECIMAL INP
+                                                                UT  VALUES WHEN BIF_
+                                                                COMPATIBILITY IS SET
+                                                                 AS V9_TRIM
+ DSNXOCLP             PI30015              UI28270              INCORROUT - NULLS RE 2015-06-04           2
+                                                                TURNED FOR SOME COLU
+                                                                MNS - FOR QUERY WITH
+                                                                    LEFT OUTER JOIN
+                                                                (LOJ) IN THE ACCESS
+                                                                PATH
+ DSNXOCLP             PI48114              UI33419              INCORROUT WITH OUTER 2015-12-01           3
+                                                                 JOIN AND A SORT OF
+                                                                A NOT NULL PREDICATE
+ DSNXOCMP             PI56825              UI36583              A POSSIBLE DB2 SYSTE 2016-03-30           1
+                                                                M CRASH DURING DB2 S
+                                                                USPEND RESUME PROCES
+                                                                S   DUE TO A MASSIVE
+                                                                 OVERLAY FROM BAD CA
+                                                                TALOG STATISTICS
+ DSNXOCNR             PI59295              UI39320              ABEND04E RC00E72018  2016-07-13           3
+                                                                IN DSNXSBUC FOR THE
+                                                                SQL STATEMENT CONTAI
+                                                                NS  GROUP BY AND REF
+                                                                ERS MULTIPLE CTE WHI
+                                                                CH CONTAINS OUTER JO
+                                                                IN
+ DSNXOCSC             PI17868              UI19744              AN OUT OF ORDER INCO 2014-07-19           1
+                                                                RRECT OUTPUT UNEXPEC
+                                                                TEDLY ISSUED FOR A Q
+                                                                UERYWITH AN ORDER BY
+                                                                 CLAUSE AND ACCESS P
+                                                                ATH TYPE OF "N" OR "
+                                                                IN"
+ DSNXOCSC             PI68927              UI41955              INCORROUT COUNT OFF  2016-10-25           3
+                                                                BY 1 WHEN COMPARING
+                                                                A DATE TO A CHAR(10)
+ DSNXOCSN             PI62713              UI41090              INCORROUT WITH SQLST 2016-09-27           3
+                                                                ATE 01003 OCCURRED F
+                                                                OR A QUERY WITH LEFT
+                                                                    OUTER JOIN AND O
+                                                                RDER BY AND ALSO RUN
+                                                                NING WITH SORT MERGE
+                                                                 JOIN
+ DSNXOD0              PI21188              UI20685              DB2 10 FOR Z/OS NEW  2014-08-20           3
+                                                                FUNCTION
+ DSNXOD1              PI56864              UI35826              LOOP IN DSNXOD1  UI1 2016-03-03           2
+                                                                8163 OFFSET3532 FOR
+                                                                EXPLAIN STATEMENT, W
+                                                                ITH COMPLEX QUERY, T
+                                                                HAT INVOLVES INNER J
+                                                                OIN
+ DSNXODML             PI14368              UI19207              MULTIPLE FIXES ON DB 2014-06-27           3
+                                                                2 FOR Z/OS RUNNING W
+                                                                ITH AN ACCELERATOR
+ DSNXODML             PI20247              UI20000              WHEN SUBSYSTEM PARAM 2014-07-26           3
+                                                                ETER ACCELMODEL = YE
+                                                                S, A BIND OR REBIND
+                                                                WITHQUERYACCELERATIO
+                                                                N DOES NOT BIND A ST
+                                                                ATIC QUERY FOR ACCEL
+                                                                ERATION
+ DSNXODML             PI29894              UI26764              MULTIPLE FIXES FOR Q 2015-04-16           3
+                                                                UERY ACCELERATION
+ DSNXODML             PI55686              UI36854              A QUERY WITH AN ACCE 2016-04-07           3
+                                                                LERATOR ONLY TABLE E
+                                                                XECUTES ON AN
+                                                                    ACCELERATOR WHEN
+                                                                 ACCELMODEL=YES AND
+                                                                ACCELERATION=NONE
+ DSNXODSO             PI22417              UI22175              SQLCODE433 INCONSIST 2014-10-15           2
+                                                                ENCY IN TRUNCATION B
+                                                                EHAVIOR BETWEEN
+                                                                    AGV AND AV(GLOBA
+                                                                L VARIABLES).
+ DSNXOEXF             PI21874              UI21118              POSSTR FUNCTION RETU 2014-09-05           3
+                                                                RNING INCORRECT RESU
+                                                                LT WHEN USED IN SQL
+                                                                    PL AND SECOND AR
+                                                                GUMENT IS BLOB DATA
+                                                                TYPE
+ DSNXOGBE             PI25969              UI25035              INCORROUT FOR SELECT 2015-02-10           3
+                                                                 COLUMNS IN AGGREGAT
+                                                                E FUNCTIONS BY
+                                                                    INDEXONLY SQLACC
+                                                                ESSPATH WITH SQLGROU
+                                                                PBY
+ DSNXOGBM             PI15740              UI22717              INCORROUT DUPLICATED 2014-11-04           3
+                                                                 RECORDS RETURNED FO
+                                                                R QUERY WITH
+                                                                    SQLACCESSPATH OF
+                                                                 RANGELIST
+ DSNXOGD              PI68922              UI41374              SQLCODE420 IS INCORR 2016-10-04           2
+                                                                ECTLY ISSUED WHEN A
+                                                                NATIVE STORED PROCED
+                                                                URE UPDATES A COLUMN
+                                                                 THAT HAS A FIELDPRO
+                                                                C
+ DSNXOGPS             PI58411              UI38738              INCORROUT CAN OCCUR  2016-06-17           2
+                                                                FOR AN UPDATE QUERY
+                                                                USING TEMPORAL TABLE
+                                                                S.
+ DSNXOGPS             PI68050              UI41341              THE PRESENCE OF AN I 2016-10-01           2
+                                                                DENTITY OR ROWID COL
+                                                                UMN IN THE ORDER BY
+                                                                OF AUPDATE CURSOR RE
+                                                                SULTED IN A -126
+ DSNXOIN              PI20688              UI20151              QUERY CONTAINING VAR 2014-08-01           3
+                                                                CHAR FUNCTION WITH A
+                                                                 FOR BIT DATA COLUMN
+                                                                 ANDOCTETS MAY GET I
+                                                                NCORROUT: QUERY WITH
+                                                                 TIMESTAMP PRECISION
+                                                                =9 FAILS
+ DSNXOJW              PI47952              UI33440              INCORROUT FOR INSERT 2015-12-02           3
+                                                                 WITH SUBQUERY WHICH
+                                                                 USE INNER JOIN, LES
+                                                                S   ROWS WERE INSERT
+                                                                ED
+ DSNXOLCM             PI22946              UI21710              SQLINCORROUT NO ROW  2014-09-26           2
+                                                                FOUND WHEN SUBQUERY
+                                                                REFERS CGTT AND HAS
+                                                                SET FUNCTION WITH GR
+                                                                OUP BY CLAUSE RUNNIN
+                                                                G IN PARALLELISM MOD
+                                                                E
+ DSNXOLDL             PI44999              UI31223              INCORRECT VALUES RET 2015-09-18           2
+                                                                URNED FOR THE SUM FU
+                                                                NCTION IN A QUERY WI
+                                                                TH  INLIST AND GROUP
+                                                                BY WHEN PARALLELISM
+                                                                IS ENABLED
+ DSNXOLFQ             PI58436              UI36943              INCORROUT WITH SQLPA 2016-04-12           1
+                                                                RALLELISM AND CONCEN
+                                                                TRATE STATEMENTS WIT
+                                                                H   LITERALS CLAUSE.
+ DSNXOMEX             PI38584              UI28096              ABEND0C7 RC00000000  2015-06-01           3
+                                                                DSNXRDTF OFFSET4192
+                                                                DURING DATETIME
+                                                                    ARITHMETIC IN NA
+                                                                TIVE SQLPL
+ DSNXOMS              PI23868              UI21304              INCORROUT WITH SQLLE 2014-09-13           2
+                                                                FTJOIN AND SQLFFNR
+ DSNXONZA             PI22945              UI21946              QUERY CONTAINING THE 2014-10-03           3
+                                                                 TIME FUNCTION MAY G
+                                                                ET INCORROUT
+ DSNXONZC             PI47361              UI31023              QUERY WITH COL1 IS N 2015-09-11           2
+                                                                OT DISTINCT FROM COL
+                                                                2 CAN RETURN INCORRE
+                                                                CT  RESULT IF COL1 &
+                                                                 COL2 ARE NULL AND Q
+                                                                UERY IS OFFLOADED
+ DSNXONZQ             PI51547              UI33719              DEFECT IN BIF_COMPAT 2015-12-12           2
+                                                                IBILITY=DECIMAL_V9_V
+                                                                ARCHAR FOR A
+                                                                    CAST(<DECIMAL> A
+                                                                S VARCHAR(N)) FOR QU
+                                                                ERY ACCELERATION IN
+                                                                IDAA
+ DSNXONZQ             PI59522              UI37465              ACCELERATOR OFFLOADI 2016-05-03           3
+                                                                NG ERROR FOR QUERIES
+                                                                 REFERENCING A VIEW
+                                                                    WHICH SPECIFIES
+                                                                DATE CONSTANTS FORMA
+                                                                T (E.G. ISO, JIS, ET
+                                                                C.)
+ DSNXONZS             PI29176              UI23690              QUERY CONTAINING THE 2014-12-06           3
+                                                                 TIME FUNCTION MAY R
+                                                                ETURN -904 WHEN
+                                                                    EXECUTED ON AN A
+                                                                CCELERATOR
+                                                                       14/11/06 PTF
+                                                                PECHANGE
+ DSNXOOP              PI35715              UI26188              INCORROUT AFTER OR A 2015-03-24           2
+                                                                BEND04E RC00E70005 D
+                                                                SNXGMVE M628 DURING
+                                                                    REBIND WITH EXPL
+                                                                AIN YES AND DEPRECAT
+                                                                ED FORMAT EXPLAIN TA
+                                                                BLES
+ DSNXOP0              PI62094              UI39109              INCORROUT(LESS COLUM 2016-07-02           4
+                                                                N RETURNED) WHEN SEL
+                                                                ECT * ON A TABLE
+                                                                    EXPRESSION WITH
+                                                                UNPACK
+ DSNXOPCO             PI43940              UI29749              INCORRECT CALCULATIO 2015-07-28           2
+                                                                N RELATING TO COST S
+                                                                TORAGE POOL CAUSED
+                                                                    OVERLAYS IN DB2
+                                                                CONTROL BLOCKS WHICH
+                                                                 LED TO VARIOUS ABEN
+                                                                DS
+ DSNXOPG2             PI26227              UI22684              INCORROUT MISSING RO 2014-11-01           3
+                                                                WS OR NO ROWS RETURN
+                                                                ED WHEN PREDICATE CO
+                                                                L1  IS NULL IS USED
+                                                                AND COL1 IS A LIMIT
+                                                                KEY
+ DSNXOPG2             PI31707              UI25960              INCORROUT WITH CREAT 2015-03-16           3
+                                                                E FUNCTION (SQL TABL
+                                                                E)
+                                                                    USING DEF ENCODI
+                                                                NG SCHEME OF EBCDIC
+ DSNXOPPD             PI56056              UI35552              INCORROUT (less rows 2016-02-23           1
+                                                                 returned) when a qu
+                                                                ery has JOIN predica
+                                                                te, combination of A
+                                                                ND/OR predicates and
+                                                                 multiple SUBSTR fun
+                                                                ctions
+ DSNXORMQ             PI24616              UI22407              INCORROUT OCCURS WHE 2014-10-23           2
+                                                                N USING SQLTABLEUDF
+                                                                WITH CHAR INPUT
+                                                                    PARAMETER
+ DSNXORSO             PI16442              UI18957              UNPREDICTABLE RESULT 2014-06-19           3
+                                                                S CAN OCCUR IF THE W
+                                                                HEN CLAUSE OF A BEFO
+                                                                RE  OR AFTER TRIGGER
+                                                                 REFERENCES THE TRIG
+                                                                GERING TABLE COLUMN
+                                                                NAME
+ DSNXOSCF             PI22916              UI22699              INCORRECT OUTPUT CAN 2014-11-01           3
+                                                                 OCCUR WHEN USING TH
+                                                                E UNPACK FUNCTION
+                                                                    WITH PARALLELISM
+ DSNXOSOB             PI42542              UI30923              INCORROUT (NO ROWS R 2015-09-09           3
+                                                                ETURNED) WHEN SELECT
+                                                                ING FROM UNICODE TAB
+                                                                LE  WITH UNION AND L
+                                                                IKE PREDICATE
+ DSNXOSRL             PI30138              UI23743              INCORROUT OF DUPLICA 2014-12-10           2
+                                                                TED ROWS FOR QUERY U
+                                                                SING TWO RANGES WHIC
+                                                                H   CONTAIN AN OVERL
+                                                                AP
+ DSNXOST              PI33252              UI25616              INCORROUT WITH A STA 2015-03-05           2
+                                                                TICALLY BOUND FOR UP
+                                                                DATE CURSOR
+                                                                    USING A SCALAR F
+                                                                UNCTION
+ DSNXOTDA             PI55886              UI36990              UNEXPECTED COLUMN DS 2016-04-14           3
+                                                                NORDBYCOL0002 IS RET
+                                                                URNED IN THE RESULT
+                                                                    TABLE
+ DSNXOTF              PI34271              UI26665              INCORROUT WHEN USING 2015-04-10           2
+                                                                 UNION AND FIELDPROC
+ DSNXOTS1             PI63030              UI40690              INCORRECT COUNT DIST 2016-09-08           3
+                                                                INCT VALUE RETURNED
+                                                                WHEN THE QUERY IS
+                                                                    RUNNING WITH PAR
+                                                                ALLELISM
+ DSNXOV0              PI15409              UI18603              ABEND04E RC00E70005  2014-06-06           3
+                                                                ISSUED AT DSNXOEXC M
+                                                                200 WHEN PREPARING A
+                                                                 SQLSTATMENT WITH A
+                                                                TABLE UDF
+ DSNXOXED             PI46417              UI32613              INCORRECT OUTPUT WIT 2015-11-04           3
+                                                                H MQT with SET FUNCT
+                                                                ION CONTAINING DISTI
+                                                                NCT KEYWORD
+ DSNXOXRW             PI66401              UI42185              POOR PERF FOR XMLTAB 2016-11-01           2
+                                                                LE FUNCTION WITH PRE
+                                                                DICATE BEING PUSHED
+                                                                    INSIDE XPATH PRO
+                                                                DUCES LOOSE HIGH KEY
+                                                                 VALUE FOR INDEX SEA
+                                                                RCH
+ DSNXOYCS             PI33337              UI25987              ABEND04E RC00E2000C  2015-03-18           2
+                                                                ISSUED AT DSNXOYP1 D
+                                                                SNSVSVB +0B06 OFFSET
+                                                                0B06WHEN SETTING A P
+                                                                ATH FOR A SQLPL APPL
+                                                                ICATION
+ DSNXOYPL             PI30645              UI24723              Duplicate division f 2015-01-29           2
+                                                                or length of vargrap
+                                                                hic sql var
+ DSNXOYPL             PI42599              UI29374              INCORROUT FROM A UDF 2015-07-14           3
+                                                                 THAT USES XML AFTER
+                                                                 A BIND DEPLOY FROM
+                                                                THE SYSTEM WHERE IT
+                                                                WAS CREATED
+ DSNXQRWC             PI63825              UI39992              INCORROUT FOR A QUER 2016-08-10           2
+                                                                Y OF AN XMLTABLE JOI
+                                                                NED WITH A BASE TABL
+                                                                E
+ DSNXRBI9             PI21119              UI21335              ABEND04E RC00E70005  2014-09-13           2
+                                                                AT DSNXRRP M700
+ DSNXRBN9             PI64953              UI41118              AFTER UPDATE WITH CA 2016-09-27           3
+                                                                SE ELSE NULL, INCORR
+                                                                ECT OUTPUT OCCURS ON
+                                                                 A  SELECT COUNT(*)
+                                                                ON INDEX WITH UNICOD
+                                                                E TABLE
+ DSNXRCF9             PI56650              UI37163              INCORROUT OCCURS WHE 2016-04-21           3
+                                                                N NOT CHECKING NULLA
+                                                                BILITY BEFORE
+                                                                    REFERENCING NULL
+                                                                 BYTE
+ DSNXRCLS             PI16746              UI19116              INCORROUT FOR A QUER 2014-06-25           3
+                                                                Y WITH AN OUTER JOIN
+                                                                 WITH A CORRELATED
+                                                                    SUBQUERY CONTAIN
+                                                                ING FETCH FIRST N RO
+                                                                WS CLAUSE
+ DSNXRCLS             PI45152              UI32493              INCORROUT FOR A QUER 2015-10-29           3
+                                                                Y USING HYBRID JOIN
+                                                                AND CONTAINING FETCH
+                                                                    FIRST N ROWS CLA
+                                                                USE
+                                                                       15/08/14 PTF
+                                                                PECHANGE
+ DSNXRCSF             PI31068              UI25277              AN INCORRECT RESULT  2015-02-19           3
+                                                                OR AN ABEND CAN OCCU
+                                                                R WHEN REFERENCING
+                                                                    THE NULL BYTE WH
+                                                                EN THE DATA IS DEFIN
+                                                                ED AS NOT NULL.
+ DSNXRCTC             PI29113              UI24463              INCORROUT OR ABEND I 2015-01-17           3
+                                                                N DSNXGRDS.DSNXRTIM:
+                                                                P047 WHEN MISSING
+                                                                    TIMESTAMP PRECIS
+                                                                ION CHECKING IN DSNX
+                                                                RCTC.
+ DSNXRDB9             PI48100              UI32273              ABEND0C4 DSNXROUA AB 2015-10-22           2
+                                                                END04E RC00C90101 IN
+                                                                 DSNGEFLC DSNGEPIS
+                                                                    AND OTHER ABENDS
+                                                                 WITH PRE-V8 PACKAGE
+                                                                 AND PTF UI21416 APP
+                                                                LIED
+ DSNXRDE9             PI52457              UI33872              INCORROUT SQLROUND R 2015-12-17           2
+                                                                OUND WITH NUMERIC-EX
+                                                                PRESSION-2 CAST(
+                                                                    -2147483648 AS I
+                                                                NTEGER )
+ DSNXRDOU             PI17646              UI18623              INCORROUT FOR A NEGA 2014-06-06           3
+                                                                TIVE RESULT FROM FLO
+                                                                ATING POINT SUBTRACT
+                                                                ION
+ DSNXRDOU             PI31888              UI25013              INCORROUT OCCURS WHE 2015-02-07           3
+                                                                N RESULT OF SQUARE R
+                                                                OOT IS ZERO.
+ DSNXRDT9             PI32640              UI25614              SEVERAL ISSUES WHEN  2015-03-05           3
+                                                                QUERY DOES NOT CHECK
+                                                                 NULLABILITY BEFORE
+                                                                    CHECKING NULL BY
+                                                                TE
+ DSNXRECP             PI64741              UI39892              INCORROUT (MORE ROWS 2016-08-05           3
+                                                                 RETURNED) ON QUERY
+                                                                USING EXCEPT SET
+                                                                    OPERATOR
+ DSNXRFF9             PI42457              UI31213              SQLINCORROUT LESS RO 2015-09-17           3
+                                                                W RETURNED WHEN QUER
+                                                                Y CONTAINS FULL OUTE
+                                                                R   JOIN AND MULTIPL
+                                                                E ROW FETCH ROWSET
+ DSNXRGB9             PI21897              UI22764              INCORRECT OUTPUT MAY 2014-11-05           4
+                                                                 BE RETURNED FOR A Q
+                                                                UERY WITH THE COUNT
+                                                                    FUNCTION AND HAV
+                                                                ING CLAUSE AND NO RO
+                                                                WS QUALIFY FOR THE R
+                                                                ESULT
+ DSNXRGB9             PI41022              UI31030              AFTER APPLYING PI218 2015-09-11           3
+                                                                97 ABEND0C7 RC000000
+                                                                00 DSNXRDEC OFFSET59
+                                                                BC  HAPPENED WHEN A
+                                                                QUERY HAS A HAVING C
+                                                                LAUSE WITH SET FUNCT
+                                                                ION
+ DSNXRGB9             PI66189              UI40538              INCORROUT OR ABEND0C 2016-09-01           2
+                                                                7 DSNXRDEC OFFSET5B5
+                                                                4 WITH HYBRID JOIN
+ DSNXRIB9             PI32145              UI25461              ABEND0C4 DSNOGETD +2 2015-02-26           2
+                                                                926
+ DSNXRID9             PI44891              UI32486              ABEND04E RC00C90101  2015-10-29           2
+                                                                AT DSNOMAPX ERQUAL50
+                                                                0A DUE TO INVALID NE
+                                                                XT  LOB MAP PAGE POI
+                                                                NTER
+ DSNXRIG9             PI55555              UI35633              DSN_STATEMNT_TABLE P 2016-02-25           3
+                                                                ROCMS AND PROCSU VAL
+                                                                UES FOR EXPLAIN OF C
+                                                                GTT
+ DSNXRIHR             PI15739              UI19024              INSERT TO A TABLE BY 2014-06-21           3
+                                                                 THREE PART NAME FOR
+                                                                 DOUBLE COLUMN GOT W
+                                                                RONGVALUE INSERTED T
+                                                                HROUGH T2 DRIVER
+ DSNXRINT             PI18837              UI19257              INCORRECT OUTPUT WIT 2014-07-01           2
+                                                                H ROUND AND BIGINT R
+                                                                OUND BUILD IN FUNCTI
+                                                                ON
+ DSNXRITV             PI59986              UI39952              NULL BYTE NON-INITIA 2016-08-09           3
+                                                                LIZE FOR TIMESTAMP W
+                                                                ITH TIME ZONE TARGET
+ DSNXRIW9             PI54417              UI37009              INCORROUT FOR SELECT 2016-04-13           3
+                                                                 WITH NESTED INSERT
+                                                                AFTER SELF REFERENCI
+                                                                NG  FOREIGN KEY IS C
+                                                                REATED
+ DSNXROJL             PI42446              UI29251              ABEND04E RC00E70005  2015-07-10           4
+                                                                DSNXRRP M700 WHEN A
+                                                                QUERY INVOLVING
+                                                                    LEFT OUTER JOIN
+                                                                AND LIMITED BLOCK FE
+                                                                TCH (DISTRIBUTED)
+ DSNXRS39             PI27493              UI23741              SQLCODE331 ISSUED WH 2014-12-10           2
+                                                                EN LPAD FUNCTION HAS
+                                                                 EMPTY STRING FOR PA
+                                                                D   AND DATA TYPE VA
+                                                                RGRAPHIC FOR STRING-
+                                                                EXPRESSION
+ DSNXRSP9             PI67767              UI41910              IFCID 55 CONTAINS AN 2016-10-22           2
+                                                                 INCORRECT VALUE FOR
+                                                                 QW0055NI_OFF
+ DSNXRSPG             PI37511              UI29402              PROBLEM(S) CAUSED BY 2015-07-15           3
+                                                                 NOT CHECKING NULLAB
+                                                                ILITY BEFORE REFEREN
+                                                                CINGNULL BYTE.
+ DSNXSFPR             PI41431              UI28342              ABEND04E RC00E2000C  2015-06-10           2
+                                                                AT DSNGDCOB DSNSVSVB
+                                                                 OFFSET0AD8 WHEN
+                                                                    PARTITIONING RID
+                                                                MAP INTO WORKFILES W
+                                                                ITH PARALLELISM
+ DSNXSMRE             PI22380              UI21235              ABND=04E-00E2000F AT 2014-09-11           2
+                                                                 DSNXECL .DSNSVSFB+0
+                                                                8EA
+ DSNXSMRE             PI38592              UI27289              INTERMITTENT INCORRO 2015-05-02           2
+                                                                UT FOR A QUERY WITH
+                                                                SUM BIF ,
+                                                                    SPARSE INDEX ,
+                                                                AND SORT
+ DSNXSMRE             PI48811              UI33133              A POSSIBLE STORAGE L 2015-11-20           2
+                                                                EAK WHEN BINDING, RE
+                                                                BINDING OR PREPARING
+                                                                 A  SQL STATEMENT WI
+                                                                TH SPARSE INDEX
+ DSNXVCFD             PI50989              UI33455              INCORRECT VALUES RET 2015-12-02           3
+                                                                URNED FROM ROUND FUN
+                                                                CTION ON FLOAT DATA
+
+

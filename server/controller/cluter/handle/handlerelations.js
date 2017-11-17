@@ -1,8 +1,6 @@
 'use strict';
 var getuserrelation = require('./getrelation').getuserrelation;
 var getallrelation = require('./getrelation').getallrelation;
-var async = require('async');
-var db = require('../db2/db2pool');
 var getallhiperapar = function (module, release, callbackall) {
 
   getuserrelation(module, release, function (data) {

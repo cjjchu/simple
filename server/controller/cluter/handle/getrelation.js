@@ -1,6 +1,5 @@
 'use strict';
 var db=require('../db2/db2pool');
-
 var getuserrelation = function(meplitem, release, callback) {
   db.pool.open(db.cn, function(err, connection) {
     if (err) {

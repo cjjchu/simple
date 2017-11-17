@@ -1,5 +1,4 @@
   'use strict';
-
   /**
    * @ignore  =====================================================================================
    * @file account register and login
@@ -15,8 +14,9 @@
   // const loopback = require('loopback');
   const co = require('co');
   const _ = require('lodash');
-  const logger = require('../utils/logHelper').helper;
-  const errorHelper = require('../utils/errorHelper').helper;
+  const logger = require('../../server/utils/logHelper').helper;
+  const errorHelper = require('../../server/utils/logHelper').helper;
+  console.log("__dirname:"+__dirname)
   // const passport = require('passport');
 
   module.exports = (Account) => {
