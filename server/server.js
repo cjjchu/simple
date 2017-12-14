@@ -9,8 +9,6 @@ var session = require('express-session');
 var app = module.exports = loopback();
 var log4js = require('log4js');
 
-var multipart = require('connect-multiparty');
-
 // configure view handler
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'public/views'));
@@ -21,7 +19,6 @@ app.set('views', path.join(__dirname, 'public/views'));
 var log = require('log4js').getLogger('server');
 app.use(log4js.connectLogger(log4js.getLogger('http'), {level: 'auto'}));
 // =======log end======================
-
 
 app.use(session({secret: 'simple'}));
 app.use(cookieParser('simple'));
@@ -41,7 +38,6 @@ app.get('/log', function(req, res) {
   res.end('log');
 });
 
-
 require('./routes/routes')(app);
 
 app.start = function() {
@@ -51,7 +47,7 @@ app.start = function() {
     var baseUrl = app.get('url').replace(/\/$/, '');
     if (app.get('loopback-component-explorer')) {
       var explorerPath = app.get('loopback-component-explorer').mountPath;
-       console.log('Browse your REST API at %s%s', baseUrl, explorerPath);
+      console.log('Browse your REST API at %s%s', baseUrl, explorerPath);
     }
   });
 };
@@ -62,7 +58,7 @@ boot(app, __dirname, function(err) {
   if (require.main === module)
     app.start();
 });
-process.on('uncaughtException', function (err){
-  console.error('uncaughtException: %s', err.message,err.track);
+process.on('uncaughtException', function(err) {
+  console.error('uncaughtException: %s', err.message, err.track);
 });
 

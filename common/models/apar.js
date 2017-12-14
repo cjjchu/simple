@@ -18,7 +18,7 @@ const logger = require('../../server/utils/logHelper').helper;
 const errorHelper = require('../../server/utils/logHelper').helper;
 
 module.exports = (Apar) => {
-  Apar.disableRemoteMethod('find', true);
+  Apar.disableRemoteMethodByName('find')
   Apar.disableRemoteMethod('findById', true);
   Apar.disableRemoteMethod('findOne', true);
 
@@ -109,9 +109,9 @@ module.exports = (Apar) => {
    */
 
   Apar.findByAparId_v1 = (aparId, req, cb) => {
-    // console.log(req.user);
+    console.log(aparId)
+    req.user={"id":'34'};
     const userId = req.user.id;
-
     const reUserId = /^\d+$/;
     const reAparId = /^P[A-Z]\d{5}$/;
 

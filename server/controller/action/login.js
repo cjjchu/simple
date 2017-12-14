@@ -11,13 +11,17 @@
    var RoleMapping = app.models.RoleMapping;
    var AccessToken = app.models.AccessToken;
    var TWO_WEEKS = 60 * 60 * 24 * 7 * 2;
-   console.log("login:"+req.body.email+'password:'+req.body.password);
+   console.log('login:' + req.body.email + 'password:' + req.body.password);
    Luser.login({
      email: req.body.email,
      password: req.body.password,
      ttl: TWO_WEEKS,
    }, 'Luser', function(err, token) {
-     console.log('token:'+token);
+     console.log('token:' + token);
+     req.session.cookie.user={'id': '123'};
+     req.session.user={'id': '123'};
+     console.log(req.session.user.id)
+
  //   var accessToken=token;
     // console.log(accessToken.id);      // => GOkZRwg... the access token
     // console.log(accessToken.ttl);     // => 1209600 time to live

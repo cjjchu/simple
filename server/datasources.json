@@ -2,7 +2,7 @@
   "db": {
     "name": "db",
     "connector": "memory",
-    "file": "../data.json"
+    "file": "./data.json"
   },
   "db2": {
     "port": 50000,
@@ -27,5 +27,14 @@
     "database": "simple",
     "name": "mongodb",
     "connector": "mongodb"
+  },
+  "dashdb_t": {
+    "hostname": "9.111.213.249",
+    "port": 50001,
+    "database": "bludb",
+    "username": "bluadmin",
+    "password": "IBM33ibm ",
+    "name": "mydashdb",
+    "connector": "db2"
   }
 }

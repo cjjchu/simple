@@ -27,8 +27,8 @@ var coun=0;
 // var ars=[1,1]
 // ars.push(1,1,1,1)
 // console.log(ars)
-console.log(arr.length)
-for(let i in arr){
-  console.log(arr[i])
-  console.log(i)
-}
+// console.log(arr.length)
+// for(let i in arr){
+//   console.log(arr[i])
+//   console.log(i)
+// }

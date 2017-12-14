@@ -51,79 +51,79 @@
     "public": true
   },
   "Wish": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": true
   },
   "Notice": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": true
   },
   "UserNotice": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "Relation": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "Apar": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": true
   },
   "Ptf": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "Pe": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "Mepl": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "MeplItem": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "Fix": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "Comment": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": true
   },
   "App": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "Install": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": true
   },
   "Notify": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "push": {
-    "dataSource": "push",
+    "dataSource": "dashdb_t",
     "public": true
   },
   "Tag": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "AparTag": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "UserTag": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": false
   },
   "Search": {
-    "dataSource": "mongodb",
+    "dataSource": "dashdb_t",
     "public": true
   }
 }

@@ -11,19 +11,6 @@ function controlle(meplid, release, calllbackall) {
 
   getmeplitems(meplid, function (meplitems) {
     console.log("mepl number:"+meplitems.length)
-    // meplitems.forEach(function(element,index,as){
-    //  if( element.PTFID==null){
-    //    console.log(c++)
-    //    element.PTFID="111";
-    //    // element.MODULE="abc";
-    //  }
-    // })
-    // console.log(meplitems.length)
-    //
-    // meplitems=fs.readFileSync('./mdptf.json','utf8')
-    // meplitems=JSON.parse(meplitems)
-    // console.log(meplitems.length)
-
 
     fs.writeFile('./meplitems.json', JSON.stringify(meplitems), function (err, data) {
     })
@@ -58,8 +45,13 @@ function getHiper(meplid, release, callbackall) {
     if (data == null || data.length == 0) {
       callbackall('No such data found')
     } else {
+      console.log("same data length:"+data.length)
+
       readptfsame(data, function (data1) {
         callbackall(null, data1);
+        fs.writeFile('.hiper.json',JSON.stringify(data1),function (err,data) {
+
+        })
         console.log('hiper number:' + data1.length);
 
       })
@@ -75,7 +67,7 @@ function getHiper(meplid, release, callbackall) {
 }
 
 //测试对外接口
-// let meplid='5815';
+// let meplid='5888';
 // let release='A'
 // getHiper(meplid,release,function (err,data) {
 //   if(err){console.log(err);return}

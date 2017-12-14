@@ -78,8 +78,119 @@ const fs = require('fs');
 // });
 // console.log(r)
 
-let st = 'PI85715';
-let reg=/[\s\[\]]/g;
-// let reg = /[\s\[\],:\.\*"]/g;
-let res1 = st.replace(reg, '');
-console.log(res1)
+// let st = 'PI85715';
+// let reg=/[\s\[\]]/g;
+// // let reg = /[\s\[\],:\.\*"]/g;
+// let res1 = st.replace(reg, '');
+// console.log(res1)
+// console.log(a > b);
+// console.log(a < b);
+//
+// function binarySearch(arr, key, f, l) {
+//   let mid = Math.floor((f + l) / 2);
+//   // console.log('  middle:' + mid + '  a[mid]:' + arr[mid] + '  f:' + f + '  l:' + l + '  key:' + key);
+//   // console.log(arr[mid] == k);
+//   if(f<l) {
+//     if (arr[mid] == key) {
+//       return mid;
+//     }
+//     if (arr[mid] < key) {
+//       return binarySearch(arr, key, mid + 1, l);
+//     } else {
+//       return binarySearch(arr, key, f, mid - 1)
+//     }
+//   }else {
+//     return null;
+//   }
+// }
+//
+// let arr = [1, 2, 3, 4, 65];
+// console.log(binarySearch(arr, 5, 0, arr.length - 1));
+//
+// function binarySearch(data, key, start, end) {
+//   var end = end || data.length - 1,
+//
+//     start = start || 0,
+//     m = Math.floor((start + end) / 2);
+//   if (data[m] == key) {
+//     return m;
+//   }
+//   if (key < data[m]) {
+//     return binarySearch(data, key, 0, m - 1);
+//   } else {
+//     return binarySearch(data, key, m + 1, end);
+//   }
+//
+//   return false;
+// }
+// var arr = [-34, 1, 3, 4, 5, 8, 34, 45, 65, 87];
+// let r = binarySearch(arr, 4);
+// console.log(r);
+
+// function binarySearch(data, key){
+//   var h = data.length - 1,
+//     l = 0;
+//   while(l <= h){
+//     var m = Math.floor((h + l) / 2);
+//     if(data[m] == key){
+//       return m;
+//     }
+//     if(key > data[m]){
+//       l = m + 1;
+//     }else{
+//       h = m - 1;
+//     }
+//   }
+//   return false;
+// }
+var arr = [9, -34, 1, 3, 4, 5, 8, 34, 45, 65, 87];
+//      let r=binarySearch(arr,4);
+// console.log(r)
+// function abc(callback) {
+//   let i = 0;
+//   let j = 0;
+//   while (j < 3) {
+//     while (true) {
+//       console.log('i:' + i);
+//       i++;
+//       if (i === 3) {
+//       break;
+//         console.log('@@')
+//
+//       }
+//     }
+//     j++;
+//     i = 0;
+//     console.log('=====j:' + j);
+//   }
+// }
+//
+// abc(function(data) {
+//   console.log('done');
+// });
+// function sortNumber(a,b)
+// {
+//   return a - b
+// }
+// arr.sort(sortBy('number',false))
+// console.log(arr.sort(function (a,b) {
+//   return a-b;
+// }))
+
+function abc(callback) {
+  for (let i = 0; i < 10; i++) {
+    console.log('i:'+i)
+    for (let j = 0; j < 100; j++) {
+      if (j == 98) {
+        console.log(i + '-' + j);
+        callback('123')
+        return;
+        console.log('test');
+      }
+    }
+
+  }
+}
+// abc(function (data) {
+//   console.log(data)
+// });

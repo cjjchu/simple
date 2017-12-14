@@ -1,46 +1,31 @@
-// var Client = require('ftp');
-// var fs = require('fs');
-// var c = new Client();
-//
-// // c.on('greeting',function (msg) {
-// //   console.log(msg)
-// // })
-// //
-// // c.on('ready', function() {
-// //   c.list(function(err, list) {
-// //     if (err) throw err;
-// //    // console.dir(list);
-// //     console.log(list);
-// //     c.get('README', function(err, stream) {
-// //       if (err) { console.log(err); return; }
-// //       stream.once('close', function() {
-// //         c.end();
-// //       });
-// //       stream.pipe(fs.createWriteStream('./readme.txt'));
-// //     });
-// //   });
-// // });
-// // connect to localhost:21 as anonymous
-// c.connect({host: 'testcase.software.ibm.com'});
-//
-// c.on('ready', function() {
-//   c.list(function(err, list) {
-//   // console.log(list);
-//   });
-//   c.pwd(function(err, msg) {
-//     console.log('currdir:' + msg);
-//   });
-//   c.system(function(err, os) {
-//     console.log('os:' + os);
-//   });
-//   c.cwd('/fromibm', function(err, curr) {
-//     c.list(function(err, list) {
-//       console.log(list);
-//     });
-//   });
-//
-//   setTimeout(function() {
-//     c.end();
-//   }, 3000);
-// });
-//
+var Client = require('ftp');
+var fs = require('fs');
+var c = new Client();
+// c.connect({host: 'testcase.software.ibm.com', user: 'cjjchu@cn.ibm.com', password: 'ab323637'});
+c.connect({host: 'stlmvs1.svl.ibm.com', user: 'caomz', password: 'cmz45678'});
+
+c.on('ready', function() {
+  console.log('ftp server connect cuccess');
+  c.pwd(function(err, data) {
+    console.log(data);
+  });
+  c.cwd('..', function(err, data) {
+    c.pwd(function(err, data) {
+      console.log(data);
+      c.get('DB2DUMP.SIMPMOD.SPA.DATA', function(err, stream) {
+        console.log(JSON.stringify(stream));
+        console.log(err);
+        stream.on('close', function() {
+          c.end();
+           // res.end('download file in folder /server/public/file/');
+        });
+        stream.pipe(fs.createWriteStream('./testfile.txt'));
+      });
+    });
+  });
+  c.end();
+});
+
+c.on('end', function() {
+  console.log('ftp connection close');
+});

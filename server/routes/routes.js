@@ -5,11 +5,9 @@ var login = require('../controller/action/login');
 var  status = require('../controller/action/status');
 var ftp = require('../controller/action/ftpaction');
 var multipart = require('connect-multiparty');
-var multipartMiddleware = multipart({uploadDir:'./server/public/tmp'});
-
+var multipartMiddleware = multipart({uploadDir: './server/public/tmp'});
 
 module.exports = function(app) {
-
   var Luser = app.models.Luser;
   /*
   * ===================================
@@ -62,7 +60,18 @@ module.exports = function(app) {
   * ===================================
   * */
   app.use('/fileupload', multipartMiddleware, ftp.fromftp);
-  app.use('/ftpresult',ftp.listftp)
-  app.use('/downftp',ftp.down)
-  app.use('./ftpdelete',ftp.ftpdelete)
+  app.use('/ftpresult', ftp.listftp);
+  app.use('/downftp', ftp.down);
+  app.use('./ftpdelete', ftp.ftpdelete);
+
+  /*
+  //======================================
+             中间件
+  //======================================
+   */
+  app.use('/api/apars/v1/me', function(req, res, next) {
+    console.log('middleware working...')
+    req.user={"id":"123"};
+    next();
+  });
 };
