@@ -6,11 +6,13 @@ c.on('ready', function () {
   console.log('ftp server connect cuccess');
 
   c.list(function (err, list) {
-    list.forEach(ele, index, arr){
-      if(ele.type==='d'){
-        console.log(dir)
-      }
-    }
+
+   list.forEach(function (eles) {
+     if(eles.type==='d'){
+       console.log(eles)
+       // console.log(dir)
+     }
+   })
 
   })
 
