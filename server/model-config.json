@@ -1,0 +1,132 @@
+{
+  "_meta": {
+    "sources": [
+      "loopback/common/models",
+      "loopback/server/models",
+      "../common/models",
+      "./models"
+    ],
+    "mixins": [
+      "loopback/common/mixins",
+      "loopback/server/mixins",
+      "../common/mixins",
+      "./mixins"
+    ]
+  },
+  "AccessToken": {
+    "dataSource": "db",
+    "public": false
+  },
+  "Message": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Luser": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Hiper": {
+    "dataSource": "db",
+    "public": true
+  },
+  "User": {
+    "dataSource": "db",
+    "public": false
+  },
+  "ACL": {
+    "dataSource": "db",
+    "public": false
+  },
+  "RoleMapping": {
+    "dataSource": "db",
+    "public": false
+  },
+  "Role": {
+    "dataSource": "db",
+    "public": false
+  },
+  "Account": {
+    "dataSource": "db",
+    "public": true
+  },
+  "Wish": {
+    "dataSource": "db2_blue",
+    "public": true
+  },
+  "Notice": {
+    "dataSource": "db2_blue",
+    "public": true
+  },
+  "UserNotice": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "Relation": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "Apar": {
+    "dataSource": "db2_blue",
+    "public": true
+  },
+  "Ptf": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "Pe": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "Mepl": {
+    "dataSource": "db2_blue",
+    "public": true
+  },
+  "MeplItem": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "Fix": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "Comment": {
+    "dataSource": "db2_blue",
+    "public": true
+  },
+  "App": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "Install": {
+    "dataSource": "db2_blue",
+    "public": true
+  },
+  "Notify": {
+    "dataSource": "db",
+    "public": false
+  },
+  "push": {
+    "dataSource": "push",
+    "public": true
+  },
+  "Tag": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "AparTag": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "UserTag": {
+    "dataSource": "db2_blue",
+    "public": false
+  },
+  "Search": {
+    "dataSource": "db2_blue",
+    "public": true
+  },
+  "MPIresults": {
+    "dataSource": "db",
+    "public": true
+  }
+}
